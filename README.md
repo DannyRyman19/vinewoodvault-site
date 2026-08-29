@@ -17,10 +17,11 @@ The app links to `/privacy` and `/terms` from the paywall.
 
 ## DNS
 
-`CNAME` in this repo sets the custom domain. Add a DNS record on `djr.li`:
+`CNAME` in this repo sets the custom domain. Add a DNS record on the `djr.li`
+zone pointing at the GitHub Pages user host for the account that owns this repo:
 
 ```
-vinewoodvault  CNAME  rymand.github.io.
+vinewoodvault  CNAME  dannyryman19.github.io.
 ```
 
 ## Legal pages

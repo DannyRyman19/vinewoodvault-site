@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 :root {
-  --bg: #100D0A;
+  --bg: #000000;
   --bg-2: #1a1512;
   --raised: #282521;
   --text: #F2ECDD;
@@ -111,9 +111,6 @@ p { margin: 12px 0; }
   height: auto;
   display: block;
   margin: 0 auto;
-  /* the wordmark PNG has a soft dark glow around it; screen over the
-     near-black page drops it while keeping the white sign crisp */
-  mix-blend-mode: screen;
 }
 .hero .tag {
   color: var(--gold); font-size: 11px; letter-spacing: 4px;

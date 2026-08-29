@@ -42,7 +42,11 @@ header.site a.wordmark {
   text-decoration: none;
   font-size: 18px;
   text-shadow: 2px 2px 0 rgba(0,0,0,0.6);
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
 }
+header.site a.wordmark .mark { width: 22px; height: 22px; display: block; }
 header.site nav { margin-left: auto; display: flex; gap: 18px; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; }
 header.site nav a { color: var(--dim); text-decoration: none; }
 header.site nav a:hover { color: var(--text); }
@@ -103,11 +107,11 @@ p { margin: 12px 0; }
 /* ---- landing hero ---- */
 .hero { text-align: center; padding: 44px 0 8px; }
 .hero .v {
-  font-family: var(--display);
-  font-size: 96px;
-  line-height: 1;
-  color: var(--gold);
-  text-shadow: 5px 5px 0 rgba(0,0,0,0.5);
+  width: 220px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  filter: drop-shadow(5px 5px 0 rgba(0,0,0,0.45));
 }
 .hero .tag {
   color: var(--gold); font-size: 11px; letter-spacing: 4px;
@@ -140,6 +144,6 @@ footer a { color: var(--dim); }
 
 @media (max-width: 520px) {
   h1 { font-size: 32px; }
-  .hero .v { font-size: 76px; }
+  .hero .v { width: 170px; }
   header.site nav { gap: 12px; }
 }

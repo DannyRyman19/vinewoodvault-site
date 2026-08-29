@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <title>Vinewood V — transparent vector logo</title>
+  <desc>Bold white angular V with subtle light-gray communications structures and hillside details behind it.</desc>
+
+  <!-- Background structures: deliberately low contrast -->
+  <g id="background-structures"
+     fill="none" stroke="#C9C9C9" stroke-width="5"
+     stroke-linecap="round" stroke-linejoin="round" opacity="0.28">
+
+    <!-- Main communications tower -->
+    <path d="M500 150 L435 760 M500 150 L565 760"/>
+    <path d="M452 610 L548 610 M461 500 L539 500 M470 390 L530 390
+             M479 280 L521 280 M489 205 L511 205"/>
+    <path d="M435 760 L500 150 L565 760"/>
+    <path d="M448 665 L552 665 M442 720 L558 720"/>
+    <!-- tower lattice -->
+    <path d="M452 610 L539 500 M461 500 L530 390 M470 390 L521 280
+             M479 280 L511 205 M548 610 L461 500 M539 500 L470 390
+             M530 390 L479 280 M521 280 L489 205"/>
+
+    <!-- Antennas / dishes -->
+    <g stroke-width="4">
+      <path d="M468 335 L430 310"/>
+      <path d="M532 435 L575 405"/>
+      <path d="M487 250 L450 225"/>
+      <ellipse cx="418" cy="300" rx="25" ry="18"/>
+      <ellipse cx="591" cy="397" rx="28" ry="20"/>
+      <ellipse cx="438" cy="215" rx="21" ry="15"/>
+    </g>
+
+    <!-- Left support structure -->
+    <path d="M270 500 L245 825 M270 500 L295 825 M245 825 L295 825"/>
+    <path d="M250 760 L290 760 M253 690 L287 690 M258 620 L282 620 M263 550 L277 550"/>
+    <path d="M250 760 L287 690 M253 690 L282 620 M258 620 L277 550
+             M290 760 L253 690 M287 690 L258 620 M282 620 L263 550"/>
+
+    <!-- Right support structure -->
+    <path d="M720 550 L695 820 M720 550 L745 820 M695 820 L745 820"/>
+    <path d="M700 755 L740 755 M705 690 L735 690 M710 625 L730 625 M716 575 L724 575"/>
+    <path d="M700 755 L735 690 M705 690 L730 625 M710 625 L724 575
+             M740 755 L705 690 M735 690 L710 625 M730 625 L716 575"/>
+
+    <!-- Small utility platform -->
+    <path d="M620 600 L620 705 M680 600 L680 705 M610 705 L690 705"/>
+    <path d="M615 600 L685 600 L675 585 L625 585 Z"/>
+    <path d="M645 585 L645 550 M655 585 L655 550"/>
+    <ellipse cx="650" cy="540" rx="24" ry="16"/>
+  </g>
+
+  <!-- Subtle hillside / vegetation -->
+  <g id="hillside"
+     fill="none" stroke="#C9C9C9" stroke-width="6"
+     stroke-linecap="round" stroke-linejoin="round" opacity="0.22">
+    <path d="M120 815 C220 755 300 790 370 750
+             C450 705 515 735 585 690
+             C670 635 760 685 850 625
+             C900 595 935 605 970 590"/>
+    <path d="M90 870 C190 825 260 845 340 810
+             C430 770 505 805 600 760
+             C690 718 775 755 870 700"/>
+    <path d="M170 875 l-18 -35 m18 35 l18 -45 m-18 45 l0 -55"/>
+    <path d="M315 805 l-15 -35 m15 35 l20 -45 m-20 45 l0 -50"/>
+    <path d="M820 690 l-18 -38 m18 38 l20 -48 m-20 48 l0 -52"/>
+    <path d="M900 650 l-16 -35 m16 35 l19 -40 m-19 40 l0 -45"/>
+  </g>
+
+  <!-- Main V -->
+  <g id="v-logo" fill="#FFFFFF">
+    <path d="M300 285
+             L420 285
+             L500 650
+             L580 285
+             L700 285
+             L590 835
+             L410 835
+             Z"/>
+  </g>
+</svg>

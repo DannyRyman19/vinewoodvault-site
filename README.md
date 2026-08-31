@@ -26,7 +26,11 @@ vinewoodvault  CNAME  dannyryman19.github.io.
 
 ## Legal pages
 
-`privacy.html` and `terms.html` are drafts written for this app's actual
-behaviour (no accounts, no analytics, local-only progress, StoreKit purchases).
-Have them reviewed before the App Store submission and set the effective date /
-governing-law jurisdiction.
+`privacy.html` and `terms.html` are written for this app's actual behaviour
+(no accounts, no analytics, local-only progress, StoreKit purchases). Draft
+banners removed, "Last updated" set to 2026-08-31, governing law set to
+England and Wales. The subscription section in `terms.html` covers the
+App Store auto-renewal disclosures (billing period, auto-renew, how to
+cancel, prices shown at point of purchase, Apple Standard EULA link).
+Update the date and governing law if either changes; a legal review is still
+worth doing but nothing here blocks submission.

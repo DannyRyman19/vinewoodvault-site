@@ -1,5 +1,5 @@
 {
-  "version": 76,
+  "version": 97,
   "categories": [
     {
       "id": "missions",
@@ -32,7 +32,7 @@
       "symbol": "doc.text.fill",
       "colorHex": "D9A441",
       "verb": "collected",
-      "intro": "50 scraps of Beverly's stalker letters. All 50 are required for 100%."
+      "intro": "50 scraps of Beverly's stalker letters, all required for 100%. They appear after the mission Repossession, and any of the three protagonists can pick them up. Collecting all 50 unlocks the mission A Starlet in Vinewood for Franklin."
     },
     {
       "id": "stunt-jumps",
@@ -64,7 +64,7 @@
       "symbol": "drop.triangle.fill",
       "colorHex": "8FBF4F",
       "verb": "collected",
-      "intro": "30 underwater barrels, retrievable by submarine from the Sonar Collections Dock. Bonus content - not required for 100%."
+      "intro": "30 barrels of nuclear waste on the seabed. You collect them with the submarine that comes with the Sonar Collections Dock, a property that unlocks for $250,000 after The Merryweather Heist. Bonus content, not required for 100%. The dock also gives you a phone app in game that marks the barrels you still need, so cross-check it against these locations as you dive."
     },
     {
       "id": "monkey-mosaics",
@@ -112,7 +112,7 @@
       "symbol": "leaf.fill",
       "colorHex": "6FA86F",
       "verb": "eaten",
-      "intro": "27 peyote cacti scattered across San Andreas - eat one to transform into an animal for a while. Bonus content - not required for 100%."
+      "intro": "27 peyote cacti scattered across San Andreas - eat one to transform into an animal for a while. Bonus content - not required for 100%. If a plant is missing when you get there, a quick save and reload usually makes it appear."
     },
     {
       "id": "achievements",
@@ -240,6 +240,43 @@
       "colorHex": "C9A227",
       "verb": "earned",
       "intro": "GTA Online career Awards from Pause Menu > Stats > Awards. Rockstar rates most Bronze/Silver/Gold/Platinum on repeated performance; the \"one-time Platinum\" ones jump straight to Platinum the first time you clear them and are starred here. Earning 30 Platinum Awards unlocks the [Decorated](poi:achievement-decorated) trophy."
+    }
+  ],
+  "mapLabels": [
+    {
+      "name": "Los Santos",
+      "nx": 0.4953,
+      "ny": 0.775
+    },
+    {
+      "name": "Vinewood Hills",
+      "nx": 0.4288,
+      "ny": 0.6024
+    },
+    {
+      "name": "Vespucci Beach",
+      "nx": 0.328,
+      "ny": 0.774
+    },
+    {
+      "name": "Sandy Shores",
+      "nx": 0.6318,
+      "ny": 0.3804
+    },
+    {
+      "name": "Grapeseed",
+      "nx": 0.641,
+      "ny": 0.2846
+    },
+    {
+      "name": "Paleto Bay",
+      "nx": 0.4211,
+      "ny": 0.1449
+    },
+    {
+      "name": "Mount Chiliad",
+      "nx": 0.5051,
+      "ny": 0.2196
     }
   ],
   "pois": [
@@ -2382,7 +2419,8 @@
       "category": "epsilon-tracts",
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=40s",
       "region": "Mount Chiliad",
-      "note": "On the observation deck at the summit of Mount Chiliad - the first tract, waiting once the Epsilon Program missions are finished.",
+      "note": "On the observation deck at the summit of Mount Chiliad, the first tract, available once the Epsilon Program missions are finished.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-01.jpg",
       "nx": 0.4922,
       "ny": 0.2226
     },
@@ -2393,6 +2431,7 @@
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=91s",
       "region": "Palomino Highlands",
       "note": "On the ocean floor in the bay off the east coast, in front of an old sunken paddle steamer.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-02.jpg",
       "nx": 0.6694,
       "ny": 0.7881
     },
@@ -2403,6 +2442,7 @@
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=156s",
       "region": "Pacific Ocean",
       "note": "Atop the northernmost island in the Pacific Ocean, north of Paleto Bay.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-03.jpg",
       "nx": 0.4539,
       "ny": 0.0542
     },
@@ -2413,6 +2453,7 @@
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=207s",
       "region": "Chiliad Mountain State Wilderness",
       "note": "In a doorway nook near the middle of the road tunnel that runs through Mount Chiliad.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-04.jpg",
       "nx": 0.428,
       "ny": 0.2893
     },
@@ -2423,6 +2464,7 @@
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=264s",
       "region": "Little Seoul",
       "note": "At the large, old church on the corner of San Andreas Avenue and Ginger Street.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-05.jpg",
       "nx": 0.3895,
       "ny": 0.7334
     },
@@ -2433,6 +2475,7 @@
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=321s",
       "region": "Paleto Cove",
       "note": "On the low dock at the Sonar Collections Dock, near the Dinghy and Submersible.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-06.jpg",
       "nx": 0.3217,
       "ny": 0.2501
     },
@@ -2443,8 +2486,9 @@
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=383s",
       "region": "Richman",
       "note": "Next to the entrance of a large, fancy mansion in the northwestern part of Richman.",
-      "nx": 0.3054,
-      "ny": 0.6419
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-07.jpg",
+      "nx": 0.3055,
+      "ny": 0.6452
     },
     {
       "id": "epsilon-tract-08",
@@ -2452,7 +2496,10 @@
       "category": "epsilon-tracts",
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=429s",
       "region": "Mount Chiliad",
-      "note": "Behind the summit telescope platform, at the base of the tallest tree in San Andreas."
+      "note": "Behind the summit telescope platform, at the base of the tallest tree in San Andreas.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-08.jpg",
+      "nx": 0.4935,
+      "ny": 0.2197
     },
     {
       "id": "epsilon-tract-09",
@@ -2460,7 +2507,8 @@
       "category": "epsilon-tracts",
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=479s",
       "region": "Downtown Los Santos",
-      "note": "On the roof of the Maze Bank Tower, the tallest building in Los Santos - bring a helicopter.",
+      "note": "On the roof of the Maze Bank Tower, the tallest building in Los Santos. Bring a helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-09.jpg",
       "nx": 0.4466,
       "ny": 0.7429
     },
@@ -2470,7 +2518,8 @@
       "category": "epsilon-tracts",
       "videoURL": "https://www.youtube.com/watch?v=v4pFTJrE_eE&t=531s",
       "region": "Pacific Bluffs",
-      "note": "In a cemetery at the southern end of Pacific Bluffs, southwest of Richman - the last tract.",
+      "note": "In a cemetery at the southern end of Pacific Bluffs, southwest of Richman. The last tract.",
+      "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-10.jpg",
       "nx": 0.3125,
       "ny": 0.6919
     },
@@ -2602,6 +2651,8 @@
       "weapon": "Pistol, Combat Pistol, AP Pistol, Pistol .50",
       "note": "A set of stationary targets - one hit sends each one down.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2632,6 +2683,8 @@
       "weapon": "Pistol, Combat Pistol, AP Pistol, Pistol .50",
       "note": "Targets slide across the range and drop out on their own timer.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2662,6 +2715,8 @@
       "weapon": "Pistol, Combat Pistol, AP Pistol, Pistol .50",
       "note": "A single target slides back and forth, disappearing on its own.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2692,6 +2747,8 @@
       "weapon": "Micro SMG, SMG, Assault SMG",
       "note": "Several fixed targets that can flip over, cycling out on a timer.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2722,6 +2779,8 @@
       "weapon": "Micro SMG, SMG, Assault SMG",
       "note": "One row of targets slides and flips, clearing itself automatically.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2752,6 +2811,8 @@
       "weapon": "Micro SMG, SMG, Assault SMG",
       "note": "Targets shift at different heights while moving, clearing on their own.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2782,6 +2843,8 @@
       "weapon": "Assault Rifle, Carbine Rifle, Advanced Rifle",
       "note": "Several fixed targets, each needing three shots before it drops.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2812,6 +2875,8 @@
       "weapon": "Assault Rifle, Carbine Rifle, Advanced Rifle",
       "note": "One line of targets moves and flips, cycling out automatically.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2842,6 +2907,8 @@
       "weapon": "Assault Rifle, Carbine Rifle, Advanced Rifle",
       "note": "Targets move at mixed heights and speeds; three hits each brings them down.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2872,6 +2939,8 @@
       "weapon": "Pump Shotgun, Sawed-Off Shotgun, Assault Shotgun, Bullpup Shotgun",
       "note": "Stationary targets drop with a single shot - rack up as many as you can.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2902,6 +2971,8 @@
       "weapon": "Pump Shotgun, Sawed-Off Shotgun, Assault Shotgun, Bullpup Shotgun",
       "note": "A mix of moving and fixed targets; closer hits are worth more toward your score.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2932,6 +3003,8 @@
       "weapon": "Pump Shotgun, Sawed-Off Shotgun, Assault Shotgun, Bullpup Shotgun",
       "note": "Targets are in motion and drop with one shot - lean on the spread pattern for a higher score.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2962,6 +3035,8 @@
       "weapon": "MG, Combat MG",
       "note": "Moving targets that respawn and need several hits each to knock down.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -2992,6 +3067,8 @@
       "weapon": "MG, Combat MG",
       "note": "Far-off targets in a row flip one at a time and clear themselves.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -3022,6 +3099,8 @@
       "weapon": "MG, Combat MG",
       "note": "New targets keep appearing, and each one absorbs several hits before falling.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -3052,6 +3131,8 @@
       "weapon": "Minigun",
       "note": "A respawning row of targets - keep landing hits back-to-back to build your multiplier.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -3082,6 +3163,8 @@
       "weapon": "Minigun",
       "note": "Targets need several hits to drop, and staying on target raises your multiplier.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -3112,6 +3195,8 @@
       "weapon": "Minigun",
       "note": "Targets respawn endlessly, take multiple hits to fall, and unbroken accuracy builds your multiplier.",
       "region": "Ammu-Nation (Cypress Flats or Pillbox Hill)",
+      "nx": 0.4536,
+      "ny": 0.7679,
       "availableAfter": "Complications",
       "tiers": [
         "Bronze",
@@ -3145,7 +3230,9 @@
       "note": "Opens Hao's street racing series with a two-lap circuit beginning on Forum Drive, Chamberlain Hills.",
       "givenBy": "Hao",
       "availableAfter": "Shift Work",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-south-los-santos.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-south-los-santos.jpg",
+      "nx": 0.437,
+      "ny": 0.8102
     },
     {
       "id": "hobby-street-races-city-circuit",
@@ -3158,7 +3245,9 @@
       "note": "A single lap kicking off on Clinton Avenue that winds through the city's north and west side.",
       "givenBy": "Hao",
       "availableAfter": "South Los Santos",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-city-circuit.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-city-circuit.jpg",
+      "nx": 0.4834,
+      "ny": 0.6518
     },
     {
       "id": "hobby-street-races-airport",
@@ -3171,7 +3260,9 @@
       "note": "Two laps beginning by the airport terminal, cutting across the southern part of the city.",
       "givenBy": "Hao",
       "availableAfter": "City Circuit",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-airport.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-airport.jpg",
+      "nx": 0.385,
+      "ny": 0.8869
     },
     {
       "id": "hobby-street-races-freeway",
@@ -3184,7 +3275,9 @@
       "note": "Two laps weaving on and off the Olympic and Del Perro freeway ramps.",
       "givenBy": "Hao",
       "availableAfter": "Airport",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-freeway.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-freeway.jpg",
+      "nx": 0.5146,
+      "ny": 0.7713
     },
     {
       "id": "hobby-street-races-vespucci-canals",
@@ -3197,7 +3290,9 @@
       "note": "Bikes only for this two-lap course, launching from Invention Court and threading Vespucci and Del Perro.",
       "givenBy": "Hao",
       "availableAfter": "Freeway",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-vespucci-canals.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-street-races-vespucci-canals.jpg",
+      "nx": 0.3651,
+      "ny": 0.7717
     },
     {
       "id": "hobby-offroad-races-canyon-cliffs",
@@ -3210,7 +3305,9 @@
       "note": "A one-way run beginning in Raton Canyon and finishing near the Alamo Sea.",
       "givenBy": "Ron Jakowski",
       "availableAfter": "Mr. Philips",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-canyon-cliffs.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-canyon-cliffs.jpg",
+      "nx": 0.2946,
+      "ny": 0.3143
     },
     {
       "id": "hobby-offroad-races-ridge-run",
@@ -3223,7 +3320,9 @@
       "note": "A one-way course that sets off on Galileo Road and wraps up on Route 68.",
       "givenBy": "Ron Jakowski",
       "availableAfter": "Mr. Philips",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-ridge-run.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-ridge-run.jpg",
+      "nx": 0.4103,
+      "ny": 0.5141
     },
     {
       "id": "hobby-offroad-races-mineward-spiral",
@@ -3236,7 +3335,9 @@
       "note": "A circular course winding around the Davis Quartz mine, available only between 8 PM and 3 AM.",
       "givenBy": "Ron Jakowski",
       "availableAfter": "Mr. Philips",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-mineward-spiral.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-mineward-spiral.jpg",
+      "nx": 0.6961,
+      "ny": 0.4523
     },
     {
       "id": "hobby-offroad-races-valley-trail",
@@ -3249,7 +3350,9 @@
       "note": "Follows Cassidy Creek from the Alamo Sea out to the Pacific coast, ending where Canyon Cliffs begins.",
       "givenBy": "Ron Jakowski",
       "availableAfter": "Mr. Philips",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-valley-trail.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-valley-trail.jpg",
+      "nx": 0.4346,
+      "ny": 0.333
     },
     {
       "id": "hobby-offroad-races-lakeside-splash",
@@ -3262,7 +3365,9 @@
       "note": "Hugs the Alamo Sea shoreline, starting on Marina Drive in Sandy Shores and finishing in Grapeseed.",
       "givenBy": "Ron Jakowski",
       "availableAfter": "Mr. Philips",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-lakeside-splash.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-lakeside-splash.jpg",
+      "nx": 0.5838,
+      "ny": 0.3633
     },
     {
       "id": "hobby-offroad-races-eco-friendly",
@@ -3275,7 +3380,9 @@
       "note": "A tight, twisting truck course weaving through the wind turbine fields.",
       "givenBy": "Ron Jakowski",
       "availableAfter": "Mr. Philips",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-eco-friendly.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-offroad-races-eco-friendly.jpg",
+      "nx": 0.618,
+      "ny": 0.5028
     },
     {
       "id": "hobby-sea-races-los-santos-port",
@@ -3286,7 +3393,9 @@
       "note": "A jet ski loop through the inner harbor that wraps up south by the gas company, against seven rivals.",
       "weapon": "Seashark",
       "availableAfter": "Hood Safari",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-los-santos-port.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-los-santos-port.jpg",
+      "nx": 0.5025,
+      "ny": 0.8546
     },
     {
       "id": "hobby-sea-races-power-station",
@@ -3297,7 +3406,9 @@
       "note": "Jet skis head north under a stone arch toward the bay by Palmer-Taylor Power Station, racing seven AI riders.",
       "weapon": "Seashark",
       "availableAfter": "Hood Safari",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-power-station.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-power-station.jpg",
+      "nx": 0.7015,
+      "ny": 0.6235
     },
     {
       "id": "hobby-sea-races-el-gordo",
@@ -3308,7 +3419,9 @@
       "note": "A jet ski circuit south around the rocky islets off Cape Catfish, looping back to the lighthouse against seven opponents.",
       "weapon": "Seashark",
       "availableAfter": "Hood Safari",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-el-gordo.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-el-gordo.jpg",
+      "nx": 0.7337,
+      "ny": 0.2531
     },
     {
       "id": "hobby-sea-races-lago-zancudo",
@@ -3319,7 +3432,9 @@
       "note": "Starts at the source of the Zancudo River and ends beneath the Fort Zancudo bridge, with just three rivals.",
       "weapon": "Seashark",
       "availableAfter": "Hood Safari",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-lago-zancudo.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-sea-races-lago-zancudo.jpg",
+      "nx": 0.4689,
+      "ny": 0.3829
     },
     {
       "id": "hobby-triathlon-vespucci-beach",
@@ -3330,7 +3445,9 @@
       "note": "A combined swim, bike, and run loop around Vespucci Beach - going in with stamina above 40% helps.",
       "availableAfter": "Daddy's Little Girl",
       "reward": "Triathlon outfit",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-triathlon-vespucci-beach.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-triathlon-vespucci-beach.jpg",
+      "nx": 0.3519,
+      "ny": 0.8437
     },
     {
       "id": "hobby-triathlon-alamo-sea",
@@ -3341,7 +3458,9 @@
       "note": "A tougher, roughly four-minute triathlon that kicks off on Seaview Road in Grapeseed.",
       "availableAfter": "The Vespucci Beach Triathlon",
       "reward": "Triathlon outfit",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-triathlon-alamo-sea.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-triathlon-alamo-sea.jpg",
+      "nx": 0.6499,
+      "ny": 0.3285
     },
     {
       "id": "hobby-triathlon-coyote-cross-country",
@@ -3352,7 +3471,9 @@
       "note": "The last and longest triathlon, around half an hour, launching from Marina Drive at the Alamo Sea's southern tip.",
       "availableAfter": "The Alamo Sea Triathlon",
       "reward": "Triathlon outfit",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-triathlon-coyote-cross-country.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-triathlon-coyote-cross-country.jpg",
+      "nx": 0.5831,
+      "ny": 0.3648
     },
     {
       "id": "hobby-tennis-win-a-match",
@@ -3362,7 +3483,9 @@
       "region": "8 court locations across Los Santos",
       "availableAfter": "Complications",
       "note": "Win a match against the AI or a companion on the court; only Michael and Trevor can play.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-tennis-win-a-match.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-tennis-win-a-match.jpg",
+      "nx": 0.3891,
+      "ny": 0.665
     },
     {
       "id": "hobby-golf-under-par-round",
@@ -3373,7 +3496,9 @@
       "cost": "$100",
       "availableAfter": "Complications",
       "note": "Complete all nine holes at even par or under - the course owner can join without paying.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-golf-under-par-round.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-golf-under-par-round.jpg",
+      "nx": 0.3413,
+      "ny": 0.673
     },
     {
       "id": "hobby-darts-win-a-game",
@@ -3383,7 +3508,9 @@
       "region": "The Yellow Jack Inn, Grand Senora Desert",
       "availableAfter": "Crystal Maze",
       "note": "Whittle a 301 count down to precisely zero, closing out on a double or the bull.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-darts-win-a-game.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-darts-win-a-game.jpg",
+      "nx": 0.6147,
+      "ny": 0.429
     },
     {
       "id": "hobby-flight-school-training-take-off",
@@ -3391,6 +3518,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Lift off and thread two checkpoints in the air.",
       "source": "Flight School (uses a Cuban 800)",
       "availableAfter": "Friends Reunited",
@@ -3421,6 +3550,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Bring the plane down safely onto the tarmac.",
       "source": "Flight School (uses a Cuban 800)",
       "availableAfter": "Friends Reunited",
@@ -3451,6 +3582,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Roll the plane and hold an inverted flight path.",
       "source": "Flight School (uses a Mallard)",
       "availableAfter": "Friends Reunited",
@@ -3481,6 +3614,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Bank the wings vertical and use the rudder alone to hold height.",
       "source": "Flight School (uses a Mallard)",
       "availableAfter": "Friends Reunited",
@@ -3511,6 +3646,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Skim low over the port and the airport while hitting a string of checkpoints.",
       "source": "Flight School (uses a Mallard)",
       "availableAfter": "Friends Reunited",
@@ -3541,6 +3678,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Set the plane down on a Lago Zancudo bridge, landing as near the last checkpoint as you can manage.",
       "source": "Flight School (uses a Mallard)",
       "availableAfter": "Friends Reunited",
@@ -3571,6 +3710,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Pull the plane through a full inside loop.",
       "source": "Flight School (uses a Mallard)",
       "availableAfter": "Friends Reunited",
@@ -3601,6 +3742,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Pilot a chopper through a checkpoint route spanning the city.",
       "source": "Flight School (uses a Frogger)",
       "availableAfter": "Friends Reunited",
@@ -3631,6 +3774,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Race a helicopter through checkpoints across the Palomino Highlands and into the city as quickly as you can.",
       "source": "Flight School (uses a Frogger)",
       "availableAfter": "Friends Reunited",
@@ -3661,6 +3806,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Jump and steer the parachute onto a fixed landing marker.",
       "source": "Flight School",
       "availableAfter": "Friends Reunited",
@@ -3691,6 +3838,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "Jump and touch down on a target that's on the move.",
       "source": "Flight School",
       "availableAfter": "Friends Reunited",
@@ -3721,6 +3870,8 @@
       "category": "hobbies",
       "subgroup": "Flight School",
       "region": "Los Santos International Airport",
+      "nx": 0.3582,
+      "ny": 0.8997,
       "note": "A capstone run through the city combining maneuvers from earlier lessons.",
       "source": "Flight School (uses a Mallard)",
       "availableAfter": "Friends Reunited",
@@ -3755,7 +3906,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Helicopter Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-pacific-tour.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-pacific-tour.jpg",
+      "nx": 0.3848,
+      "ny": 0.7833
     },
     {
       "id": "hobby-parachuting-heli-photo-finish",
@@ -3767,7 +3920,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Helicopter Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-photo-finish.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-photo-finish.jpg",
+      "nx": 0.5516,
+      "ny": 0.6638
     },
     {
       "id": "hobby-parachuting-heli-turbine-terror",
@@ -3779,7 +3934,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Helicopter Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-turbine-terror.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-turbine-terror.jpg",
+      "nx": 0.6537,
+      "ny": 0.5544
     },
     {
       "id": "hobby-parachuting-heli-runaway-train",
@@ -3791,7 +3948,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Helicopter Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-runaway-train.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-runaway-train.jpg",
+      "nx": 0.3773,
+      "ny": 0.3029
     },
     {
       "id": "hobby-parachuting-heli-carving-the-mountain",
@@ -3803,7 +3962,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Helicopter Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-carving-the-mountain.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-carving-the-mountain.jpg",
+      "nx": 0.3349,
+      "ny": 0.3167
     },
     {
       "id": "hobby-parachuting-heli-fall-of-the-alamo",
@@ -3815,7 +3976,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Helicopter Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-fall-of-the-alamo.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-fall-of-the-alamo.jpg",
+      "nx": 0.6588,
+      "ny": 0.2715
     },
     {
       "id": "hobby-parachuting-heli-dammed-if-you-dont",
@@ -3827,7 +3990,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Helicopter Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-dammed-if-you-dont.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-heli-dammed-if-you-dont.jpg",
+      "nx": 0.5389,
+      "ny": 0.6931
     },
     {
       "id": "hobby-parachuting-base-bank-bailout",
@@ -3839,7 +4004,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Base Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-bank-bailout.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-bank-bailout.jpg",
+      "nx": 0.4457,
+      "ny": 0.7451
     },
     {
       "id": "hobby-parachuting-base-what-goes-up",
@@ -3851,7 +4018,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Base Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-what-goes-up.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-what-goes-up.jpg",
+      "nx": 0.4407,
+      "ny": 0.7561
     },
     {
       "id": "hobby-parachuting-base-falling-mouse",
@@ -3863,7 +4032,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Base Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-falling-mouse.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-falling-mouse.jpg",
+      "nx": 0.3453,
+      "ny": 0.302
     },
     {
       "id": "hobby-parachuting-base-aim-for-the-fairway",
@@ -3875,7 +4046,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Base Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-aim-for-the-fairway.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-aim-for-the-fairway.jpg",
+      "nx": 0.3873,
+      "ny": 0.6524
     },
     {
       "id": "hobby-parachuting-base-razor-rock-dive",
@@ -3887,7 +4060,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Base Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-razor-rock-dive.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-razor-rock-dive.jpg",
+      "nx": 0.3945,
+      "ny": 0.3232
     },
     {
       "id": "hobby-parachuting-base-the-decline",
@@ -3899,7 +4074,9 @@
       "weapon": "Parachute",
       "availableAfter": "Risk Assessment",
       "guide": "Base Jump.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-the-decline.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-parachuting-base-the-decline.jpg",
+      "nx": 0.4303,
+      "ny": 0.1366
     },
     {
       "id": "hobby-strip-club-private-dance",
@@ -3908,7 +4085,9 @@
       "subgroup": "Strip Club",
       "region": "Vanilla Unicorn, Strawberry",
       "note": "Pay a dancer at the Vanilla Unicorn for a one-on-one private dance.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-strip-club-private-dance.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-strip-club-private-dance.jpg",
+      "nx": 0.4615,
+      "ny": 0.7832
     },
     {
       "id": "hobby-bail-bonds-quarry",
@@ -3919,7 +4098,9 @@
       "note": "One of four Bail Bonds targets that appear on the map for Trevor after “Fair Game” - bring this one in, dead or alive.",
       "givenBy": "Maude",
       "availableAfter": "Fair Game",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-bail-bonds-quarry.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-bail-bonds-quarry.jpg",
+      "nx": 0.693,
+      "ny": 0.4499
     },
     {
       "id": "hobby-bail-bonds-farm",
@@ -3960,6 +4141,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Air",
       "region": "Sandy Shores Airfield",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries air cargo run - fly the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-air-1.jpg"
@@ -3970,6 +4153,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Air",
       "region": "Sandy Shores Airfield",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries air cargo run - fly the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-air-2.jpg"
@@ -3980,6 +4165,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Air",
       "region": "Sandy Shores Airfield",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries air cargo run - fly the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-air-3.jpg"
@@ -3990,6 +4177,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Air",
       "region": "Sandy Shores Airfield",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries air cargo run - fly the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-air-4.jpg"
@@ -4000,6 +4189,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Air",
       "region": "Sandy Shores Airfield",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries air cargo run - fly the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-air-5.jpg"
@@ -4010,6 +4201,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Ground",
       "region": "Sandy Shores",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries ground cargo run - drive the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-ground-1.jpg"
@@ -4020,6 +4213,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Ground",
       "region": "Sandy Shores",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries ground cargo run - drive the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-ground-2.jpg"
@@ -4030,6 +4225,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Ground",
       "region": "Sandy Shores",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries ground cargo run - drive the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-ground-3.jpg"
@@ -4040,6 +4237,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Ground",
       "region": "Sandy Shores",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries ground cargo run - drive the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-ground-4.jpg"
@@ -4050,6 +4249,8 @@
       "category": "hobbies",
       "subgroup": "Arms Traffic Ground",
       "region": "Sandy Shores",
+      "nx": 0.6262,
+      "ny": 0.2875,
       "note": "Repeatable Trevor Philips Industries ground cargo run - drive the delivery in without losing the cargo.",
       "availableAfter": "Trevor Philips Industries",
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-arms-traffic-ground-5.jpg"
@@ -4062,7 +4263,9 @@
       "region": "Great Chaparral / Tongva Hills",
       "note": "Take a hunting rifle out and bag an animal - a one-off stat, not tied to the Hunting Requests strand.",
       "weapon": "Hunting Rifle",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-hunting.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-hunting.jpg",
+      "nx": 0.313,
+      "ny": 0.297
     },
     {
       "id": "hobby-yoga",
@@ -4071,7 +4274,9 @@
       "subgroup": "Yoga",
       "region": "Rockford Hills yoga studio",
       "note": "Complete a yoga session.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-yoga.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-yoga.jpg",
+      "nx": 0.3873,
+      "ny": 0.6629
     },
     {
       "id": "hobby-wildlife-photography",
@@ -4089,7 +4294,9 @@
       "subgroup": "Stock Car Races",
       "region": "Los Santos",
       "note": "Win a race in the Stock Car class. Lower confidence entry - worth confirming the exact track/unlock in-game.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-stock-car-races.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/hobby-stock-car-races.jpg",
+      "nx": 0.6121,
+      "ny": 0.4239
     },
     {
       "id": "knife-flight-01",
@@ -4097,8 +4304,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=93s",
       "region": "Downtown Los Santos",
-      "note": "A billboard is strung between two towers here - keep a wingtip clear of it as you thread through.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-01.png",
+      "note": "Downtown Vinewood, between the Vinewood Video store and the Whirligig Theater.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-02.png",
       "nx": 0.4737,
       "ny": 0.6679
     },
@@ -4108,8 +4315,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=114s",
       "region": "Downtown Los Santos",
-      "note": "One of the fifteen narrow gaps between Downtown Los Santos skyscrapers - line up early, hold your plane level, and commit to a straight, controlled pass through the buildings at speed.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-02.png",
+      "note": "Hawick, between the Vinewood Gardens and Galileo House.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-01.png",
       "nx": 0.4841,
       "ny": 0.6773
     },
@@ -4119,8 +4326,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=135s",
       "region": "Downtown Los Santos",
-      "note": "This opens a three-part combo continuing into the next two gaps, all flown in a single pass. Approach from the east near the overpass and bank 90 degrees left as you slip between the IAA and FIB towers.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-03.png",
+      "note": "Pillbox Hill, between the IAA and the FIB headquarters.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-15.png",
       "nx": 0.4651,
       "ny": 0.7344
     },
@@ -4130,8 +4337,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=156s",
       "region": "Downtown Los Santos",
-      "note": "The middle leg of that same combo. Keep the wings rolled left, ease past the Union Depository's left side while letting the nose sink a little, then level out with light right rudder to slide between the Corporate & Investment Banking tower and the Gruppe 6 building.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-04.png",
+      "note": "Pillbox Hill, between the Schlongberg Sachs Center and the adjacent tower to the south.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-14.png",
       "nx": 0.4479,
       "ny": 0.7393
     },
@@ -4141,10 +4348,10 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=177s",
       "region": "Downtown Los Santos",
-      "note": "The closing gap of the combo, immediately following the previous one. Hold the left roll and dip the nose slightly for this last pass, squeezing between the Tinkle building and the Arcadius Business Center.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-05.png",
-      "nx": 0.4355,
-      "ny": 0.7417
+      "note": "Pillbox Hill, between the Quik House and the Slaughter, Slaughter & Slaughter offices.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-12.png",
+      "nx": 0.4318,
+      "ny": 0.7412
     },
     {
       "id": "knife-flight-06",
@@ -4152,10 +4359,10 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=198s",
       "region": "Downtown Los Santos",
-      "note": "Flown together with the next gap in a single run - come in from the south and steer wide of the crane.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-06.png",
-      "nx": 0.4289,
-      "ny": 0.7593
+      "note": "Pillbox Hill, between the Quik House and the adjacent building to the east.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-13.png",
+      "nx": 0.4299,
+      "ny": 0.7446
     },
     {
       "id": "knife-flight-07",
@@ -4163,10 +4370,10 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=198s",
       "region": "Downtown Los Santos",
-      "note": "Follows right on the heels of the previous gap in the same run; maintain your bank angle through both and they'll count one after the other.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-07.png",
-      "nx": 0.4337,
-      "ny": 0.731
+      "note": "Pillbox Hill, between the Schlongberg Sachs Center and the Slaughter, Slaughter & Slaughter offices.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-11.png",
+      "nx": 0.4322,
+      "ny": 0.7367
     },
     {
       "id": "knife-flight-08",
@@ -4174,8 +4381,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=224s",
       "region": "Downtown Los Santos",
-      "note": "This one's a narrow squeeze - retracting your landing gear and staying near the top of the opening helps you clear the structure waiting on the other side.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-08.png",
+      "note": "Little Seoul, between the two Lombank buildings on San Andreas Avenue.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-10.png",
       "nx": 0.3957,
       "ny": 0.7272
     },
@@ -4185,7 +4392,7 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=224s",
       "region": "Downtown Los Santos",
-      "note": "Another of the tight passages between Downtown's skyscrapers - approach with plenty of altitude to spare, then dive shallow and hold a steady, level line as you pass through.",
+      "note": "Rockford Hills, between Richards Majestic and the Weazel Plaza.",
       "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-09.png",
       "nx": 0.378,
       "ny": 0.7109
@@ -4196,10 +4403,10 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=250s",
       "region": "Downtown Los Santos",
-      "note": "A snug gap that leaves little room to recover on the other side - if the flight counts but you crash moments later, don't worry, the credit still stands, so just pull out another plane.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-10.png",
-      "nx": 0.3592,
-      "ny": 0.7086
+      "note": "Rockford Hills, through the street that meets Boulevard Del Perro next to a Fleeca bank.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-08.png",
+      "nx": 0.3552,
+      "ny": 0.7082
     },
     {
       "id": "knife-flight-11",
@@ -4207,8 +4414,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=271s",
       "region": "Downtown Los Santos",
-      "note": "Opens a two-gap sequence with the following flight. Line up on the dark-colored building, roll onto your left wing, and cut between the first pair of towers.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-11.png",
+      "note": "Del Perro, between the Bluff Tower and Del Perro Heights.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-07.png",
       "nx": 0.333,
       "ny": 0.7249
     },
@@ -4218,8 +4425,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=292s",
       "region": "Downtown Los Santos",
-      "note": "Second half of that pairing, coming straight after the first - keep the left roll going through the next two towers, then climb sharply to clear the final one.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-12.png",
+      "note": "Del Perro, between the Von Crastenburg Hotel branch in Del Perro and Lombank West.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-06.png",
       "nx": 0.3263,
       "ny": 0.7229
     },
@@ -4229,8 +4436,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=313s",
       "region": "Downtown Los Santos",
-      "note": "One more of Downtown's fifteen skyscraper gaps - pick a clean, level approach line and hold your heading steady all the way through the opening.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-13.png",
+      "note": "Pacific Bluffs, between the two towers of the Von Crastenburg Hotel branch in Pacific Bluffs.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-05.png",
       "nx": 0.3012,
       "ny": 0.7049
     },
@@ -4240,8 +4447,8 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=313s",
       "region": "Downtown Los Santos",
-      "note": "Another narrow pass between two of the downtown towers - build enough speed beforehand that you can hold a straight, controlled line without stalling mid-flight.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-14.png",
+      "note": "West Vinewood, between the Schlongberg Sachs building and the adjacent building to the south.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-03.png",
       "nx": 0.3911,
       "ny": 0.6596
     },
@@ -4251,10 +4458,10 @@
       "category": "knife-flights",
       "videoURL": "https://www.youtube.com/watch?v=jMW_SrAM2_A&t=336s",
       "region": "Downtown Los Santos",
-      "note": "The last of the fifteen downtown gaps - treat it the same as the others: a level, steady approach through the buildings at a safe, controllable speed.",
-      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-15.png",
-      "nx": 0.3924,
-      "ny": 0.6537
+      "note": "West Vinewood, between the Eclipse Towers and a Schlongberg Sachs building.",
+      "imageURL": "https://vinewoodvault.djr.li/images/knife-flights/knife-flight-04.png",
+      "nx": 0.3888,
+      "ny": 0.654
     },
     {
       "id": "ld-organics-001",
@@ -5362,7 +5569,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=21s",
       "region": "Los Santos International Airport",
-      "note": "Near the subway entrance, LSIA terminal.",
+      "note": "Los Santos International Airport, near the subway entrance of the LSIA Terminal 4 Station on New Empire Way.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-01.png",
       "nx": 0.3665,
       "ny": 0.9007
@@ -5373,7 +5580,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=50s",
       "region": "Los Santos International Airport",
-      "note": "On the roof of the airport diner.",
+      "note": "On top of the Sightings Bar & Restaurant at Los Santos International Airport.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-02.png",
       "nx": 0.3772,
       "ny": 0.8838
@@ -5384,7 +5591,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=80s",
       "region": "Elysian Island",
-      "note": "On the dry-docked tugboat, Elysian Island.",
+      "note": "Elysian Island, on a dry-docked tugboat called Olifantus.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-03.png",
       "nx": 0.4456,
       "ny": 0.8997
@@ -5394,7 +5601,7 @@
       "title": "Letter Scrap 4",
       "category": "letter-scraps",
       "region": "Terminal",
-      "note": "Atop a shipping container, Terminal yard.",
+      "note": "On top of a container on Buccaneer Way in Terminal.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=123s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-04.png",
       "nx": 0.5361,
@@ -5406,7 +5613,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=162s",
       "region": "Pacific Ocean",
-      "note": "On a small offshore rock island.",
+      "note": "Cypress Flats, in an underground tunnel under Popular Street.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-05.png",
       "nx": 0.6852,
       "ny": 0.7897
@@ -5417,7 +5624,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=190s",
       "region": "El Burro Heights",
-      "note": "In the wrecked bus, car scrapyard.",
+      "note": "Inside a bus wreck in the purchasable Car Scrapyard property.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-06.png",
       "nx": 0.5753,
       "ny": 0.851
@@ -5428,7 +5635,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=223s",
       "region": "Cypress Flats",
-      "note": "In the tunnel beneath Popular Street.",
+      "note": "On an island southeast of NOOSE Headquarters in the Palomino Highlands.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-07.png",
       "nx": 0.5127,
       "ny": 0.8657
@@ -5439,7 +5646,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=273s",
       "region": "Davis",
-      "note": "In a backyard on Grove Street.",
+      "note": "Behind a house on Grove Street in Davis.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-08.png",
       "nx": 0.4583,
       "ny": 0.8377
@@ -5449,7 +5656,7 @@
       "title": "Letter Scrap 9",
       "category": "letter-scraps",
       "region": "Davis",
-      "note": "In a dumpster at Davis Mega Mall.",
+      "note": "Inside a container at the parking area of the Davis Mega Mall.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=306s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-09.png",
       "nx": 0.4519,
@@ -5461,7 +5668,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=338s",
       "region": "La Mesa",
-      "note": "Beside the Vespucci Boulevard bridge.",
+      "note": "Mile High Club construction site in Pillbox Hill, on top of the highest platform of the crane.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-10.png",
       "nx": 0.5047,
       "ny": 0.7617
@@ -5471,7 +5678,7 @@
       "title": "Letter Scrap 11",
       "category": "letter-scraps",
       "region": "Pillbox Hill",
-      "note": "Atop the crane at Mile High Club.",
+      "note": "On the Vespucci Boulevard bridge near the Darnell Bros. garment factory in La Mesa.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=363s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-11.png",
       "nx": 0.4414,
@@ -5483,7 +5690,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=439s",
       "region": "La Puerta",
-      "note": "In the canal tunnel off Palomino Ave.",
+      "note": "At the start of the storm drain canals, south of Vinewood Racetrack.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-12.png",
       "nx": 0.3679,
       "ny": 0.7811
@@ -5493,7 +5700,7 @@
       "title": "Letter Scrap 13",
       "category": "letter-scraps",
       "region": "Vespucci Beach",
-      "note": "Inside the skate bowl, Vespucci Beach.",
+      "note": "On the stands of the Vinewood Racetrack.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=484s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-13.png",
       "nx": 0.3403,
@@ -5505,7 +5712,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=518s",
       "region": "Del Perro Pier",
-      "note": "On the balcony of Pearl's Seafood.",
+      "note": "On the half pipe of the skate park above Hawaiian Snow in Hawick.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-14.png",
       "nx": 0.3037,
       "ny": 0.776
@@ -5516,7 +5723,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=557s",
       "region": "Richards Majestic",
-      "note": "On the movie backlot, near the stages.",
+      "note": "In a pit at the STD Contractors construction site in Alta.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-15.png",
       "nx": 0.3533,
       "ny": 0.718
@@ -5527,7 +5734,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=592s",
       "region": "Alta",
-      "note": "In the pit at the construction site.",
+      "note": "On a barbecue in a motel courtyard in West Vinewood.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-16.png",
       "nx": 0.4592,
       "ny": 0.7121
@@ -5538,7 +5745,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=616s",
       "region": "Mirror Park",
-      "note": "Along the storm drain canal trail.",
+      "note": "In a tunnel of the canal under Palomino Avenue in Vespucci Canals.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-17.png",
       "nx": 0.5418,
       "ny": 0.695
@@ -5548,7 +5755,7 @@
       "title": "Letter Scrap 18",
       "category": "letter-scraps",
       "region": "Vinewood Racetrack",
-      "note": "In the grandstands at the racetrack.",
+      "note": "Vespucci Beach, inside the skate and bike bowl.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=654s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-18.png",
       "nx": 0.5385,
@@ -5559,7 +5766,7 @@
       "title": "Letter Scrap 19",
       "category": "letter-scraps",
       "region": "Hawick",
-      "note": "On the halfpipe at the skate park.",
+      "note": "Del Perro Pier, on the balcony of the Pearl's Seafood restaurant.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=694s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-19.png",
       "nx": 0.474,
@@ -5571,7 +5778,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=722s",
       "region": "West Vinewood",
-      "note": "In the motel courtyard, by the grill.",
+      "note": "Air units behind Stage 12 in Backlot City.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-20.png",
       "nx": 0.4237,
       "ny": 0.6736
@@ -5582,7 +5789,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=762s",
       "region": "Vinewood Hills",
-      "note": "By the pond in a gated community.",
+      "note": "Cemetery of the Hill Valley Church in Pacific Bluffs, on the island in the pond.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-21.png",
       "nx": 0.4407,
       "ny": 0.6069
@@ -5592,7 +5799,7 @@
       "title": "Letter Scrap 22",
       "category": "letter-scraps",
       "region": "Vinewood Hills",
-      "note": "On a quiet hillside trail, Vinewood Hills.",
+      "note": "In the middle of the maze at the Kortz Center in Pacific Bluffs.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=798s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-22.png",
       "nx": 0.5102,
@@ -5603,7 +5810,7 @@
       "title": "Letter Scrap 23",
       "category": "letter-scraps",
       "region": "Pacific Ocean",
-      "note": "On a tiny island off the runway.",
+      "note": "Pacific Bluffs Country Club, on the bar by the pool.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=850s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-23.png",
       "nx": 0.7036,
@@ -5615,7 +5822,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=882s",
       "region": "RON Alternates Wind Farm",
-      "note": "In a cave near the wind farm.",
+      "note": "Fruit stall near the With a Paddle white water activity center in Richman Glen.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-24.png",
       "nx": 0.7018,
       "ny": 0.4967
@@ -5626,7 +5833,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=923s",
       "region": "Redwood Lights Track",
-      "note": "Inside the oval at Redwood Lights Track.",
+      "note": "Lake Vinewood Estates, in the outdoor games room on one of the properties.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-25.png",
       "nx": 0.5282,
       "ny": 0.4783
@@ -5637,7 +5844,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=954s",
       "region": "Grand Senora Desert",
-      "note": "By a billboard on the desert road.",
+      "note": "On the letter I of the Vinewood Sign in Vinewood Hills.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-26.png",
       "nx": 0.465,
       "ny": 0.4912
@@ -5647,7 +5854,7 @@
       "title": "Letter Scrap 27",
       "category": "letter-scraps",
       "region": "Vinewood Hills",
-      "note": "Near a lookout bend, Vinewood Hills.",
+      "note": "Big O Fruit Juice stand on top of Smith Ridge in Vinewood Hills, north of the Galileo Observatory.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=984s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-27.png",
       "nx": 0.4178,
@@ -5659,7 +5866,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1013s",
       "region": "Great Chaparral",
-      "note": "By the creek crossing, Great Chaparral.",
+      "note": "Entrance of the Abandoned Mine in Great Chaparral.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-28.png",
       "nx": 0.4031,
       "ny": 0.5069
@@ -5670,7 +5877,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1046s",
       "region": "Zancudo River",
-      "note": "On the riverbank near the Route 68 bridge.",
+      "note": "Behind a billboard near Larry Tupper's abandoned farm, west of Redwood Lights Track.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-29.png",
       "nx": 0.382,
       "ny": 0.4533
@@ -5680,7 +5887,7 @@
       "title": "Letter Scrap 30",
       "category": "letter-scraps",
       "region": "Great Chaparral",
-      "note": "Near the farmhouse by the river bend.",
+      "note": "Northwest corner of Redwood Lights Track.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1076s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-30.png",
       "nx": 0.429,
@@ -5692,7 +5899,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1109s",
       "region": "Grand Senora Desert",
-      "note": "On the rooftop of Stoner Cement Works.",
+      "note": "Rock island east of the Palmer-Taylor Power Station.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-31.png",
       "nx": 0.4742,
       "ny": 0.4436
@@ -5702,7 +5909,7 @@
       "title": "Letter Scrap 32",
       "category": "letter-scraps",
       "region": "Grand Senora Desert",
-      "note": "Beside the drag strip in the desert.",
+      "note": "Inside Coveted Cove, east of the RON Alternates Wind Farm.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1143s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-32.png",
       "nx": 0.5576,
@@ -5714,7 +5921,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1172s",
       "region": "Sandy Shores",
-      "note": "In the empty pool at the motel.",
+      "note": "In the pool of the Derelict Motel in Sandy Shores.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-33.png",
       "nx": 0.5798,
       "ny": 0.3862
@@ -5725,7 +5932,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1205s",
       "region": "El Gordo Lighthouse",
-      "note": "On the rocks below the lighthouse.",
+      "note": "On top of the large rock formation south of Sandy Shores Airfield.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-34.png",
       "nx": 0.7323,
       "ny": 0.2554
@@ -5735,7 +5942,7 @@
       "title": "Letter Scrap 35",
       "category": "letter-scraps",
       "region": "Grapeseed",
-      "note": "Inside a greenhouse on the grain farm.",
+      "note": "On top of Stoner Cement Works, north of Harmony.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1236s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-35.png",
       "nx": 0.605,
@@ -5747,7 +5954,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1267s",
       "region": "Galilee",
-      "note": "By the boat shop on the coast.",
+      "note": "Cemetery of the Hill Valley Church in north Great Chaparral.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-36.png",
       "nx": 0.5615,
       "ny": 0.3268
@@ -5758,7 +5965,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1295s",
       "region": "Mount Chiliad",
-      "note": "On the northern slope of Mount Chiliad.",
+      "note": "Lago Zancudo, near the Ammu-Nation and Discount Store, under a Route 68 bridge over a dry culvert.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-37.png",
       "nx": 0.4525,
       "ny": 0.3237
@@ -5769,7 +5976,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1336s",
       "region": "Mount Chiliad",
-      "note": "At the cable car base station.",
+      "note": "Lago Zancudo, in the swamp on the side of the river closest to Fort Zancudo.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-38.png",
       "nx": 0.4891,
       "ny": 0.2229
@@ -5780,7 +5987,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1369s",
       "region": "Mount Chiliad",
-      "note": "At the summit road turnaround.",
+      "note": "On a high clifftop in Raton Canyon, overlooking Cassidy Creek.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-39.png",
       "nx": 0.5699,
       "ny": 0.1609
@@ -5791,7 +5998,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1402s",
       "region": "Mount Chiliad",
-      "note": "Near the summit lookout, Mount Chiliad.",
+      "note": "Northwest Alamo Sea, on the shore just north of a rowboat.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-40.png",
       "nx": 0.5722,
       "ny": 0.1435
@@ -5802,7 +6009,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1428s",
       "region": "Paleto Bay",
-      "note": "Behind the derelict house by Beeker's Garage.",
+      "note": "East side of the Millars Boat Shop fishery building in Galilee.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-41.png",
       "nx": 0.4575,
       "ny": 0.1344
@@ -5813,7 +6020,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1457s",
       "region": "Paleto Bay",
-      "note": "Among the row houses, Paleto Bay.",
+      "note": "Inside a crop tunnel house on Union Grain Farm in Grapeseed.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-42.png",
       "nx": 0.4198,
       "ny": 0.1624
@@ -5824,7 +6031,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1489s",
       "region": "Paleto Forest",
-      "note": "In the trees north of the sawmill.",
+      "note": "East side of El Gordo Lighthouse.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-43.png",
       "nx": 0.4052,
       "ny": 0.2316
@@ -5835,7 +6042,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1519s",
       "region": "Chiliad Mountain State Wilderness",
-      "note": "Near the buildings above Altruist Camp.",
+      "note": "On the steps of the public toilet at Procopio Truck Stop.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-44.png",
       "nx": 0.3705,
       "ny": 0.2824
@@ -5845,7 +6052,7 @@
       "title": "Letter Scrap 45",
       "category": "letter-scraps",
       "region": "Raton Canyon",
-      "note": "On the clifftop above Cassidy Creek.",
+      "note": "In the doorway of one of the buildings of Dignity Village, south of Procopio Truck Stop, next to a first aid kit.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1555s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-45.png",
       "nx": 0.3205,
@@ -5857,7 +6064,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1587s",
       "region": "Lago Zancudo",
-      "note": "In the swamp near Fort Zancudo.",
+      "note": "Inside a derelict house in northern Paleto Bay, behind Beeker's Garage.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-46.png",
       "nx": 0.2579,
       "ny": 0.4623
@@ -5868,7 +6075,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1622s",
       "region": "Tongva Valley",
-      "note": "By the roadside fruit stand.",
+      "note": "On the deck of a house on Procopio Drive in Paleto Bay, overlooking the beach at the south end.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-47.png",
       "nx": 0.3329,
       "ny": 0.5529
@@ -5879,7 +6086,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1648s",
       "region": "Pacific Bluffs",
-      "note": "On the rocks at the point, Pacific Bluffs.",
+      "note": "At the Aerial Tramway terminal on top of Mount Chiliad.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-48.png",
       "nx": 0.2057,
       "ny": 0.6744
@@ -5890,7 +6097,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1683s",
       "region": "Kortz Center",
-      "note": "In the center of the Kortz Center maze.",
+      "note": "Between trees just north of the Paleto Forest Sawmill in Paleto Forest.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-49.png",
       "nx": 0.2646,
       "ny": 0.6605
@@ -5900,7 +6107,7 @@
       "title": "Letter Scrap 50",
       "category": "letter-scraps",
       "region": "Pacific Bluffs",
-      "note": "On the island in the church cemetery pond.",
+      "note": "Radio antenna in Chiliad Mountain State Wilderness, next to the buildings above the Altruist Camp.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1725s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-50.png",
       "nx": 0.3114,
@@ -7744,7 +7951,7 @@
       "title": "Monkey Mosaic 1",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=26s",
-      "region": "LSIA",
+      "region": "Los Santos International Airport",
       "note": "Under the crane claw behind Los Santos Customs at Los Santos International Airport.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-01.png",
       "nx": 0.3566,
@@ -7755,7 +7962,7 @@
       "title": "Monkey Mosaic 2",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=63s",
-      "region": "Elysian Island",
+      "region": "Los Santos International Airport",
       "note": "Behind the Bilgeco Shipping warehouse by the Adios Airlines hangar, Los Santos International Airport.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-02.png",
       "nx": 0.3865,
@@ -7766,7 +7973,7 @@
       "title": "Monkey Mosaic 3",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=96s",
-      "region": "LSIA",
+      "region": "Banning",
       "note": "Under the crane by the Amigas fuel tankers, beneath the Miriam Turner Overpass south of Maze Bank Arena.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-03.png",
       "nx": 0.4234,
@@ -7777,7 +7984,7 @@
       "title": "Monkey Mosaic 4",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=134s",
-      "region": "Elysian Island",
+      "region": "Rancho",
       "note": "On Dutch London Street, south Rancho, near the 'I Married my Dad' billboard.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-04.png",
       "nx": 0.4715,
@@ -7788,7 +7995,7 @@
       "title": "Monkey Mosaic 5",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=170s",
-      "region": "Terminal",
+      "region": "Elysian Island",
       "note": "At the south end of Pier 400, Elysian Island.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-05.png",
       "nx": 0.4728,
@@ -7799,7 +8006,7 @@
       "title": "Monkey Mosaic 6",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=207s",
-      "region": "El Burro Heights",
+      "region": "Terminal",
       "note": "On the side of the Alpha Mail warehouse at the southeast end of Terminal.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-06.png",
       "nx": 0.5535,
@@ -7810,7 +8017,7 @@
       "title": "Monkey Mosaic 7",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=243s",
-      "region": "Cypress Flats",
+      "region": "El Burro Heights",
       "note": "Behind the concrete steps of a building in the buyable scrapyard, El Burro Heights.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-07.png",
       "nx": 0.5805,
@@ -7832,7 +8039,7 @@
       "title": "Monkey Mosaic 9",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=315s",
-      "region": "Mirror Park",
+      "region": "Cypress Flats",
       "note": "On the roof of a disused Pisswasser warehouse by a substation, Cypress Flats.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-09.png",
       "nx": 0.5141,
@@ -7843,7 +8050,7 @@
       "title": "Monkey Mosaic 10",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=352s",
-      "region": "La Mesa",
+      "region": "Rancho",
       "note": "On the roof of the Beacon Theatre, Rancho.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-10.png",
       "nx": 0.4917,
@@ -7854,7 +8061,7 @@
       "title": "Monkey Mosaic 11",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=389s",
-      "region": "Vinewood",
+      "region": "Pillbox Hill",
       "note": "By the 'Sorry, I lied' message under the Olympic Freeway, southeast of the Pillbox Hill Ammu-Nation.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-11.png",
       "nx": 0.4659,
@@ -7865,7 +8072,7 @@
       "title": "Monkey Mosaic 12",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=433s",
-      "region": "Rockford Hills",
+      "region": "Strawberry",
       "note": "Under the Olympic Freeway in Strawberry, north of the Vanilla Unicorn.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-12.png",
       "nx": 0.4653,
@@ -7876,7 +8083,7 @@
       "title": "Monkey Mosaic 13",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=468s",
-      "region": "Pillbox Hill",
+      "region": "La Puerta",
       "note": "On a Maze Bank Arena signage pillar west of the Globe Oil station, northeast La Puerta.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-13.png",
       "nx": 0.4145,
@@ -7887,7 +8094,7 @@
       "title": "Monkey Mosaic 14",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=515s",
-      "region": "Strawberry",
+      "region": "La Puerta",
       "note": "Behind a large bush by the buyable Vespucci Helipad lot, La Puerta.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-14.png",
       "nx": 0.385,
@@ -7898,7 +8105,7 @@
       "title": "Monkey Mosaic 15",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=566s",
-      "region": "Strawberry",
+      "region": "Vespucci Beach",
       "note": "At the Vespucci Beach Recreation Center.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-15.png",
       "nx": 0.3493,
@@ -7909,7 +8116,7 @@
       "title": "Monkey Mosaic 16",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=610s",
-      "region": "Rancho",
+      "region": "Del Perro Pier",
       "note": "On a bench at the end of Del Perro Pier, by Pleasure Pier.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-16.png",
       "nx": 0.3034,
@@ -7920,7 +8127,7 @@
       "title": "Monkey Mosaic 17",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=655s",
-      "region": "Rancho",
+      "region": "Vespucci Beach",
       "note": "At Al Dente's restaurant on Sandcastle Way, Vespucci Beach.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-17.png",
       "nx": 0.3398,
@@ -7931,7 +8138,7 @@
       "title": "Monkey Mosaic 18",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=691s",
-      "region": "La Puerta",
+      "region": "Little Seoul",
       "note": "On the skate ramp at Decker Park, behind the Celltowa building, Little Seoul.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-18.png",
       "nx": 0.3748,
@@ -7942,7 +8149,7 @@
       "title": "Monkey Mosaic 19",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=733s",
-      "region": "La Puerta",
+      "region": "Del Perro",
       "note": "At the Del Perro station entrance in front of Maze Bank West, northern Del Perro.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-19.png",
       "nx": 0.3407,
@@ -7953,7 +8160,7 @@
       "title": "Monkey Mosaic 20",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=777s",
-      "region": "Vespucci Beach",
+      "region": "Morningwood",
       "note": "At Woody's Autos, Morningwood.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-20.png",
       "nx": 0.3401,
@@ -7964,7 +8171,7 @@
       "title": "Monkey Mosaic 21",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=815s",
-      "region": "Del Perro Pier",
+      "region": "Pacific Bluffs",
       "note": "On the Bay City Incline walkway in front of the Von Crastenburg Hotel, Pacific Bluffs.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-21.png",
       "nx": 0.2943,
@@ -7975,7 +8182,7 @@
       "title": "Monkey Mosaic 22",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=853s",
-      "region": "Del Perro",
+      "region": "Pacific Bluffs",
       "note": "Behind a bush by Hill Valley Church in the Pacific Bluffs cemetery.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-22.png",
       "nx": 0.3142,
@@ -7986,7 +8193,7 @@
       "title": "Monkey Mosaic 23",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=888s",
-      "region": "Vespucci Canals",
+      "region": "Richman",
       "note": "On the west side of the University of San Andreas library, Richman.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-23.png",
       "nx": 0.3158,
@@ -8008,7 +8215,7 @@
       "title": "Monkey Mosaic 25",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=962s",
-      "region": "Morningwood",
+      "region": "GWC and Golfing Society",
       "note": "By the fountain in the south corner of the Los Santos Golf Club.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-25.png",
       "nx": 0.3675,
@@ -8019,7 +8226,7 @@
       "title": "Monkey Mosaic 26",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1001s",
-      "region": "Del Perro",
+      "region": "Burton",
       "note": "At the Del Perro Boulevard 1 gallery, northwest Burton.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-26.png",
       "nx": 0.4139,
@@ -8030,7 +8237,7 @@
       "title": "Monkey Mosaic 27",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1040s",
-      "region": "Pacific Bluffs",
+      "region": "Rockford Hills",
       "note": "Behind the Weazel Dorset theatre, southeast Rockford Hills (visible from the Del Perro Freeway).",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-27.png",
       "nx": 0.4114,
@@ -8041,7 +8248,7 @@
       "title": "Monkey Mosaic 28",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1082s",
-      "region": "Pacific Bluffs",
+      "region": "Pillbox Hill",
       "note": "Beneath the Maze Bank Tower, behind a planter in the northwest corner.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-28.png",
       "nx": 0.4451,
@@ -8052,7 +8259,7 @@
       "title": "Monkey Mosaic 29",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1122s",
-      "region": "Richman",
+      "region": "Textile City",
       "note": "On the Del Perro Freeway, behind a cardboard shelter under the Elgin Avenue overpass, southeast of City Hall.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-29.png",
       "nx": 0.4757,
@@ -8063,7 +8270,7 @@
       "title": "Monkey Mosaic 30",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1162s",
-      "region": "Rockford Hills",
+      "region": "Textile City",
       "note": "On a graffitied train car under the freeway at the Mirror Park railyard, near Textile City.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-30.png",
       "nx": 0.4966,
@@ -8074,7 +8281,7 @@
       "title": "Monkey Mosaic 31",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1196s",
-      "region": "Vinewood Hills",
+      "region": "Mirror Park",
       "note": "In a bathroom stall by the Mirror Park lake.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-31.png",
       "nx": 0.545,
@@ -8085,7 +8292,7 @@
       "title": "Monkey Mosaic 32",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1229s",
-      "region": "Zancudo River",
+      "region": "Downtown Vinewood",
       "note": "On the rear of the Vinewood Plaza Hotel, Downtown Vinewood, west of the Vinewood substation.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-32.png",
       "nx": 0.5011,
@@ -8096,7 +8303,7 @@
       "title": "Monkey Mosaic 33",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1270s",
-      "region": "North Chumash",
+      "region": "Downtown Vinewood",
       "note": "At the Mano a Mano store, Downtown Vinewood, west of the 24/7.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-33.png",
       "nx": 0.4804,
@@ -8107,7 +8314,7 @@
       "title": "Monkey Mosaic 34",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1316s",
-      "region": "Paleto Bay",
+      "region": "West Vinewood",
       "note": "At the northwest corner of Bishop's WTF?! museum, between Downtown and West Vinewood.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-34.png",
       "nx": 0.4594,
@@ -8118,7 +8325,7 @@
       "title": "Monkey Mosaic 35",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1357s",
-      "region": "Paleto Bay",
+      "region": "West Vinewood",
       "note": "At the Hardcore Comic Store on Eclipse Boulevard, West Vinewood.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-35.png",
       "nx": 0.4409,
@@ -8129,7 +8336,7 @@
       "title": "Monkey Mosaic 36",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1397s",
-      "region": "Mount Chiliad",
+      "region": "Vinewood Hills",
       "note": "By the western planetarium dome at the Galileo Observatory.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-36.png",
       "nx": 0.4188,
@@ -8140,7 +8347,7 @@
       "title": "Monkey Mosaic 37",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1437s",
-      "region": "Grapeseed",
+      "region": "Tataviam Mountains",
       "note": "Behind the 24/7 at the Tataviam Truck Stop.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-37.png",
       "nx": 0.66,
@@ -8151,7 +8358,7 @@
       "title": "Monkey Mosaic 38",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1479s",
-      "region": "Humane Labs and Research",
+      "region": "Grand Senora Desert",
       "note": "Behind the northwest building of the Thomson Scrapyard, east Grand Senora Desert.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-38.png",
       "nx": 0.6505,
@@ -8162,7 +8369,7 @@
       "title": "Monkey Mosaic 39",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1517s",
-      "region": "Grand Senora Desert",
+      "region": "Humane Labs and Research",
       "note": "At the entrance to Humane Labs and Research, San Chianski Mountain Range.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-39.png",
       "nx": 0.7313,
@@ -8217,7 +8424,7 @@
       "title": "Monkey Mosaic 44",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1730s",
-      "region": "Grand Senora Desert",
+      "region": "Harmony",
       "note": "Behind Animal Ark at the northwest corner of Harmony Plaza.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-44.png",
       "nx": 0.4977,
@@ -8228,7 +8435,7 @@
       "title": "Monkey Mosaic 45",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1770s",
-      "region": "Tataviam Mountains",
+      "region": "Zancudo River",
       "note": "Behind the Zancudo River discount store on Route 68.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-45.png",
       "nx": 0.362,
@@ -8239,7 +8446,7 @@
       "title": "Monkey Mosaic 46",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1807s",
-      "region": "Downtown Vinewood",
+      "region": "Raton Canyon",
       "note": "Under the south end of the Cassidy Creek bridge.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-46.png",
       "nx": 0.2899,
@@ -8250,7 +8457,7 @@
       "title": "Monkey Mosaic 47",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1858s",
-      "region": "Downtown Vinewood",
+      "region": "Paleto Bay",
       "note": "Behind Herr Kutz Barber on Paleto Boulevard, Paleto Bay.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-47.png",
       "nx": 0.4316,
@@ -8261,7 +8468,7 @@
       "title": "Monkey Mosaic 48",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1892s",
-      "region": "Downtown Vinewood",
+      "region": "Paleto Bay",
       "note": "Behind the RON station in northern Paleto Bay, behind Pop's Pills and Don's Country Store.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-48.png",
       "nx": 0.4654,
@@ -8272,7 +8479,7 @@
       "title": "Monkey Mosaic 49",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1933s",
-      "region": "West Vinewood",
+      "region": "Grapeseed",
       "note": "At a wooden building opposite the LTD Gasoline, northwest Grapeseed.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-49.png",
       "nx": 0.5885,
@@ -8283,7 +8490,7 @@
       "title": "Monkey Mosaic 50",
       "category": "monkey-mosaics",
       "videoURL": "https://www.youtube.com/watch?v=AmUkbnHqo2Y&t=1970s",
-      "region": "Burton",
+      "region": "Grapeseed",
       "note": "Behind the Grapeseed Supermarket, west Grapeseed, south of the water tower.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-50.png",
       "nx": 0.593,
@@ -8384,7 +8591,7 @@
       "id": "nuclear-waste-01",
       "title": "Nuclear Waste 1",
       "category": "nuclear-waste",
-      "note": "This one sits in open water off the Los Santos coastline, resting on the seabed where visibility drops fast the deeper you go. You'll need the submarine from the Sonar Collections Dock, a property that only unlocks once \"The Merryweather Heist\" is behind you and you've got $250,000 to spare. Watch your sonar ping as you close in - the barrel's corroded shell blends into the rocks around it.",
+      "note": "Underwater cave in Paleto Cove, north of the tree that sits north of Sonar Collections Dock.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=109s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-01.png",
       "region": "Los Santos",
@@ -8395,7 +8602,7 @@
       "id": "nuclear-waste-02",
       "title": "Nuclear Waste 2",
       "category": "nuclear-waste",
-      "note": "Tucked into a trench south of Elysian Island, this barrel is easy to swim right past if you're not paying attention to the sonar readout. Grab the submarine from the Sonar Collections Dock (available after \"The Merryweather Heist\" for a quarter-million) and descend slowly - the current down there can push you off course.",
+      "note": "West of Paleto Forest beach.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=148s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-02.png",
       "region": "Elysian Island",
@@ -8406,7 +8613,7 @@
       "id": "nuclear-waste-03",
       "title": "Nuclear Waste 3",
       "category": "nuclear-waste",
-      "note": "Out along the Pacific Bluffs stretch of coast, the seafloor drops off sharply and this drum has settled into a crevice. The Sonar Collections Dock submarine is the only way down to it; the dock itself becomes purchasable for $250,000 once the Merryweather job wraps up.",
+      "note": "West of the wooden jetty in Paleto Bay.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=187s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-03.png",
       "region": "Pacific Bluffs",
@@ -8417,7 +8624,7 @@
       "id": "nuclear-waste-04",
       "title": "Nuclear Waste 4",
       "category": "nuclear-waste",
-      "note": "Rusted through and leaking faint green light, this barrel rests in murkier water than most, closer to the Alamo Sea's edge. Bring the sub out from the Sonar Collections Dock and trust the sonar pulse more than your eyes once you're this deep.",
+      "note": "North of Procopio Beach. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=229s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-04.png",
       "region": "Alamo Sea",
@@ -8428,7 +8635,7 @@
       "id": "nuclear-waste-05",
       "title": "Nuclear Waste 5",
       "category": "nuclear-waste",
-      "note": "This is one of the deeper drops off Chumash, well past where casual swimmers would ever go. The submarine you'll need lives at the Sonar Collections Dock, which only opens up for purchase after \"The Merryweather Heist\" concludes.",
+      "note": "North of Procopio Beach. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=322s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-05.png",
       "region": "Chumash",
@@ -8439,7 +8646,7 @@
       "id": "nuclear-waste-06",
       "title": "Nuclear Waste 6",
       "category": "nuclear-waste",
-      "note": "Sitting near a shipwreck south of Vespucci Beach, this drum is half-buried in silt, so the sonar ping is more reliable than a visual sweep. You'll need the Sonar Collections Dock's submarine, unlocked for $250,000 once the Merryweather storyline is done.",
+      "note": "North of Procopio Beach. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=380s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-06.png",
       "region": "Vespucci Beach",
@@ -8450,7 +8657,7 @@
       "id": "nuclear-waste-07",
       "title": "Nuclear Waste 7",
       "category": "nuclear-waste",
-      "note": "Found in the deep water off Del Perro, this barrel has been down there long enough to grow a thin coat of algae. Take the submarine from the Sonar Collections Dock - remember, that property doesn't open up until after \"The Merryweather Heist.\"",
+      "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=470s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-07.png",
       "region": "Del Perro",
@@ -8461,7 +8668,7 @@
       "id": "nuclear-waste-08",
       "title": "Nuclear Waste 8",
       "category": "nuclear-waste",
-      "note": "This drum rests near a rock formation along the northern coast, closer to Paleto Bay than most of the others in this set. Approach in the Sonar Collections Dock submarine and keep an eye on your depth gauge - the terrain shifts quickly out there.",
+      "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=553s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-08.png",
       "region": "Paleto Bay",
@@ -8472,7 +8679,7 @@
       "id": "nuclear-waste-09",
       "title": "Nuclear Waste 9",
       "category": "nuclear-waste",
-      "note": "Off the coast near Cape Catfish, this barrel sits in a wide, flat stretch of seabed that makes it easier to spot on sonar than most. Still requires the submarine from the Sonar Collections Dock, purchasable for $250,000 after the Merryweather job.",
+      "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=654s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-09.png",
       "region": "Cape Catfish",
@@ -8483,7 +8690,7 @@
       "id": "nuclear-waste-10",
       "title": "Nuclear Waste 10",
       "category": "nuclear-waste",
-      "note": "Buried partway in sand south of the Los Santos harbor, this one's radiation symbol is barely visible under the grime. Descend in the Sonar Collections Dock's sub and let the sonar do the work - visual searching alone will eat up your oxygen.",
+      "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=699s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-10.png",
       "region": "Los Santos",
@@ -8494,7 +8701,7 @@
       "id": "nuclear-waste-11",
       "title": "Nuclear Waste 11",
       "category": "nuclear-waste",
-      "note": "This drum sits in a deep channel that cuts along Route 68's coastal edge, far enough out that the water goes dark fast. The Sonar Collections Dock submarine, bought after \"The Merryweather Heist\" for $250,000, is the only practical way to reach it.",
+      "note": "East of Humane Labs and Research. One of three barrels grouped here.",
       "region": "Chumash",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=753s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-11.png",
@@ -8505,7 +8712,7 @@
       "id": "nuclear-waste-12",
       "title": "Nuclear Waste 12",
       "category": "nuclear-waste",
-      "note": "Resting near a cluster of underwater rocks off Puerto Del Sol, this barrel has clearly been down there since before the story even starts. Bring the sub from the Sonar Collections Dock and follow the ping rather than guessing at shapes in the dark.",
+      "note": "East of Humane Labs and Research. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=792s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-12.png",
       "region": "Puerto Del Sol",
@@ -8516,7 +8723,7 @@
       "id": "nuclear-waste-13",
       "title": "Nuclear Waste 13",
       "category": "nuclear-waste",
-      "note": "This one's out past the Alamo Sea's deeper stretch, in water cold and still enough that the barrel looks almost untouched by current. You'll need the Sonar Collections Dock submarine to get down there safely.",
+      "note": "East of Humane Labs and Research. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=792s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-13.png",
       "region": "Alamo Sea",
@@ -8527,7 +8734,7 @@
       "id": "nuclear-waste-14",
       "title": "Nuclear Waste 14",
       "category": "nuclear-waste",
-      "note": "Sitting in a debris field south of Elysian Island, this drum is surrounded by other sunken junk that can make sonar readings noisy. Patience pays off once you're in the Sonar Collections Dock's submarine and closing in slowly.",
+      "note": "Northwest of the large island east of Palomino Highlands.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=848s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-14.png",
       "region": "Elysian Island",
@@ -8538,7 +8745,7 @@
       "id": "nuclear-waste-15",
       "title": "Nuclear Waste 15",
       "category": "nuclear-waste",
-      "note": "Found off the Pacific Bluffs, wedged between two boulders where the current has clearly been dragging silt over it for years. The submarine from the Sonar Collections Dock (unlocked post-Merryweather for $250,000) is essential here - the gap is too tight to swim into blind.",
+      "note": "Southeast of the large island east of Palomino Highlands.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=877s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-15.png",
       "region": "Pacific Bluffs",
@@ -8549,7 +8756,7 @@
       "id": "nuclear-waste-16",
       "title": "Nuclear Waste 16",
       "category": "nuclear-waste",
-      "note": "This barrel rests in a shallower pocket near Chumash compared to most of the others, but the visibility is still poor enough that sonar beats eyesight. Take the Sonar Collections Dock sub out and trust the ping.",
+      "note": "South of Palomino Highlands.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=977s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-16.png",
       "region": "Chumash",
@@ -8560,7 +8767,7 @@
       "id": "nuclear-waste-17",
       "title": "Nuclear Waste 17",
       "category": "nuclear-waste",
-      "note": "Out near Vespucci, this drum has settled into a small underwater basin that's easy to miss without sonar guidance. The Sonar Collections Dock submarine becomes available once \"The Merryweather Heist\" is finished and you've got the $250,000 to spend.",
+      "note": "Southwest of Palomino Highlands.",
       "region": "Vespucci Beach",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1056s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-17.png",
@@ -8571,7 +8778,7 @@
       "id": "nuclear-waste-18",
       "title": "Nuclear Waste 18",
       "category": "nuclear-waste",
-      "note": "This one sits in deep water off Del Perro, far enough from shore that the light barely reaches the seabed. Approach carefully in the Sonar Collections Dock's submarine, watching your gauge as the terrain slopes downward.",
+      "note": "At the plane crash site south of Palomino Highlands and east of Terminal.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1097s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-18.png",
       "region": "Del Perro",
@@ -8582,7 +8789,7 @@
       "id": "nuclear-waste-19",
       "title": "Nuclear Waste 19",
       "category": "nuclear-waste",
-      "note": "Resting near the base of a rocky outcrop along the northern shoreline toward Paleto Bay, this barrel's faint glow is the easiest way to spot it once you're close. Bring the Sonar Collections Dock sub to get there.",
+      "note": "Under the Pleasure Pier at the end of Del Perro Pier.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1137s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-19.png",
       "region": "Paleto Bay",
@@ -8593,7 +8800,7 @@
       "id": "nuclear-waste-20",
       "title": "Nuclear Waste 20",
       "category": "nuclear-waste",
-      "note": "This drum has drifted into a narrow gully off Cape Catfish, tucked in tight enough that sonar pings bounce oddly nearby. The Sonar Collections Dock submarine, purchasable after the Merryweather job for $250,000, is worth the investment for runs like this one.",
+      "note": "Northwest of Del Perro Pier. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1177s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-20.png",
       "region": "Cape Catfish",
@@ -8604,7 +8811,7 @@
       "id": "nuclear-waste-21",
       "title": "Nuclear Waste 21",
       "category": "nuclear-waste",
-      "note": "Half-covered in sand south of the Los Santos harbor entrance, this barrel is one of the trickier ones to line up visually. Let the sonar ping steer your final approach once you're in the Sonar Collections Dock's submarine.",
+      "note": "Northwest of Del Perro Pier. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1216s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-21.png",
       "region": "Los Santos",
@@ -8615,7 +8822,7 @@
       "id": "nuclear-waste-22",
       "title": "Nuclear Waste 22",
       "category": "nuclear-waste",
-      "note": "This one sits deep along the Route 68 coastal shelf, in water dark enough that your headlights barely help. The Sonar Collections Dock submarine, unlocked after \"The Merryweather Heist,\" is the only reasonable way down.",
+      "note": "West of the Pipeline Inn in Pacific Bluffs.",
       "region": "Chumash",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1271s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-22.png",
@@ -8626,7 +8833,7 @@
       "id": "nuclear-waste-23",
       "title": "Nuclear Waste 23",
       "category": "nuclear-waste",
-      "note": "Found wedged against rocks off Puerto Del Sol, this drum has clearly taken some damage from the current over time. Descend slowly in the Sonar Collections Dock's sub and watch for the sonar spike as you near it.",
+      "note": "South of Pacific Bluffs Country Club.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1311s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-23.png",
       "region": "Puerto Del Sol",
@@ -8637,7 +8844,7 @@
       "id": "nuclear-waste-24",
       "title": "Nuclear Waste 24",
       "category": "nuclear-waste",
-      "note": "This barrel rests in the deeper reaches of the Alamo Sea, far enough from the shoreline that it's easy to lose your bearings. The Sonar Collections Dock submarine ($250,000, available post-Merryweather) makes the trip manageable.",
+      "note": "South of Chumash Historic Family Pier.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1352s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-24.png",
       "region": "Alamo Sea",
@@ -8648,7 +8855,7 @@
       "id": "nuclear-waste-25",
       "title": "Nuclear Waste 25",
       "category": "nuclear-waste",
-      "note": "Sitting among scattered debris south of Elysian Island, this drum blends into the wreckage around it more than most. Sonar is your best friend here once you're piloting the Sonar Collections Dock's submarine.",
+      "note": "Southwest of the RON gas station in Lago Zancudo.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1381s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-25.png",
       "region": "Elysian Island",
@@ -8659,7 +8866,7 @@
       "id": "nuclear-waste-26",
       "title": "Nuclear Waste 26",
       "category": "nuclear-waste",
-      "note": "This one sits off the Pacific Bluffs in a stretch of water that's deceptively calm on the surface but murky below. Bring the Sonar Collections Dock sub and lean on the ping rather than visual scanning.",
+      "note": "South of the Fort Zancudo runway end.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1426s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-26.png",
       "region": "Pacific Bluffs",
@@ -8670,7 +8877,7 @@
       "id": "nuclear-waste-27",
       "title": "Nuclear Waste 27",
       "category": "nuclear-waste",
-      "note": "Resting near a rock shelf off Chumash, this barrel's faint radioactive glow cuts through the gloom just enough to catch on sonar. The Sonar Collections Dock submarine is required, and that property only opens up after \"The Merryweather Heist.\"",
+      "note": "Southwest of the Fort Zancudo runway end.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1458s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-27.png",
       "region": "Chumash",
@@ -8681,7 +8888,7 @@
       "id": "nuclear-waste-28",
       "title": "Nuclear Waste 28",
       "category": "nuclear-waste",
-      "note": "This drum has settled into a quiet stretch of seabed off Vespucci, away from the traffic of the marina above. The Sonar Collections Dock's submarine, bought for $250,000 post-heist, gets you down there without much trouble.",
+      "note": "West of the Fort Zancudo runway end.",
       "region": "Vespucci Beach",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1503s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-28.png",
@@ -8692,7 +8899,7 @@
       "id": "nuclear-waste-29",
       "title": "Nuclear Waste 29",
       "category": "nuclear-waste",
-      "note": "Found in deep water off Del Perro, this barrel sits in a spot where the current shifts often, so don't be surprised if your approach angle needs adjusting mid-dive. The Sonar Collections Dock submarine is the tool for the job.",
+      "note": "West of North Chumash. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1552s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-29.png",
       "region": "Del Perro",
@@ -8703,7 +8910,7 @@
       "id": "nuclear-waste-30",
       "title": "Nuclear Waste 30",
       "category": "nuclear-waste",
-      "note": "The last of the set rests in a deep pocket toward Paleto Bay's coastal waters, far enough out that few players ever stumble onto it by accident. Wrapping up this set means one final trip in the Sonar Collections Dock's submarine, purchasable for $250,000 once \"The Merryweather Heist\" is done.",
+      "note": "West of North Chumash. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1552s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-30.png",
       "region": "Paleto Bay",
@@ -12839,7 +13046,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=14s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "On the south side of the road in El Burro Heights, by a parking area looking out over the south coast.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-01.jpg",
       "nx": 0.5684,
       "ny": 0.8913
     },
@@ -12849,7 +13057,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=134s",
       "region": "Sea",
-      "note": "Found underwater - eat it to transform into a sea creature for a while.",
+      "note": "Underwater east of LSIA, between the airport warehouses and the Port of Los Santos. Home in on the plant's audio cue.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-20.jpg",
       "nx": 0.4072,
       "ny": 0.8867
     },
@@ -12859,9 +13068,10 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=248s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
-      "nx": 0.3563,
-      "ny": 0.8465
+      "note": "Beside the scrapped bus behind the Los Santos Customs on Greenwich Parkway, near LSIA.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-03.jpg",
+      "nx": 0.3568,
+      "ny": 0.8413
     },
     {
       "id": "peyote-plant-04",
@@ -12869,7 +13079,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=346s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "In the water off the edge of the pier. Hard to see down there, so home in on the plant's audio cue.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-04.jpg",
       "nx": 0.3001,
       "ny": 0.7801
     },
@@ -12879,7 +13090,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=512s",
       "region": "Air",
-      "note": "Only reachable by aircraft - eat it to transform into a bird for a while.",
+      "note": "On the rooftop pool deck of the Venetian Hotel on Vespucci Beach. Needs a helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-05.jpg",
       "nx": 0.3434,
       "ny": 0.7644
     },
@@ -12889,7 +13101,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=603s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "By the batting cage on the baseball diamond at the BJ Smith Recreational Center, Chamberlain Hills.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-06.jpg",
       "nx": 0.4263,
       "ny": 0.8121
     },
@@ -12899,7 +13112,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=709s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "On the back porch of a new house on the south side of the Nikola Place development, Mirror Park.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-07.jpg",
       "nx": 0.561,
       "ny": 0.7274
     },
@@ -12909,7 +13123,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=835s",
       "region": "Air",
-      "note": "Only reachable by aircraft - eat it to transform into a bird for a while.",
+      "note": "On the small island east of the NOOSE headquarters. Take a boat; there are sharks in the water.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-08.jpg",
       "nx": 0.7243,
       "ny": 0.6997
     },
@@ -12919,7 +13134,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=924s",
       "region": "Air",
-      "note": "Only reachable by aircraft - eat it to transform into a bird for a while.",
+      "note": "On the top balcony of the Gentry Manor Hotel. Fly in by helicopter or parachute onto it.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-09.jpg",
       "nx": 0.4441,
       "ny": 0.651
     },
@@ -12929,7 +13145,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1029s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "On the east side of the Beaver Bush Ranger Station, Vinewood Hills.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-10.jpg",
       "nx": 0.4879,
       "ny": 0.6124
     },
@@ -12939,7 +13156,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1151s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "Near the hiking-trail picnic area at Galileo Park, just east of the Galileo Observatory tunnel.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-11.jpg",
       "nx": 0.4437,
       "ny": 0.5619
     },
@@ -12949,7 +13167,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1248s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "By a storm drain inlet in West Vinewood Hills, north of the Hillcrest Avenue and North Sheldon Avenue junction.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-12.jpg",
       "nx": 0.3674,
       "ny": 0.6053
     },
@@ -12959,7 +13178,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1336s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "On the rocks by Two Hoots Falls, just south of the car park.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-13.jpg",
       "nx": 0.3201,
       "ny": 0.5094
     },
@@ -12969,7 +13189,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1492s",
       "region": "Sea",
-      "note": "Found underwater - eat it to transform into a sea creature for a while.",
+      "note": "Underwater in the Pacific west of the Lago Zancudo river mouth, by a sunken rowboat. Follow the plant's audio cue to pin it down.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-14.jpg",
       "nx": 0.2186,
       "ny": 0.4652
     },
@@ -12979,7 +13200,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1578s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "In a valley of Mount Josiah just north of Fort Zancudo. Expect a wanted level near the base.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-15.jpg",
       "nx": 0.2889,
       "ny": 0.389
     },
@@ -12989,7 +13211,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1679s",
       "region": "Air",
-      "note": "Only reachable by aircraft - eat it to transform into a bird for a while.",
+      "note": "High on an outcrop on the north side of Cassidy Creek, between the two parachute jumps, Raton Canyon.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-16.jpg",
       "nx": 0.3705,
       "ny": 0.3099
     },
@@ -12999,7 +13222,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1791s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "Just south of the East Alamo View lookout, Raton Canyon.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-17.jpg",
       "nx": 0.41,
       "ny": 0.3358
     },
@@ -13009,7 +13233,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1880s",
       "region": "Sea",
-      "note": "Found underwater - eat it to transform into a sea creature for a while.",
+      "note": "Underwater in the northwest corner of the Alamo Sea. Visibility is poor, so home in on the plant's audio cue.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-18.jpg",
       "nx": 0.4589,
       "ny": 0.326
     },
@@ -13019,7 +13244,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=1973s",
       "region": "Air",
-      "note": "Only reachable by aircraft - eat it to transform into a bird for a while.",
+      "note": "At the Mount Chiliad summit, southeast of the Bells End sign and its red flags.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-19.jpg",
       "nx": 0.493,
       "ny": 0.2283
     },
@@ -13029,7 +13255,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2099s",
       "region": "Sea",
-      "note": "Found underwater - eat it to transform into a sea creature for a while.",
+      "note": "Offshore off Paleto Bay, northeast of the sunken FlyUS wreck by a rock archway. Scuba gear helps; follow the plant's audio cue in through the murk.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-02.jpg",
       "nx": 0.3889,
       "ny": 0.1352
     },
@@ -13039,7 +13266,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2197s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "West of the park bench at the high point of the North Point Trim Track, Paleto Bay.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-21.jpg",
       "nx": 0.4644,
       "ny": 0.1175
     },
@@ -13049,7 +13277,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2273s",
       "region": "Air",
-      "note": "Only reachable by aircraft - eat it to transform into a bird for a while.",
+      "note": "On the northeastern face of Mount Chiliad.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-22.jpg",
       "nx": 0.5735,
       "ny": 0.1852
     },
@@ -13059,7 +13288,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2422s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "Beside the small lake on Mount Gordo, west of the yoga mat.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-23.jpg",
       "nx": 0.6633,
       "ny": 0.1745
     },
@@ -13069,7 +13299,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2509s",
       "region": "Sea",
-      "note": "Found underwater - eat it to transform into a sea creature for a while.",
+      "note": "Deep underwater in the Pacific east of Humane Labs, among sunken military wreckage. Bring scuba gear and follow the plant's audio cue in.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-24.jpg",
       "nx": 0.7948,
       "ny": 0.381
     },
@@ -13079,7 +13310,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2634s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "In the trailer park at the north end of the RON Alternates Wind Farm.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-25.jpg",
       "nx": 0.6441,
       "ny": 0.4693
     },
@@ -13089,7 +13321,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2745s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "In the Grand Senora Desert east of the Redwood Lights Track, southwest of the 'welcome' alien sign by the farmhouse, out near Bolingbroke Penitentiary.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-26.jpg",
       "nx": 0.5578,
       "ny": 0.506
     },
@@ -13099,7 +13332,8 @@
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=2834s",
       "region": "Land",
-      "note": "Found on land - eat it to transform into a land animal for a while.",
+      "note": "In the Grand Senora Desert just west of the dirt road by the oil derricks. A beached yacht sits to the north.",
+      "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-27.jpg",
       "nx": 0.4969,
       "ny": 0.4359
     },
@@ -17171,7 +17405,9 @@
       "region": "Trevor",
       "subgroup": "Rampage",
       "note": "Sandy Shores - armed with grenades and an assault rifle, neutralize 25 Rednecks within 2 minutes. First of Trevor's five Rampages; unlocks after \"Trevor Philips Industries.\" Each Rampage unlocks the next on completion.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-1.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-1.jpg",
+      "nx": 0.5259,
+      "ny": 0.3803
     },
     {
       "id": "stranger-rampage-2",
@@ -17181,7 +17417,9 @@
       "region": "Trevor",
       "subgroup": "Rampage",
       "note": "Rancho - armed with grenades and a Micro SMG, neutralize 30 Vagos within 2 minutes.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-2.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-2.jpg",
+      "nx": 0.4896,
+      "ny": 0.8286
     },
     {
       "id": "stranger-rampage-3",
@@ -17191,7 +17429,9 @@
       "region": "Trevor",
       "subgroup": "Rampage",
       "note": "Chamberlain Hills - armed with grenades and an assault rifle, neutralize 30 Ballas within 2 minutes.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-3.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-3.jpg",
+      "nx": 0.4389,
+      "ny": 0.8133
     },
     {
       "id": "stranger-rampage-4",
@@ -17201,7 +17441,9 @@
       "region": "Trevor",
       "subgroup": "Rampage",
       "note": "Great Chaparral, approaching Fort Zancudo - armed with a grenade launcher and an assault rifle, neutralize 35 soldiers (and any Rhino Tanks in the way) within 3 minutes.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-4.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-4.jpg",
+      "nx": 0.3463,
+      "ny": 0.4725
     },
     {
       "id": "stranger-rampage-5",
@@ -17211,14 +17453,16 @@
       "region": "Trevor",
       "subgroup": "Rampage",
       "note": "Mirror Park - armed with a sawed-off shotgun, neutralize 20 Killer Hipsters within 2 minutes. Last of the five; completing it earns the \"Red Mist\" trophy/achievement.",
-      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-5.jpg"
+      "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/stranger-rampage-5.jpg",
+      "nx": 0.549,
+      "ny": 0.7101
     },
     {
       "id": "stunt-jump-01",
       "title": "Stunt Jump 1",
       "category": "stunt-jumps",
       "region": "Los Santos International Airport",
-      "note": "Under the overpass, near LSIA runways.",
+      "note": "Same airport side, heading southwest against traffic: the ramp at the road's end by the tarmac entrance. Bike for the dodging.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=11s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-01.png",
       "nx": 0.3742,
@@ -17229,7 +17473,7 @@
       "title": "Stunt Jump 2",
       "category": "stunt-jumps",
       "region": "Los Santos International Airport",
-      "note": "Off the looping ramp by the airport.",
+      "note": "Southeast side of the airport: northeast up the ring road, veer left at the hedge gap onto the 'Prepare for Take-Off' ramp, into the lot behind. Bike recommended.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=57s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-02.png",
       "nx": 0.3827,
@@ -17240,7 +17484,7 @@
       "title": "Stunt Jump 3",
       "category": "stunt-jumps",
       "region": "Los Santos International Airport",
-      "note": "Around the airport cargo loop ramp.",
+      "note": "From the airport freeway off-ramp: southwest to the second 'Prepare for Take-Off' ramp with enough speed to land on the parking-structure roof. Bike.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=114s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-03.png",
       "nx": 0.3718,
@@ -17251,7 +17495,7 @@
       "title": "Stunt Jump 4",
       "category": "stunt-jumps",
       "region": "Banning",
-      "note": "Off a ramp near the drainage canal.",
+      "note": "Industrial area on Banning, just north of Elysian Island: west along the access road and across the river.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=169s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-04.png",
       "nx": 0.4598,
@@ -17262,7 +17506,7 @@
       "title": "Stunt Jump 5",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Off the ramp on Chum Street.",
+      "note": "Parking lot beside the highway, north of jump 12: east off a gravel pile, landing on the freeway behind it.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=210s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-05.png",
       "nx": 0.4823,
@@ -17273,7 +17517,7 @@
       "title": "Stunt Jump 6",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Along the rail yard tracks, Elysian Island.",
+      "note": "North of the jump 15 ramp, facing south: south down the east side of the warehouses to the ramp at the end of the first one, landing on the second warehouse roof.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=246s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-06.png",
       "nx": 0.4623,
@@ -17284,7 +17528,7 @@
       "title": "Stunt Jump 7",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Between the dockside warehouses.",
+      "note": "Same setup as jump 17, but a ramp halfway along the second warehouse that puts you on its roof.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=283s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-07.png",
       "nx": 0.4612,
@@ -17295,7 +17539,7 @@
       "title": "Stunt Jump 8",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Over the rail spur near the docks.",
+      "note": "East edge of the pier heading north, past the Port of Los Santos building: the ramp by the smaller buildings. Leave it angled slightly right to land short of the tanks.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=324s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-08.png",
       "nx": 0.4759,
@@ -17306,7 +17550,7 @@
       "title": "Stunt Jump 9",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Off the pier ramp, Elysian Island docks.",
+      "note": "South end of the pier, east side of the warehouses: north to the ramp by the northern building, swerving left at the coned truck, up onto the roof.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=366s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-09.png",
       "nx": 0.4658,
@@ -17317,7 +17561,7 @@
       "title": "Stunt Jump 10",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Alongside the shipping berth, Elysian Island.",
+      "note": "West side of the docks, south of the Bristol Coke Storage entrance: north past the warehouses, bear northeast, and take the ramp at the very end onto the highway. Ignore the gravel piles; a bike fits the narrow entry.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=406s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-10.png",
       "nx": 0.4668,
@@ -17328,7 +17572,7 @@
       "title": "Stunt Jump 11",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Near the container rows, Elysian Island.",
+      "note": "Same start as jump 15, but straight north to the ramp directly ahead. Hit it dead on with plenty of speed for the water gap.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=448s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-11.png",
       "nx": 0.4612,
@@ -17339,7 +17583,7 @@
       "title": "Stunt Jump 12",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "By the rail crossing, Elysian Island.",
+      "note": "East of the Bristol Coke Storage entrance: east across the lot to the ramp leaning on a tanker rail car. Narrow entry (a bike is easier) and a wide water gap, so brake hard on landing.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=493s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-12.png",
       "nx": 0.4824,
@@ -17350,7 +17594,7 @@
       "title": "Stunt Jump 13",
       "category": "stunt-jumps",
       "region": "Elysian Island",
-      "note": "Between the container yard rows.",
+      "note": "South side of the Elysian Island shipping terminal, west of jump 11: build speed to clear two highway lanes, then off the gravel pile. On a bike, aim right of the tallest peak.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=535s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-13.png",
       "nx": 0.5066,
@@ -17361,7 +17605,7 @@
       "title": "Stunt Jump 14",
       "category": "stunt-jumps",
       "region": "Terminal",
-      "note": "Near the truck yard at Terminal.",
+      "note": "West along the north edge of Jetsam Terminal: the ramp at the end clears a strip of water, so carry speed.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=577s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-14.png",
       "nx": 0.5167,
@@ -17372,7 +17616,7 @@
       "title": "Stunt Jump 15",
       "category": "stunt-jumps",
       "region": "El Burro Heights",
-      "note": "Through the looping cul-de-sac streets.",
+      "note": "Covington Engineering complex, El Burro Heights: off the corrugated-metal roofing ramp. The landing slopes uphill, so keep the nose up.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=623s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-15.png",
       "nx": 0.5732,
@@ -17383,7 +17627,7 @@
       "title": "Stunt Jump 16",
       "category": "stunt-jumps",
       "region": "Rancho",
-      "note": "Through the Rancho street grid.",
+      "note": "Top floor of the parking structure by the City of Davis Courts Building, Rancho: northeast along the deck and off the end ramp.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=663s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-16.png",
       "nx": 0.4849,
@@ -17394,7 +17638,7 @@
       "title": "Stunt Jump 17",
       "category": "stunt-jumps",
       "region": "Strawberry",
-      "note": "Off a ramp in the Strawberry district.",
+      "note": "Top floor of the parking structure southeast of Bert's Tool Supply Co.: southwest along the deck and off the ramp at the end.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=733s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-17.png",
       "nx": 0.4887,
@@ -17405,7 +17649,7 @@
       "title": "Stunt Jump 18",
       "category": "stunt-jumps",
       "region": "Mission Row",
-      "note": "Off the freeway ramp, Mission Row.",
+      "note": "The big Sprunk Xtreme ramp in the Get Aweigh boat dealership parking lot.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=812s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-18.png",
       "nx": 0.4827,
@@ -17416,7 +17660,7 @@
       "title": "Stunt Jump 19",
       "category": "stunt-jumps",
       "region": "Pillbox Hill",
-      "note": "Between buildings in Pillbox Hill.",
+      "note": "Parking lot east of the Pillbox Hill Ammu-Nation: west into the attached parking structure, up to level two and off the side ramp.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=850s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-19.png",
       "nx": 0.4521,
@@ -17427,7 +17671,7 @@
       "title": "Stunt Jump 20",
       "category": "stunt-jumps",
       "region": "Pillbox Hill",
-      "note": "Off the curved freeway ramp, Pillbox Hill.",
+      "note": "Top floor of The Bean Machine parking structure: east off the fallen billboard, landing between the palm rows in the plaza below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=887s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-20.png",
       "nx": 0.4296,
@@ -17438,7 +17682,7 @@
       "title": "Stunt Jump 21",
       "category": "stunt-jumps",
       "region": "Pillbox Hill",
-      "note": "Off the overpass ramp, Pillbox Hill.",
+      "note": "Overpass north of the Maze Bank tower: east across the intersection, through the coned-off broken barricade.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=968s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-21.png",
       "nx": 0.4561,
@@ -17449,7 +17693,7 @@
       "title": "Stunt Jump 22",
       "category": "stunt-jumps",
       "region": "Textile City",
-      "note": "Under the freeway interchange, Textile City.",
+      "note": "By the Pillbox Hill Medical Center's ER entrance: through the broken railing on the walkway just to the south. Easier on a motorcycle, the landing is tight.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1002s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-22.png",
       "nx": 0.4777,
@@ -17460,7 +17704,7 @@
       "title": "Stunt Jump 23",
       "category": "stunt-jumps",
       "region": "Downtown",
-      "note": "Off the elevated freeway, Downtown.",
+      "note": "Northeast corner of the Arcadius Business Center: west across the intersection and through the broken barricade under the green light.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1034s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-23.png",
       "nx": 0.4457,
@@ -17471,7 +17715,7 @@
       "title": "Stunt Jump 24",
       "category": "stunt-jumps",
       "region": "Little Seoul",
-      "note": "Through the freeway loop, Little Seoul.",
+      "note": "On the Betsy O'Neill Playhouse lower-parkade entrance ramp: north to the coned ramp at the bottom.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1067s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-24.png",
       "nx": 0.4156,
@@ -17482,7 +17726,7 @@
       "title": "Stunt Jump 25",
       "category": "stunt-jumps",
       "region": "Little Seoul",
-      "note": "Off the La Puerta Freeway ramp.",
+      "note": "Southbound La Puerta Freeway, exit 3A to Olympic Freeway east: past the signs and sawhorses, off the gravel pile with the board, onto the exit road below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1102s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-25.png",
       "nx": 0.4165,
@@ -17493,7 +17737,7 @@
       "title": "Stunt Jump 26",
       "category": "stunt-jumps",
       "region": "Little Seoul",
-      "note": "By the rail yard, Little Seoul.",
+      "note": "Olympic Freeway west to exit 1B, then exit 1A for Downtown/Little Seoul: at the bottom, the jump on the left clears the cross street onto the opposite on-ramp.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1143s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-26.png",
       "nx": 0.4155,
@@ -17504,7 +17748,7 @@
       "title": "Stunt Jump 27",
       "category": "stunt-jumps",
       "region": "La Puerta",
-      "note": "Along the coastal road bend, La Puerta.",
+      "note": "Northbound La Puerta Freeway, Exit 2A: the construction ramp on the left at the bottom, across to the southbound lane. Not too much speed or you clip the ceiling.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1180s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-27.png",
       "nx": 0.4173,
@@ -17515,7 +17759,7 @@
       "title": "Stunt Jump 28",
       "category": "stunt-jumps",
       "region": "La Puerta",
-      "note": "Off the pier road, La Puerta.",
+      "note": "From the jump 26 heliport, southeast across the freeway onto the grass: the concrete pad above the floodway inlet straight ahead.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1220s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-28.png",
       "nx": 0.4103,
@@ -17526,7 +17770,7 @@
       "title": "Stunt Jump 29",
       "category": "stunt-jumps",
       "region": "La Puerta",
-      "note": "Beside the docks, La Puerta.",
+      "note": "Down the northwest bank of the floodway: maximum speed into the end ramp to clear the whole freeway and land on the heliport. A fast bike is ideal.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1253s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-29.png",
       "nx": 0.4048,
@@ -17537,7 +17781,7 @@
       "title": "Stunt Jump 30",
       "category": "stunt-jumps",
       "region": "Little Seoul",
-      "note": "By the marina, Little Seoul.",
+      "note": "West end of Adam's Apple Boulevard, past the sawhorses: west across the grass and off the ledge at the construction area.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1310s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-30.png",
       "nx": 0.4016,
@@ -17548,7 +17792,7 @@
       "title": "Stunt Jump 31",
       "category": "stunt-jumps",
       "region": "Vespucci Canals",
-      "note": "Along the canal, Vespucci Boulevard.",
+      "note": "West along Vespucci Boulevard to the pagoda at the end: off its stairs.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1343s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-31.png",
       "nx": 0.3798,
@@ -17559,7 +17803,7 @@
       "title": "Stunt Jump 32",
       "category": "stunt-jumps",
       "region": "Del Perro",
-      "note": "Off the Del Perro Freeway ramp.",
+      "note": "Freeway on-ramp off Equality Boulevard: northwest, through the poles at the road edge and straight off the cliff.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1375s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-32.png",
       "nx": 0.3224,
@@ -17570,7 +17814,7 @@
       "title": "Stunt Jump 33",
       "category": "stunt-jumps",
       "region": "Pacific Bluffs",
-      "note": "Around the cliffside roundabout, Pacific Bluffs.",
+      "note": "By the Von Crastenburg building: northwest up the ramp into The Jetty, through the sawhorses and between the glass frontages.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1414s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-33.png",
       "nx": 0.2891,
@@ -17581,7 +17825,7 @@
       "title": "Stunt Jump 34",
       "category": "stunt-jumps",
       "region": "GWC and Golfing Society",
-      "note": "On the golf course fairway, GWC.",
+      "note": "The Los Santos Golf Club jump: enough speed to clear it but not so much that you hit the archway. A golf cart can make it.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1457s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-34.png",
       "nx": 0.3651,
@@ -17592,7 +17836,7 @@
       "title": "Stunt Jump 35",
       "category": "stunt-jumps",
       "region": "Richman",
-      "note": "Along the winding road in Richman.",
+      "note": "West end of Hangman Avenue where it bends south: straight south through the sawhorses and off the ledge.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1493s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-35.png",
       "nx": 0.3342,
@@ -17603,7 +17847,7 @@
       "title": "Stunt Jump 36",
       "category": "stunt-jumps",
       "region": "Burton",
-      "note": "Through the Burton street grid.",
+      "note": "East side of the Rockford Plaza parking structure: up the entrance ramp, then straight off the side through the sawhorses at the top.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1536s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-36.png",
       "nx": 0.432,
@@ -17614,7 +17858,7 @@
       "title": "Stunt Jump 37",
       "category": "stunt-jumps",
       "region": "Rockford Hills",
-      "note": "In the Burton neighborhood streets.",
+      "note": "South into the plaza behind Police Department Headquarters: through the first courtyard and off the small back ramp, over the railing.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1571s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-37.png",
       "nx": 0.4034,
@@ -17625,7 +17869,7 @@
       "title": "Stunt Jump 38",
       "category": "stunt-jumps",
       "region": "Rockford Hills",
-      "note": "Near the park in Rockford Hills.",
+      "note": "West on Boulevard Del Perro: swerve left onto the parking-structure ramp opposite the church. Easy on the throttle, and mind the signs and the station entrance on landing.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1605s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-38.png",
       "nx": 0.3939,
@@ -17636,7 +17880,7 @@
       "title": "Stunt Jump 39",
       "category": "stunt-jumps",
       "region": "La Mesa",
-      "note": "Off the interchange ramp, La Mesa.",
+      "note": "On the side of the Del Perro Freeway on-ramp. Hit it straight and land flat, it is a long drop.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1644s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-39.png",
       "nx": 0.4974,
@@ -17647,7 +17891,7 @@
       "title": "Stunt Jump 40",
       "category": "stunt-jumps",
       "region": "Grand Senora Desert",
-      "note": "Along a winding desert road.",
+      "note": "High in the Vinewood Hills: follow the flat stretch down to the gravel berm on the shoulder, which ramps you over the road below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1693s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-40.png",
       "nx": 0.4524,
@@ -17658,7 +17902,7 @@
       "title": "Stunt Jump 41",
       "category": "stunt-jumps",
       "region": "Grand Senora Desert",
-      "note": "Off the cliff above Bolingbroke Penitentiary.",
+      "note": "Senora Freeway southbound onto the Los Santos Freeway: where it curves south, through the gap in the left barrier and off the cliff to the hill below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1750s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-41.png",
       "nx": 0.5985,
@@ -17669,7 +17913,7 @@
       "title": "Stunt Jump 42",
       "category": "stunt-jumps",
       "region": "RON Alternates Wind Farm",
-      "note": "Along the wind farm access road.",
+      "note": "In the Ron Alternates Wind Farm: off the dirt mound at the marker, onto the freeway below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1794s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-42.png",
       "nx": 0.6142,
@@ -17680,7 +17924,7 @@
       "title": "Stunt Jump 43",
       "category": "stunt-jumps",
       "region": "Grand Senora Desert",
-      "note": "Along the road beside the prison.",
+      "note": "The hills straight above Bolingbroke Penitentiary: down the slope and land inside the outer walls. An off-road truck handles the rough ground best.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1840s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-43.png",
       "nx": 0.589,
@@ -17691,7 +17935,7 @@
       "title": "Stunt Jump 44",
       "category": "stunt-jumps",
       "region": "Grand Senora Desert",
-      "note": "Off a dirt ramp near the runway.",
+      "note": "The 'Private Road No Access' house south of the Grand Senora airstrip: north off the dirt mound, over the hill and onto the airstrip.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1882s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-44.png",
       "nx": 0.589,
@@ -17702,7 +17946,7 @@
       "title": "Stunt Jump 45",
       "category": "stunt-jumps",
       "region": "Sandy Shores",
-      "note": "Through the crossroads in Sandy Shores.",
+      "note": "Behind Sandy's Gas Station: west to the ramp by the ruined motel, clearing the building into the lot beyond.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1925s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-45.png",
       "nx": 0.5855,
@@ -17713,7 +17957,7 @@
       "title": "Stunt Jump 46",
       "category": "stunt-jumps",
       "region": "Alamo Sea",
-      "note": "On the winding road above Alamo Sea.",
+      "note": "Cassidy Trail on the north side of the Alamo Sea: off the rock ledge, across the canyon to the far trail.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1973s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-46.png",
       "nx": 0.491,
@@ -17724,7 +17968,7 @@
       "title": "Stunt Jump 47",
       "category": "stunt-jumps",
       "region": "Raton Canyon",
-      "note": "Along the canyon river road, Raton Canyon.",
+      "note": "Partway through Raton Canyon: off the large cliff on the curve.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2010s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-47.png",
       "nx": 0.3734,
@@ -17735,7 +17979,7 @@
       "title": "Stunt Jump 48",
       "category": "stunt-jumps",
       "region": "Paleto Bay",
-      "note": "Through Paleto Bay, near Procopio Promenade.",
+      "note": "Northeast along Procopio Promenade: the broken bridge at the road's end ramps you across the gorge to the trail opposite.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2047s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-48.png",
       "nx": 0.4387,
@@ -17746,7 +17990,7 @@
       "title": "Stunt Jump 49",
       "category": "stunt-jumps",
       "region": "Paleto Bay",
-      "note": "Near the train tracks, Paleto Bay.",
+      "note": "From the Fast Serve Gasoline on Great Ocean Highway: west into the construction site opposite and off the big dirt hill in the middle.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2079s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-49.png",
       "nx": 0.4557,
@@ -17757,7 +18001,7 @@
       "title": "Stunt Jump 50",
       "category": "stunt-jumps",
       "region": "Mount Gordo",
-      "note": "Along the coast road at Mount Gordo.",
+      "note": "Down the lighthouse road: off the end jump onto the lighthouse rock itself, a narrow target. A car holds speed better than a bike through the sawhorses.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2120s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-50.png",
       "nx": 0.7247,
@@ -18119,7 +18363,7 @@
       "title": "Under the Bridge 1",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=118s",
-      "note": "Approach this bridge span at a steady speed and keep your vehicle centered under the crossing as you pass beneath it.",
+      "note": "First of the seven La Puerta drainage-canal bridges, the Greenwich Parkway Overpass. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-01.png",
       "nx": 0.3939,
       "ny": 0.803
@@ -18129,7 +18373,7 @@
       "title": "Under the Bridge 2",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=118s",
-      "note": "Line up with the gap beneath the bridge deck well in advance, then hold a straight course through the opening at a controlled pace.",
+      "note": "La Puerta canal overpass, just past Bridge 1. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-02.png",
       "nx": 0.3984,
       "ny": 0.8012
@@ -18139,7 +18383,7 @@
       "title": "Under the Bridge 3",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=118s",
-      "note": "Whether you take this one by boat or aircraft, the key is staying level and centered as you slip under the span.",
+      "note": "La Puerta rail bridge over the canal. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-03.png",
       "nx": 0.4018,
       "ny": 0.8009
@@ -18149,7 +18393,7 @@
       "title": "Under the Bridge 4",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=118s",
-      "note": "Build enough speed on the approach to carry you cleanly under the bridge without losing control mid-pass.",
+      "note": "Interstate 5 interchange over the La Puerta canal. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-04.png",
       "nx": 0.4165,
       "ny": 0.8068
@@ -18159,7 +18403,7 @@
       "title": "Under the Bridge 5",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=118s",
-      "note": "Keep an eye on the pylons supporting the deck here and aim for the middle of the gap between them.",
+      "note": "Alta Street canal bridge, La Puerta. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-05.png",
       "nx": 0.4224,
       "ny": 0.8138
@@ -18169,7 +18413,7 @@
       "title": "Under the Bridge 6",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=118s",
-      "note": "This crossing rewards a calm, steady line - ease off any sharp turns once you're lined up with the underside of the span.",
+      "note": "Tall canal bridge next to Maze Bank Arena. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-06.png",
       "nx": 0.4357,
       "ny": 0.8241
@@ -18179,7 +18423,7 @@
       "title": "Under the Bridge 7",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=118s",
-      "note": "A boat or jet ski threading the water beneath this bridge works just as well as an aircraft passing low through the gap.",
+      "note": "Dutch London Street canal bridge, last of the La Puerta run. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-07.png",
       "nx": 0.457,
       "ny": 0.8439
@@ -18189,7 +18433,7 @@
       "title": "Under the Bridge 8",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=163s",
-      "note": "Watch your vertical clearance closely on the way in, since the underside of the deck sits lower than it first appears.",
+      "note": "Elysian Island suspension bridge at the mouth of the Los Santos River. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-08.png",
       "nx": 0.4195,
       "ny": 0.8682
@@ -18199,7 +18443,7 @@
       "title": "Under the Bridge 9",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=184s",
-      "note": "Pick your line early and commit to it - drifting off-center under the span is the easiest way to clip a support.",
+      "note": "Banning rail bridge. Helicopter, touching the water to get under.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-09.png",
       "nx": 0.4703,
       "ny": 0.8669
@@ -18209,7 +18453,7 @@
       "title": "Under the Bridge 10",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=184s",
-      "note": "This one's straightforward by boat: hold a consistent speed and pass directly beneath the roadway overhead.",
+      "note": "Signal Street bridge, right after the Banning rail bridge. Helicopter, touching the water.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-10.png",
       "nx": 0.4811,
       "ny": 0.8667
@@ -18219,8 +18463,8 @@
       "title": "Under the Bridge 11",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=211s",
-      "note": "If you're coming in low by plane or helicopter, level your wings or rotor well before reaching the bridge deck.",
-      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-11.png",
+      "note": "Cypress Flats freeway overpass over the harbour channel. Plane or helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-14.png",
       "nx": 0.5189,
       "ny": 0.8916
     },
@@ -18229,8 +18473,8 @@
       "title": "Under the Bridge 12",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=211s",
-      "note": "Keep the throttle steady and the nose level as you glide under this crossing's supports.",
-      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-12.png",
+      "note": "Buccaneer Way bridge by the Port. Helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-13.png",
       "nx": 0.512,
       "ny": 0.8886
     },
@@ -18239,8 +18483,8 @@
       "title": "Under the Bridge 13",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=211s",
-      "note": "A Maverick barely clears the supports here. Line up with the opening, touch down first to shed your forward speed, then lift off again and ease through at a moderate pace, making only small corrections.",
-      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-13.png",
+      "note": "Cypress Flats rail bridge. Helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-12.png",
       "nx": 0.508,
       "ny": 0.8875
     },
@@ -18249,8 +18493,8 @@
       "title": "Under the Bridge 14",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=211s",
-      "note": "The gap under the deck here is wide enough for most boats, but aircraft need a careful, level approach.",
-      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-14.png",
+      "note": "Road bridge under the red steel arch bridge, Los Santos River. Plane or helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-11.png",
       "nx": 0.5023,
       "ny": 0.8817
     },
@@ -18259,7 +18503,7 @@
       "title": "Under the Bridge 15",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "Another tight fit that leaves little clearance - land first to cancel your momentum, then take off and cruise through at a controlled speed, adjusting only slightly as you go.",
+      "note": "Dutch London Street flood-control bridge, start of the Los Santos River channel. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-15.png",
       "nx": 0.505,
       "ny": 0.8446
@@ -18269,7 +18513,7 @@
       "title": "Under the Bridge 16",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "Time your pass so you're already centered under the span before you reach the shadow of the deck.",
+      "note": "Innocence Boulevard flood-control bridge. Plane or helicopter, through the middle.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-16.png",
       "nx": 0.5073,
       "ny": 0.8193
@@ -18279,7 +18523,7 @@
       "title": "Under the Bridge 17",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "A calm approach beats a fast one here - ease into the gap rather than rushing the pass.",
+      "note": "Capital Boulevard flood-control bridge. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-17.png",
       "nx": 0.5047,
       "ny": 0.7946
@@ -18289,7 +18533,7 @@
       "title": "Under the Bridge 18",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "Whether by water or by air, keep your vehicle's course dead straight as you go under the bridge.",
+      "note": "Olympic Freeway viaduct over the flood channel. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-18.png",
       "nx": 0.5012,
       "ny": 0.7754
@@ -18299,7 +18543,7 @@
       "title": "Under the Bridge 19",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "Watch for the support pylons rising out of the water and aim to split the distance between them.",
+      "note": "Vespucci Boulevard flood-control bridge. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-19.png",
       "nx": 0.5007,
       "ny": 0.7609
@@ -18309,7 +18553,7 @@
       "title": "Under the Bridge 20",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "This crossing is best taken at a moderate, controlled speed rather than flat out.",
+      "note": "San Andreas Avenue flood-control bridge, the green arch bridges. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-20.png",
       "nx": 0.5028,
       "ny": 0.7468
@@ -18319,7 +18563,7 @@
       "title": "Under the Bridge 21",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "Line up well before the bridge comes into view so you're not making last-second corrections underneath it.",
+      "note": "Del Perro Freeway flood-control interchange. Helicopter, curving under it.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-21.png",
       "nx": 0.5059,
       "ny": 0.7247
@@ -18329,7 +18573,7 @@
       "title": "Under the Bridge 22",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=241s",
-      "note": "A boat handles this one comfortably; low-flying aircraft will need to watch their altitude closely on the approach.",
+      "note": "Highway 17 flood-control bridge, north end of the channel. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-22.png",
       "nx": 0.512,
       "ny": 0.7149
@@ -18339,7 +18583,7 @@
       "title": "Under the Bridge 23",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=289s",
-      "note": "Keep the vehicle level through the pass - any last-second tilt risks clipping the underside of the deck.",
+      "note": "Mirror Park flood-control bridge. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-23.png",
       "nx": 0.5356,
       "ny": 0.704
@@ -18349,7 +18593,7 @@
       "title": "Under the Bridge 24",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=289s",
-      "note": "The water beneath this span offers plenty of room if you keep a straight, centered line.",
+      "note": "Highway 18 flood-control bridge, under the same viaduct as Bridge 23. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-24.png",
       "nx": 0.5405,
       "ny": 0.6965
@@ -18359,7 +18603,7 @@
       "title": "Under the Bridge 25",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=323s",
-      "note": "Approach steadily and resist the urge to swerve once you're committed to the gap.",
+      "note": "San Andreas Avenue overpass over the sunken Los Santos Freeway. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-25.png",
       "nx": 0.5337,
       "ny": 0.7461
@@ -18369,7 +18613,7 @@
       "title": "Under the Bridge 26",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=323s",
-      "note": "This bridge's understructure has enough clearance for most vehicles if you keep your course true.",
+      "note": "Vespucci Boulevard overpass over the sunken Los Santos Freeway. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-26.png",
       "nx": 0.5377,
       "ny": 0.7572
@@ -18379,7 +18623,7 @@
       "title": "Under the Bridge 27",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=323s",
-      "note": "Aim for the center of the arch beneath the roadway and hold your speed steady through the pass.",
+      "note": "Palomino Freeway overpass at Murrieta Heights. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-27.png",
       "nx": 0.553,
       "ny": 0.7721
@@ -18389,7 +18633,7 @@
       "title": "Under the Bridge 28",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=367s",
-      "note": "A smooth, level approach by boat or aircraft is all this crossing really asks for.",
+      "note": "Rail bridge over the Palomino Freeway, east of the city. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-28.png",
       "nx": 0.6081,
       "ny": 0.7394
@@ -18399,7 +18643,7 @@
       "title": "Under the Bridge 29",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=387s",
-      "note": "Give yourself plenty of distance to line up before reaching the bridge's shadow.",
+      "note": "Rail bridge in the Tataviam Mountains. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-29.png",
       "nx": 0.6451,
       "ny": 0.7113
@@ -18409,7 +18653,7 @@
       "title": "Under the Bridge 30",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=413s",
-      "note": "The gap here is generous, but a straight approach still makes for the cleanest pass.",
+      "note": "Natural sea arch on the coast. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-30.png",
       "nx": 0.6931,
       "ny": 0.6125
@@ -18419,8 +18663,8 @@
       "title": "Under the Bridge 31",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=437s",
-      "note": "Keep your vehicle's nose pointed at the middle of the span as you close the distance.",
-      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-31.png",
+      "note": "Freeway overpass by the Ron Alternates wind farm. Plane or helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-32.png",
       "nx": 0.6396,
       "ny": 0.5847
     },
@@ -18429,8 +18673,8 @@
       "title": "Under the Bridge 32",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=437s",
-      "note": "This one rewards patience - slow down slightly on the approach to keep your line true.",
-      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-32.png",
+      "note": "Rail bridge at the south end of the wind farm. Plane or helicopter.",
+      "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-31.png",
       "nx": 0.6443,
       "ny": 0.5816
     },
@@ -18439,7 +18683,7 @@
       "title": "Under the Bridge 33",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=462s",
-      "note": "Almost no vertical room for a Maverick to pass without the rotor clipping the bridge or the skids touching the water - build forward speed, keep the helicopter level, and hold a steady altitude all the way through the gap.",
+      "note": "Railway bridge on Senora Way by the Ron Alternates wind farm. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-33.png",
       "nx": 0.6607,
       "ny": 0.4977
@@ -18449,7 +18693,7 @@
       "title": "Under the Bridge 34",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=481s",
-      "note": "Whether on water or in the air, hold a steady altitude or draft as you go under the deck.",
+      "note": "Interstate 13 viaduct over the Senora Freeway, Grand Senora Desert. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-34.png",
       "nx": 0.601,
       "ny": 0.5113
@@ -18459,7 +18703,7 @@
       "title": "Under the Bridge 35",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=500s",
-      "note": "Watch the pylons on either side and split the gap evenly between them.",
+      "note": "Low bridge near the Paleto Bay and Braddock Pass split, west of Davis Quartz. Helicopter, once the traffic clears.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-35.png",
       "nx": 0.6487,
       "ny": 0.4399
@@ -18469,7 +18713,7 @@
       "title": "Under the Bridge 36",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=520s",
-      "note": "A confident, level approach carries you cleanly under this crossing.",
+      "note": "Highway overpass out past Grapeseed. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-36.png",
       "nx": 0.6717,
       "ny": 0.2824
@@ -18479,7 +18723,7 @@
       "title": "Under the Bridge 37",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=520s",
-      "note": "Keep your speed consistent through the pass rather than accelerating or braking mid-gap.",
+      "note": "Rail bridge over Grapeseed Avenue. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-37.png",
       "nx": 0.6826,
       "ny": 0.2715
@@ -18489,7 +18733,7 @@
       "title": "Under the Bridge 38",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=545s",
-      "note": "This span's underside offers a clear path if you commit early to a straight line.",
+      "note": "Railway bridge in a rock canyon, north-east Blaine County. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-38.png",
       "nx": 0.6163,
       "ny": 0.1729
@@ -18499,7 +18743,7 @@
       "title": "Under the Bridge 39",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=569s",
-      "note": "Aircraft should trim for level flight before reaching the bridge; boats just need to hold their heading.",
+      "note": "Pacific Coast Highway bridge at the entrance to Raton Canyon, North Chumash. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-39.png",
       "nx": 0.2997,
       "ny": 0.2981
@@ -18509,7 +18753,7 @@
       "title": "Under the Bridge 40",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=589s",
-      "note": "Take this one at a measured pace, correcting gently rather than sharply as you pass beneath.",
+      "note": "Small bridge near the Altruist Camp. Helicopter only.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-40.png",
       "nx": 0.3669,
       "ny": 0.2899
@@ -18519,7 +18763,7 @@
       "title": "Under the Bridge 41",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=613s",
-      "note": "Line up with the center of the gap and hold that line all the way through.",
+      "note": "Cassidy Creek rail bridge. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-41.png",
       "nx": 0.4101,
       "ny": 0.3163
@@ -18529,7 +18773,7 @@
       "title": "Under the Bridge 42",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=613s",
-      "note": "A steady hand on the controls is all that's needed to clear this crossing's underside.",
+      "note": "Calafia Bridge. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-42.png",
       "nx": 0.4393,
       "ny": 0.3308
@@ -18539,7 +18783,7 @@
       "title": "Under the Bridge 43",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=640s",
-      "note": "This bridge sits low enough that a careful, level approach matters more than raw speed.",
+      "note": "Bridge over the east branch of the Zancudo River. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-43.png",
       "nx": 0.4638,
       "ny": 0.3989
@@ -18549,7 +18793,7 @@
       "title": "Under the Bridge 44",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=640s",
-      "note": "Keep your vehicle centered under the roadway as the shadow of the deck passes overhead.",
+      "note": "Zancudo River rail viaduct, beside Bridge 43. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-44.png",
       "nx": 0.4625,
       "ny": 0.4031
@@ -18559,7 +18803,7 @@
       "title": "Under the Bridge 45",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=662s",
-      "note": "The pass here is forgiving if you keep your course straight and your speed under control.",
+      "note": "Route 68 bridge over a dirt track. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-45.png",
       "nx": 0.4384,
       "ny": 0.4442
@@ -18569,7 +18813,7 @@
       "title": "Under the Bridge 46",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=662s",
-      "note": "Approach with the bridge dead ahead and avoid drifting to either side as you go under.",
+      "note": "Wooden covered bridge over the creek. Plane or helicopter, pulling up hard once through.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-46.png",
       "nx": 0.4187,
       "ny": 0.4357
@@ -18579,7 +18823,7 @@
       "title": "Under the Bridge 47",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=698s",
-      "note": "Whether you're on the water or in the air, a level, unhurried pass gets you through cleanly.",
+      "note": "Rail viaduct on the approach to Fort Zancudo. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-47.png",
       "nx": 0.3369,
       "ny": 0.4626
@@ -18589,7 +18833,7 @@
       "title": "Under the Bridge 48",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=698s",
-      "note": "Watch for the support beams on either side of the gap and aim to split the difference between them.",
+      "note": "Freeway viaduct over the Lago Zancudo gorge. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-48.png",
       "nx": 0.3318,
       "ny": 0.4814
@@ -18599,7 +18843,7 @@
       "title": "Under the Bridge 49",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=726s",
-      "note": "This crossing's understructure has room to spare for a vehicle holding a straight, steady line.",
+      "note": "Ocean Highway viaduct over a coastal river, North Chumash. Helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-49.png",
       "nx": 0.2352,
       "ny": 0.4643
@@ -18609,7 +18853,7 @@
       "title": "Under the Bridge 50",
       "category": "under-the-bridge",
       "videoURL": "https://www.youtube.com/watch?v=xGiS2ZQirdo&t=746s",
-      "note": "Keep your approach calm and centered, and this span's underside poses little trouble.",
+      "note": "Pedestrian footbridge over the coast highway, Pacific Bluffs. Plane or helicopter.",
       "imageURL": "https://vinewoodvault.djr.li/images/under-the-bridge/under-bridge-50.png",
       "nx": 0.2012,
       "ny": 0.615

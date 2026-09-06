@@ -1,5 +1,5 @@
 {
-  "version": 101,
+  "version": 102,
   "categories": [
     {
       "id": "missions",
@@ -14704,7 +14704,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=156s",
       "region": "Del Perro",
-      "note": "Lenny Avery's 'For Sale' sign on Playa Vista, Del Perro - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Playa Vista, Del Perro - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3084,
+      "ny": 0.713,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-01.png"
     },
     {
       "id": "realty-sign-02",
@@ -14712,7 +14715,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=178s",
       "region": "Del Perro",
-      "note": "Lenny Avery's 'For Sale' sign on Cougar Avenue, Del Perro - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Cougar Avenue, Del Perro - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3194,
+      "ny": 0.711,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-02.png"
     },
     {
       "id": "realty-sign-03",
@@ -14720,7 +14726,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=199s",
       "region": "Richman",
-      "note": "Lenny Avery's 'For Sale' sign on Sam Austin Drive, Richman - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Sam Austin Drive, Richman - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3327,
+      "ny": 0.6779,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-03.png"
     },
     {
       "id": "realty-sign-04",
@@ -14728,7 +14737,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=218s",
       "region": "Rockford Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Portola Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Portola Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3858,
+      "ny": 0.6799,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-04.png"
     },
     {
       "id": "realty-sign-05",
@@ -14736,7 +14748,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=238s",
       "region": "GWC and Golfing Society",
-      "note": "Lenny Avery's 'For Sale' sign on Greenwich Place, GWC and Golfing Society - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Greenwich Place, GWC and Golfing Society - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.358,
+      "ny": 0.6517,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-05.png"
     },
     {
       "id": "realty-sign-06",
@@ -14744,7 +14759,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=257s",
       "region": "Rockford Hills",
-      "note": "Lenny Avery's 'For Sale' sign at 2835 Picture Perfect Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2835 Picture Perfect Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3861,
+      "ny": 0.6417,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-06.png"
     },
     {
       "id": "realty-sign-07",
@@ -14752,7 +14770,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=275s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Milton Road, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Milton Road, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.4125,
+      "ny": 0.6298,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-07.png"
     },
     {
       "id": "realty-sign-08",
@@ -14760,7 +14781,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=296s",
       "region": "West Vinewood",
-      "note": "Lenny Avery's 'For Sale' sign at 3569 Cox Way, West Vinewood - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 3569 Cox Way, West Vinewood - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.4208,
+      "ny": 0.6424,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-08.png"
     },
     {
       "id": "realty-sign-09",
@@ -14768,7 +14792,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=313s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign at 3667 Wild Oats Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 3667 Wild Oats Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.4638,
+      "ny": 0.6376,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-09.png"
     },
     {
       "id": "realty-sign-10",
@@ -14776,7 +14803,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=331s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Marlowe Drive at Lake Vinewood Estates, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Marlowe Drive at Lake Vinewood Estates, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.439,
+      "ny": 0.5963,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-10.png"
     },
     {
       "id": "realty-sign-11",
@@ -14784,7 +14814,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=353s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign at 1119 Hillcrest Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 1119 Hillcrest Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3779,
+      "ny": 0.6132,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-11.png"
     },
     {
       "id": "realty-sign-12",
@@ -14792,7 +14825,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=375s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign at 2106 Hangman Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2106 Hangman Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3427,
+      "ny": 0.6274,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-12.png"
     },
     {
       "id": "realty-sign-13",
@@ -14800,7 +14836,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=394s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign at 2103 Ace Jones Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2103 Ace Jones Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3245,
+      "ny": 0.6409,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-13.png"
     },
     {
       "id": "realty-sign-14",
@@ -14808,7 +14847,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=415s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign at 2114 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2114 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.3502,
+      "ny": 0.637,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-14.png"
     },
     {
       "id": "realty-sign-15",
@@ -14816,7 +14858,10 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=438s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign at 2134 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2134 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
+      "nx": 0.362,
+      "ny": 0.6297,
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-15.png"
     },
     {
       "id": "signal-jammer-01",

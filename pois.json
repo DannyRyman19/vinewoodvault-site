@@ -1,5 +1,5 @@
 {
-  "version": 97,
+  "version": 99,
   "categories": [
     {
       "id": "missions",
@@ -5613,7 +5613,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=162s",
       "region": "Pacific Ocean",
-      "note": "Cypress Flats, in an underground tunnel under Popular Street.",
+      "note": "On an island southeast of NOOSE Headquarters in the Palomino Highlands.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-05.png",
       "nx": 0.6852,
       "ny": 0.7897
@@ -5635,7 +5635,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=223s",
       "region": "Cypress Flats",
-      "note": "On an island southeast of NOOSE Headquarters in the Palomino Highlands.",
+      "note": "Cypress Flats, in an underground tunnel under Popular Street.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-07.png",
       "nx": 0.5127,
       "ny": 0.8657
@@ -5668,7 +5668,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=338s",
       "region": "La Mesa",
-      "note": "Mile High Club construction site in Pillbox Hill, on top of the highest platform of the crane.",
+      "note": "On the Vespucci Boulevard bridge near the Darnell Bros. garment factory in La Mesa.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-10.png",
       "nx": 0.5047,
       "ny": 0.7617
@@ -5678,7 +5678,7 @@
       "title": "Letter Scrap 11",
       "category": "letter-scraps",
       "region": "Pillbox Hill",
-      "note": "On the Vespucci Boulevard bridge near the Darnell Bros. garment factory in La Mesa.",
+      "note": "Mile High Club construction site in Pillbox Hill, on top of the highest platform of the crane.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=363s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-11.png",
       "nx": 0.4414,
@@ -5690,7 +5690,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=439s",
       "region": "La Puerta",
-      "note": "At the start of the storm drain canals, south of Vinewood Racetrack.",
+      "note": "In a tunnel of the canal under Palomino Avenue in Vespucci Canals.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-12.png",
       "nx": 0.3679,
       "ny": 0.7811
@@ -5700,7 +5700,7 @@
       "title": "Letter Scrap 13",
       "category": "letter-scraps",
       "region": "Vespucci Beach",
-      "note": "On the stands of the Vinewood Racetrack.",
+      "note": "Vespucci Beach, inside the skate and bike bowl.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=484s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-13.png",
       "nx": 0.3403,
@@ -5712,7 +5712,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=518s",
       "region": "Del Perro Pier",
-      "note": "On the half pipe of the skate park above Hawaiian Snow in Hawick.",
+      "note": "Del Perro Pier, on the balcony of the Pearl's Seafood restaurant.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-14.png",
       "nx": 0.3037,
       "ny": 0.776
@@ -5723,7 +5723,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=557s",
       "region": "Richards Majestic",
-      "note": "In a pit at the STD Contractors construction site in Alta.",
+      "note": "Air units behind Stage 12 in Backlot City.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-15.png",
       "nx": 0.3533,
       "ny": 0.718
@@ -5734,7 +5734,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=592s",
       "region": "Alta",
-      "note": "On a barbecue in a motel courtyard in West Vinewood.",
+      "note": "In a pit at the STD Contractors construction site in Alta.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-16.png",
       "nx": 0.4592,
       "ny": 0.7121
@@ -5745,7 +5745,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=616s",
       "region": "Mirror Park",
-      "note": "In a tunnel of the canal under Palomino Avenue in Vespucci Canals.",
+      "note": "At the start of the storm drain canals, south of Vinewood Racetrack.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-17.png",
       "nx": 0.5418,
       "ny": 0.695
@@ -5755,7 +5755,7 @@
       "title": "Letter Scrap 18",
       "category": "letter-scraps",
       "region": "Vinewood Racetrack",
-      "note": "Vespucci Beach, inside the skate and bike bowl.",
+      "note": "On the stands of the Vinewood Racetrack.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=654s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-18.png",
       "nx": 0.5385,
@@ -5766,7 +5766,7 @@
       "title": "Letter Scrap 19",
       "category": "letter-scraps",
       "region": "Hawick",
-      "note": "Del Perro Pier, on the balcony of the Pearl's Seafood restaurant.",
+      "note": "On the half pipe of the skate park above Hawaiian Snow in Hawick.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=694s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-19.png",
       "nx": 0.474,
@@ -5778,7 +5778,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=722s",
       "region": "West Vinewood",
-      "note": "Air units behind Stage 12 in Backlot City.",
+      "note": "On a barbecue in a motel courtyard in West Vinewood.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-20.png",
       "nx": 0.4237,
       "ny": 0.6736
@@ -5789,7 +5789,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=762s",
       "region": "Vinewood Hills",
-      "note": "Cemetery of the Hill Valley Church in Pacific Bluffs, on the island in the pond.",
+      "note": "Lake Vinewood Estates, in the outdoor games room on one of the properties.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-21.png",
       "nx": 0.4407,
       "ny": 0.6069
@@ -5799,7 +5799,7 @@
       "title": "Letter Scrap 22",
       "category": "letter-scraps",
       "region": "Vinewood Hills",
-      "note": "In the middle of the maze at the Kortz Center in Pacific Bluffs.",
+      "note": "On the letter I of the Vinewood Sign in Vinewood Hills.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=798s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-22.png",
       "nx": 0.5102,
@@ -5810,7 +5810,7 @@
       "title": "Letter Scrap 23",
       "category": "letter-scraps",
       "region": "Pacific Ocean",
-      "note": "Pacific Bluffs Country Club, on the bar by the pool.",
+      "note": "Rock island east of the Palmer-Taylor Power Station.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=850s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-23.png",
       "nx": 0.7036,
@@ -5822,7 +5822,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=882s",
       "region": "RON Alternates Wind Farm",
-      "note": "Fruit stall near the With a Paddle white water activity center in Richman Glen.",
+      "note": "Inside Coveted Cove, east of the RON Alternates Wind Farm.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-24.png",
       "nx": 0.7018,
       "ny": 0.4967
@@ -5833,7 +5833,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=923s",
       "region": "Redwood Lights Track",
-      "note": "Lake Vinewood Estates, in the outdoor games room on one of the properties.",
+      "note": "Northwest corner of Redwood Lights Track.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-25.png",
       "nx": 0.5282,
       "ny": 0.4783
@@ -5844,7 +5844,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=954s",
       "region": "Grand Senora Desert",
-      "note": "On the letter I of the Vinewood Sign in Vinewood Hills.",
+      "note": "Behind a billboard near Larry Tupper's abandoned farm, west of Redwood Lights Track.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-26.png",
       "nx": 0.465,
       "ny": 0.4912
@@ -5877,7 +5877,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1046s",
       "region": "Zancudo River",
-      "note": "Behind a billboard near Larry Tupper's abandoned farm, west of Redwood Lights Track.",
+      "note": "Lago Zancudo, near the Ammu-Nation and Discount Store, under a Route 68 bridge over a dry culvert.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-29.png",
       "nx": 0.382,
       "ny": 0.4533
@@ -5887,7 +5887,7 @@
       "title": "Letter Scrap 30",
       "category": "letter-scraps",
       "region": "Great Chaparral",
-      "note": "Northwest corner of Redwood Lights Track.",
+      "note": "Cemetery of the Hill Valley Church in north Great Chaparral.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1076s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-30.png",
       "nx": 0.429,
@@ -5899,7 +5899,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1109s",
       "region": "Grand Senora Desert",
-      "note": "Rock island east of the Palmer-Taylor Power Station.",
+      "note": "On top of Stoner Cement Works, north of Harmony.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-31.png",
       "nx": 0.4742,
       "ny": 0.4436
@@ -5909,7 +5909,7 @@
       "title": "Letter Scrap 32",
       "category": "letter-scraps",
       "region": "Grand Senora Desert",
-      "note": "Inside Coveted Cove, east of the RON Alternates Wind Farm.",
+      "note": "On top of the large rock formation south of Sandy Shores Airfield.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1143s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-32.png",
       "nx": 0.5576,
@@ -5932,7 +5932,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1205s",
       "region": "El Gordo Lighthouse",
-      "note": "On top of the large rock formation south of Sandy Shores Airfield.",
+      "note": "East side of El Gordo Lighthouse.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-34.png",
       "nx": 0.7323,
       "ny": 0.2554
@@ -5942,7 +5942,7 @@
       "title": "Letter Scrap 35",
       "category": "letter-scraps",
       "region": "Grapeseed",
-      "note": "On top of Stoner Cement Works, north of Harmony.",
+      "note": "Inside a crop tunnel house on Union Grain Farm in Grapeseed.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1236s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-35.png",
       "nx": 0.605,
@@ -5954,7 +5954,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1267s",
       "region": "Galilee",
-      "note": "Cemetery of the Hill Valley Church in north Great Chaparral.",
+      "note": "East side of the Millars Boat Shop fishery building in Galilee.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-36.png",
       "nx": 0.5615,
       "ny": 0.3268
@@ -5965,7 +5965,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1295s",
       "region": "Mount Chiliad",
-      "note": "Lago Zancudo, near the Ammu-Nation and Discount Store, under a Route 68 bridge over a dry culvert.",
+      "note": "Northwest Alamo Sea, on the shore just north of a rowboat.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-37.png",
       "nx": 0.4525,
       "ny": 0.3237
@@ -5976,7 +5976,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1336s",
       "region": "Mount Chiliad",
-      "note": "Lago Zancudo, in the swamp on the side of the river closest to Fort Zancudo.",
+      "note": "At the Aerial Tramway terminal on top of Mount Chiliad.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-38.png",
       "nx": 0.4891,
       "ny": 0.2229
@@ -5987,7 +5987,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1369s",
       "region": "Mount Chiliad",
-      "note": "On a high clifftop in Raton Canyon, overlooking Cassidy Creek.",
+      "note": "In the doorway of one of the buildings of Dignity Village, south of Procopio Truck Stop, next to a first aid kit.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-39.png",
       "nx": 0.5699,
       "ny": 0.1609
@@ -5998,7 +5998,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1402s",
       "region": "Mount Chiliad",
-      "note": "Northwest Alamo Sea, on the shore just north of a rowboat.",
+      "note": "On the steps of the public toilet at Procopio Truck Stop.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-40.png",
       "nx": 0.5722,
       "ny": 0.1435
@@ -6009,7 +6009,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1428s",
       "region": "Paleto Bay",
-      "note": "East side of the Millars Boat Shop fishery building in Galilee.",
+      "note": "Inside a derelict house in northern Paleto Bay, behind Beeker's Garage.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-41.png",
       "nx": 0.4575,
       "ny": 0.1344
@@ -6020,7 +6020,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1457s",
       "region": "Paleto Bay",
-      "note": "Inside a crop tunnel house on Union Grain Farm in Grapeseed.",
+      "note": "On the deck of a house on Procopio Drive in Paleto Bay, overlooking the beach at the south end.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-42.png",
       "nx": 0.4198,
       "ny": 0.1624
@@ -6031,7 +6031,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1489s",
       "region": "Paleto Forest",
-      "note": "East side of El Gordo Lighthouse.",
+      "note": "Between trees just north of the Paleto Forest Sawmill in Paleto Forest.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-43.png",
       "nx": 0.4052,
       "ny": 0.2316
@@ -6042,7 +6042,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1519s",
       "region": "Chiliad Mountain State Wilderness",
-      "note": "On the steps of the public toilet at Procopio Truck Stop.",
+      "note": "Radio antenna in Chiliad Mountain State Wilderness, next to the buildings above the Altruist Camp.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-44.png",
       "nx": 0.3705,
       "ny": 0.2824
@@ -6052,7 +6052,7 @@
       "title": "Letter Scrap 45",
       "category": "letter-scraps",
       "region": "Raton Canyon",
-      "note": "In the doorway of one of the buildings of Dignity Village, south of Procopio Truck Stop, next to a first aid kit.",
+      "note": "On a high clifftop in Raton Canyon, overlooking Cassidy Creek.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1555s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-45.png",
       "nx": 0.3205,
@@ -6064,7 +6064,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1587s",
       "region": "Lago Zancudo",
-      "note": "Inside a derelict house in northern Paleto Bay, behind Beeker's Garage.",
+      "note": "Lago Zancudo, in the swamp on the side of the river closest to Fort Zancudo.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-46.png",
       "nx": 0.2579,
       "ny": 0.4623
@@ -6075,7 +6075,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1622s",
       "region": "Tongva Valley",
-      "note": "On the deck of a house on Procopio Drive in Paleto Bay, overlooking the beach at the south end.",
+      "note": "Fruit stall near the With a Paddle white water activity center in Richman Glen.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-47.png",
       "nx": 0.3329,
       "ny": 0.5529
@@ -6086,7 +6086,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1648s",
       "region": "Pacific Bluffs",
-      "note": "At the Aerial Tramway terminal on top of Mount Chiliad.",
+      "note": "Pacific Bluffs Country Club, on the bar by the pool.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-48.png",
       "nx": 0.2057,
       "ny": 0.6744
@@ -6097,7 +6097,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1683s",
       "region": "Kortz Center",
-      "note": "Between trees just north of the Paleto Forest Sawmill in Paleto Forest.",
+      "note": "In the middle of the maze at the Kortz Center in Pacific Bluffs.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-49.png",
       "nx": 0.2646,
       "ny": 0.6605
@@ -6107,7 +6107,7 @@
       "title": "Letter Scrap 50",
       "category": "letter-scraps",
       "region": "Pacific Bluffs",
-      "note": "Radio antenna in Chiliad Mountain State Wilderness, next to the buildings above the Altruist Camp.",
+      "note": "Cemetery of the Hill Valley Church in Pacific Bluffs, on the island in the pond.",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1725s",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-50.png",
       "nx": 0.3114,
@@ -16300,8 +16300,8 @@
       "id": "store-robbery-09",
       "title": "Store Robbery 9",
       "category": "store-robberies",
-      "region": "Chumash",
-      "note": "The 24/7 on Barbareno Road, Chumash, southwest of the Chumash Plaza.",
+      "region": "Banham Canyon",
+      "note": "The Rob's Liquor on the Great Ocean Highway, Banham Canyon.",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=419s",
       "nx": 0.2104,
       "ny": 0.6463
@@ -16320,8 +16320,9 @@
       "id": "store-robbery-11",
       "title": "Store Robbery 11",
       "category": "store-robberies",
-      "region": "Banham Canyon",
+      "region": "Chumash",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=518s",
+      "note": "The 24/7 on Barbareno Road, Chumash, southwest of the Chumash Plaza.",
       "nx": 0.1877,
       "ny": 0.5959
     },
@@ -16341,6 +16342,7 @@
       "category": "store-robberies",
       "region": "Banham Canyon",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=609s",
+      "note": "The 24/7 on Ineseno Road, Banham Canyon.",
       "nx": 0.204,
       "ny": 0.6276
     },
@@ -16350,6 +16352,7 @@
       "category": "store-robberies",
       "region": "Grand Senora Desert",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=656s",
+      "note": "The Scoops Liquor Barn on Route 68, Grand Senora Desert, just before the Los Santos Customs.",
       "nx": 0.5473,
       "ny": 0.457
     },
@@ -16359,6 +16362,7 @@
       "category": "store-robberies",
       "region": "Sandy Shores",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=712s",
+      "note": "The 24/7 on Niland Avenue at Alhambra Drive, Sandy Shores.",
       "nx": 0.6121,
       "ny": 0.3717
     },
@@ -16368,6 +16372,7 @@
       "category": "store-robberies",
       "region": "Grand Senora Desert",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=760s",
+      "note": "The 24/7 at Earl's Mini-Mart and Gas Station on the Senora Freeway, Grand Senora Desert.",
       "nx": 0.6704,
       "ny": 0.4103
     },
@@ -16375,8 +16380,8 @@
       "id": "store-robbery-17",
       "title": "Store Robbery 17",
       "category": "store-robberies",
-      "region": "Mount Chiliad",
-      "note": "The 24/7 at the Globe Oil filling station on the Senora Freeway, north of Mount Chiliad.",
+      "region": "Grapeseed",
+      "note": "The LTD Gasoline on Grapeseed Main Street, Grapeseed.",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=821s",
       "nx": 0.5911,
       "ny": 0.2759
@@ -16385,8 +16390,9 @@
       "id": "store-robbery-18",
       "title": "Store Robbery 18",
       "category": "store-robberies",
-      "region": "Sandy Shores",
+      "region": "Mount Chiliad",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8&t=879s",
+      "note": "The 24/7 at the Globe Oil filling station on the Senora Freeway, north of Mount Chiliad.",
       "nx": 0.5932,
       "ny": 0.1544
     },
@@ -16404,8 +16410,9 @@
       "id": "store-robbery-20",
       "title": "Store Robbery 20",
       "category": "store-robberies",
-      "region": "Grapeseed",
+      "region": "Sandy Shores",
       "videoURL": "https://www.youtube.com/watch?v=QJYRShAzbJ8",
+      "note": "The Liquor Ace on Algonquin Boulevard, Sandy Shores.",
       "nx": 0.5667,
       "ny": 0.3836
     },

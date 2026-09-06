@@ -1,5 +1,5 @@
 {
-  "version": 99,
+  "version": 100,
   "categories": [
     {
       "id": "missions",
@@ -14728,7 +14728,7 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=218s",
       "region": "Rockford Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Hampstead Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Portola Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-05",
@@ -14743,8 +14743,8 @@
       "title": "Realty Sign 6",
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=257s",
-      "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Ace Jones Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "region": "Rockford Hills",
+      "note": "Lenny Avery's 'For Sale' sign at 2835 Picture Perfect Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-07",
@@ -14752,15 +14752,15 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=275s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign in Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Milton Road, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-08",
       "title": "Realty Sign 8",
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=296s",
-      "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "region": "West Vinewood",
+      "note": "Lenny Avery's 'For Sale' sign at 3569 Cox Way, West Vinewood - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-09",
@@ -14768,7 +14768,7 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=313s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign in Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 3667 Wild Oats Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-10",
@@ -14776,15 +14776,15 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=331s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign in Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign on Marlowe Drive at Lake Vinewood Estates, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-11",
       "title": "Realty Sign 11",
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=353s",
-      "region": "Rockford Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Abe Milton Parkway, Rockford Hills - destroy it for Josh Bernstein's Extra Commission."
+      "region": "Vinewood Hills",
+      "note": "Lenny Avery's 'For Sale' sign at 1119 Hillcrest Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-12",
@@ -14792,15 +14792,15 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=375s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Vine Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2106 Hangman Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-13",
       "title": "Realty Sign 13",
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=394s",
-      "region": "West Vinewood",
-      "note": "Lenny Avery's 'For Sale' sign on Eclipse, West Vinewood - destroy it for Josh Bernstein's Extra Commission."
+      "region": "Vinewood Hills",
+      "note": "Lenny Avery's 'For Sale' sign at 2103 Ace Jones Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-14",
@@ -14808,7 +14808,7 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=415s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign in Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2114 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "realty-sign-15",
@@ -14816,7 +14816,7 @@
       "category": "realty-signs",
       "videoURL": "https://www.youtube.com/watch?v=M_0RMURDL4Y&t=438s",
       "region": "Vinewood Hills",
-      "note": "Lenny Avery's 'For Sale' sign on Marlowe Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
+      "note": "Lenny Avery's 'For Sale' sign at 2134 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission."
     },
     {
       "id": "signal-jammer-01",
@@ -15672,7 +15672,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=178s",
       "region": "Los Santos International Airport",
-      "note": "Behind the southernmost hangar, LSIA.",
+      "note": "Behind the southernmost hangar at Los Santos International Airport.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-01.png",
       "nx": 0.3521,
       "ny": 0.9626
@@ -15683,7 +15683,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=224s",
       "region": "Elysian Island",
-      "note": "On the pipe between the gas tanks.",
+      "note": "On top of the pipe connecting the two dome-shaped gas tanks at the Los Santos State Gas Company, Elysian Island.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-02.png",
       "nx": 0.5036,
       "ny": 0.9414
@@ -15694,7 +15694,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=276s",
       "region": "Elysian Island",
-      "note": "Underwater in the Naval Port's corner.",
+      "note": "Underwater in the southeast corner of the Los Santos Naval Port.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-03.png",
       "nx": 0.48,
       "ny": 0.9026
@@ -15705,7 +15705,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=352s",
       "region": "Rancho",
-      "note": "Between the apartment towers, south Rancho.",
+      "note": "At Rancho Towers on Dutch London Street, south Rancho.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-04.png",
       "nx": 0.4825,
       "ny": 0.8502
@@ -15749,7 +15749,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=506s",
       "region": "Murrieta Heights",
-      "note": "On the walkway across the small dam.",
+      "note": "On the catwalks of the small dam on El Rancho Boulevard, northeast Murrieta Heights.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-08.png",
       "nx": 0.5529,
       "ny": 0.7676
@@ -15771,7 +15771,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=588s",
       "region": "Strawberry",
-      "note": "On a couch in the homeless camp underpass.",
+      "note": "At the homeless encampment under the Olympic Freeway, Strawberry.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-10.png",
       "nx": 0.4519,
       "ny": 0.7767
@@ -15782,7 +15782,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=635s",
       "region": "Textile City",
-      "note": "By the coffee shop on the corner.",
+      "note": "At the Bean Machine coffee shop on Simmet Alley, Textile City.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-11.png",
       "nx": 0.4911,
       "ny": 0.7375
@@ -15793,7 +15793,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=677s",
       "region": "Downtown",
-      "note": "Near the freeway interchange overpass.",
+      "note": "At the Penris Building, northern Pillbox Hill.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-12.png",
       "nx": 0.4686,
       "ny": 0.7245
@@ -15804,7 +15804,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=713s",
       "region": "Downtown",
-      "note": "Inside the station under construction.",
+      "note": "Inside the underground Pillbox North Station, still under construction, by a table with a blueprint.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-13.png",
       "nx": 0.4665,
       "ny": 0.7238
@@ -15815,7 +15815,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=800s",
       "region": "Burton",
-      "note": "In the rooftop garden, Rockford Plaza.",
+      "note": "In the small second-floor garden of the Rockford Plaza, central Burton.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-14.png",
       "nx": 0.4338,
       "ny": 0.6976
@@ -15826,7 +15826,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=841s",
       "region": "Burton",
-      "note": "In the empty pool on the rooftop terrace.",
+      "note": "In the empty rooftop pool of the terrace next to Los Santos Customs, Burton.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-15.png",
       "nx": 0.4191,
       "ny": 0.6899
@@ -15836,7 +15836,7 @@
       "title": "Spaceship Part 16",
       "category": "spaceship-parts",
       "region": "Vespucci Canals",
-      "note": "On the roof of the liquor store.",
+      "note": "On the Nogo Vodka billboard on top of the Liquor Hole store, southern Vespucci Canals.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=876s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-16.png",
       "nx": 0.3787,
@@ -15848,7 +15848,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=932s",
       "region": "Richards Majestic",
-      "note": "On a balcony overlooking the movie set.",
+      "note": "On a balcony on the Richards Majestic Productions movie set, Backlot City.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-17.png",
       "nx": 0.3565,
       "ny": 0.7208
@@ -15859,7 +15859,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=970s",
       "region": "Rockford Hills",
-      "note": "On the small island, golf course pond.",
+      "note": "On the small island in the pond at the Los Santos Golf Club.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-18.png",
       "nx": 0.3565,
       "ny": 0.683
@@ -15870,7 +15870,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1011s",
       "region": "Land Act Dam",
-      "note": "Underwater by the jetty, Land Act Dam.",
+      "note": "Underwater below the jetty at Land Act Dam, Tataviam Mountains.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-19.png",
       "nx": 0.5897,
       "ny": 0.6744
@@ -15881,7 +15881,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1061s",
       "region": "Tataviam Mountains",
-      "note": "Near the pipes north of the reservoir.",
+      "note": "On the pipes north of Land Act Reservoir, Tataviam Mountains.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-20.png",
       "nx": 0.6132,
       "ny": 0.6321
@@ -15903,7 +15903,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1135s",
       "region": "Vinewood Hills",
-      "note": "At the edge of Lake Vinewood's dam.",
+      "note": "Underwater at the edge of the Lake Vinewood dam.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-22.png",
       "nx": 0.4545,
       "ny": 0.6252
@@ -15925,7 +15925,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1240s",
       "region": "Vinewood Hills",
-      "note": "On the observatory rooftop, Vinewood Hills.",
+      "note": "On the roof of the Galileo Observatory, in front of the western planetarium dome.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-24.png",
       "nx": 0.4208,
       "ny": 0.5882
@@ -15936,7 +15936,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1275s",
       "region": "Richman Glen",
-      "note": "By the fountain at Parsons Rehab Center.",
+      "note": "By the small fountain at the Parsons Rehabilitation Center, Richman Glen.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-25.png",
       "nx": 0.3285,
       "ny": 0.607
@@ -16001,7 +16001,7 @@
       "title": "Spaceship Part 31",
       "category": "spaceship-parts",
       "region": "Grand Senora Desert",
-      "note": "On the back porch of an abandoned house.",
+      "note": "On the back porch of an abandoned house in west Grand Senora Desert, east of Great Chaparral.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1548s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-31.png",
       "nx": 0.5182,
@@ -16013,7 +16013,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1585s",
       "region": "Grand Senora Desert",
-      "note": "On a cliff along Mount Haan Road.",
+      "note": "On a cliffside by the dirt ascent on Mount Haan Road, west of Stoner Cement Works.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-32.png",
       "nx": 0.5641,
       "ny": 0.5005
@@ -16024,7 +16024,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1624s",
       "region": "RON Alternates Wind Farm",
-      "note": "Underwater in the Coveted Cove.",
+      "note": "Underwater inside Coveted Cove, east of the RON Alternates Wind Farm.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-33.png",
       "nx": 0.7067,
       "ny": 0.4998
@@ -16045,7 +16045,7 @@
       "title": "Spaceship Part 35",
       "category": "spaceship-parts",
       "region": "Grapeseed",
-      "note": "In the middle of a Grapeseed cow farm.",
+      "note": "In the middle of the Grapeseed cow farm.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1718s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-35.png",
       "nx": 0.6509,
@@ -16079,7 +16079,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1829s",
       "region": "Paleto Bay",
-      "note": "On the fire station's tower, Paleto Bay.",
+      "note": "On the third floor of the Paleto Bay fire station tower.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-38.png",
       "nx": 0.4212,
       "ny": 0.1807
@@ -16090,7 +16090,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1878s",
       "region": "Paleto Forest",
-      "note": "In the concrete drainage channel, Paleto Forest.",
+      "note": "Inside a concrete waterway, Paleto Forest.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-39.png",
       "nx": 0.4115,
       "ny": 0.2153
@@ -16101,7 +16101,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1922s",
       "region": "Paleto Cove",
-      "note": "On the peninsula tip, Paleto Cove.",
+      "note": "On the peninsula at Paleto Cove, north of the Sonar Collections Dock.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-40.png",
       "nx": 0.3343,
       "ny": 0.2357
@@ -16112,7 +16112,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1956s",
       "region": "Raton Canyon",
-      "note": "Under the Raton Canyon bridge, by the falls.",
+      "note": "Under the Raton Canyon bridge, near the waterfall.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-41.png",
       "nx": 0.2895,
       "ny": 0.3085
@@ -16122,7 +16122,7 @@
       "title": "Spaceship Part 42",
       "category": "spaceship-parts",
       "region": "Cassidy Creek",
-      "note": "Under the bridge beams, Cassidy Creek.",
+      "note": "Under the support beams of the Cassidy Creek bridge, near North Chumash.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2039s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-42.png",
       "nx": 0.4088,
@@ -16134,7 +16134,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2081s",
       "region": "Mount Josiah",
-      "note": "On a ledge near the summit, Mount Josiah.",
+      "note": "On a ledge near the top of Mount Josiah.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-43.png",
       "nx": 0.3991,
       "ny": 0.3827
@@ -16145,7 +16145,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2139s",
       "region": "Zancudo River",
-      "note": "By the railroad bridge, Zancudo River.",
+      "note": "At the waterside by the railroad bridge, northeast end of the Zancudo River.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-44.png",
       "nx": 0.4212,
       "ny": 0.4362
@@ -16155,7 +16155,7 @@
       "title": "Spaceship Part 45",
       "category": "spaceship-parts",
       "region": "Zancudo River",
-      "note": "Under the bridge north of Hill Valley Church.",
+      "note": "Under the Zancudo River bridge north of the Hill Valley Church.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2184s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-45.png",
       "nx": 0.4582,
@@ -16167,7 +16167,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2221s",
       "region": "Grand Senora Desert",
-      "note": "By a parked plane, southwest of the airfield.",
+      "note": "Southwest of Sandy Shores Airfield, by a static Marquis boat.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-46.png",
       "nx": 0.5251,
       "ny": 0.4441
@@ -16189,7 +16189,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2311s",
       "region": "Sandy Shores",
-      "note": "In the water, north of the Boat House.",
+      "note": "Underwater north of the Boat House, northwest Sandy Shores.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-48.png",
       "nx": 0.5744,
       "ny": 0.3636
@@ -16200,7 +16200,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2364s",
       "region": "Sandy Shores",
-      "note": "Near the 'Beam Me Up' attraction, Sandy Shores.",
+      "note": "At the Beam Me Up, east of Sandy Shores.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-49.png",
       "nx": 0.6572,
       "ny": 0.3688

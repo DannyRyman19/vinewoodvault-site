@@ -1,5 +1,5 @@
 {
-  "version": 100,
+  "version": 101,
   "categories": [
     {
       "id": "missions",
@@ -15715,8 +15715,8 @@
       "title": "Spaceship Part 5",
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=390s",
-      "region": "El Burro Heights",
-      "note": "On the small dam's catwalk, El Rancho Blvd.",
+      "region": "Cypress Flats",
+      "note": "On the beach in southern Cypress Flats, in the sewer pipe in front of the Vagos mural.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-05.png",
       "nx": 0.5447,
       "ny": 0.8901
@@ -15726,7 +15726,7 @@
       "title": "Spaceship Part 6",
       "category": "spaceship-parts",
       "region": "Pacific Ocean",
-      "note": "Between two small islets, offshore.",
+      "note": "On the middle rock island south of Palomino Highlands, east of Terminal.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=429s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-06.png",
       "nx": 0.5822,
@@ -15738,7 +15738,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=470s",
       "region": "El Burro Heights",
-      "note": "In the wooded loop, El Burro Heights.",
+      "note": "Inside the green container at the Murrieta Oil Field, northern El Burro Heights.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-07.png",
       "nx": 0.5943,
       "ny": 0.8101
@@ -15760,7 +15760,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=553s",
       "region": "Davis",
-      "note": "Near the freeway overpass, Davis district.",
+      "note": "On the Central Los Santos Medical Center helipad, east Strawberry.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-09.png",
       "nx": 0.476,
       "ny": 0.7954
@@ -15892,7 +15892,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1098s",
       "region": "Tataviam Mountains",
-      "note": "In a rocky cove on the coast.",
+      "note": "At the natural arch in northeast Tataviam Mountains.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-21.png",
       "nx": 0.6875,
       "ny": 0.6117
@@ -15914,7 +15914,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1193s",
       "region": "Vinewood Hills",
-      "note": "Underwater, near the small waterfall.",
+      "note": "On top of the Lake Vinewood intake tower.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-23.png",
       "nx": 0.4592,
       "ny": 0.6111
@@ -15947,7 +15947,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1311s",
       "region": "Tongva Hills",
-      "note": "Deep in the hills, off a lonely road.",
+      "note": "Inside a cave in Tongva Hills, southwest of the With a Paddle white water activity center.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-26.png",
       "nx": 0.2979,
       "ny": 0.5646
@@ -15958,7 +15958,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1359s",
       "region": "Banham Canyon",
-      "note": "By the abandoned house near the coast.",
+      "note": "Next to a telescope in the backyard of a modern house, Tongva Hills.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-27.png",
       "nx": 0.2243,
       "ny": 0.5594
@@ -15969,7 +15969,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1395s",
       "region": "Tongva Hills",
-      "note": "Off the winding trail, Tongva Hills.",
+      "note": "At the Marlowe Vineyards, Tongva Hills.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-28.png",
       "nx": 0.2933,
       "ny": 0.5191
@@ -15979,7 +15979,7 @@
       "title": "Spaceship Part 29",
       "category": "spaceship-parts",
       "region": "Tongva Valley",
-      "note": "By the river ford, Tongva Valley.",
+      "note": "Underwater under the waterfall, Tongva Hills.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1458s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-29.png",
       "nx": 0.3357,
@@ -15991,7 +15991,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1507s",
       "region": "Grand Senora Desert",
-      "note": "Beside the looping dirt track, desert.",
+      "note": "On the back porch of an abandoned house in west Grand Senora Desert, east of Great Chaparral.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-30.png",
       "nx": 0.4656,
       "ny": 0.4956
@@ -16001,7 +16001,7 @@
       "title": "Spaceship Part 31",
       "category": "spaceship-parts",
       "region": "Grand Senora Desert",
-      "note": "On the back porch of an abandoned house in west Grand Senora Desert, east of Great Chaparral.",
+      "note": "On a cliffside by the dirt ascent on Mount Haan Road, west of Stoner Cement Works.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1548s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-31.png",
       "nx": 0.5182,
@@ -16013,7 +16013,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1585s",
       "region": "Grand Senora Desert",
-      "note": "On a cliffside by the dirt ascent on Mount Haan Road, west of Stoner Cement Works.",
+      "note": "East of Redwood Lights Track, by the 'Welcome Aliens' banner in a patriot's backyard.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-32.png",
       "nx": 0.5641,
       "ny": 0.5005
@@ -16035,7 +16035,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1682s",
       "region": "Pacific Ocean",
-      "note": "Near the 'Welcome Aliens' banner, offshore.",
+      "note": "Inside the boatshed at Cape Catfish.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-34.png",
       "nx": 0.7643,
       "ny": 0.3148
@@ -16056,7 +16056,7 @@
       "title": "Spaceship Part 36",
       "category": "spaceship-parts",
       "region": "Mount Chiliad",
-      "note": "Inside a run-down barn, Mount Chiliad.",
+      "note": "At Braddock Farm, north of Grapeseed.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1751s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-36.png",
       "nx": 0.6316,
@@ -16068,7 +16068,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1788s",
       "region": "Mount Chiliad",
-      "note": "By the tram depot buildings, Mount Chiliad.",
+      "note": "In the barn at the Donkey Punch Family Farm, northeast of Paleto Bay.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-37.png",
       "nx": 0.4884,
       "ny": 0.1507
@@ -16178,7 +16178,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2262s",
       "region": "Mount Chiliad",
-      "note": "On a wooded trail loop, Sandy Shores hills.",
+      "note": "At Tremor's Rock in Senora National Park, south of the Sandy Shores Medical Center.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-47.png",
       "nx": 0.609,
       "ny": 0.3949
@@ -16211,7 +16211,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=2403s",
       "region": "Grand Senora Desert",
-      "note": "Near the airfield access road loop.",
+      "note": "On top of the stairs of the northernmost radio telescope dish at the Satellite Relay Station, Route 68.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-50.png",
       "nx": 0.6124,
       "ny": 0.4393

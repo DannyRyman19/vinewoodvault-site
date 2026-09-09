@@ -146,3 +146,22 @@ footer a { color: var(--dim); }
   .hero .wm { width: 88%; }
   header.site nav { gap: 12px; }
 }
+
+/* ---- App Store badge ----
+   Apple's own artwork, unmodified and self-hosted, per their identity
+   guidelines: the white variant because the page is near black, at 60px tall
+   (their floor is 40) with clear space around it of more than the 10% of
+   badge height they ask for. Only the wrapper is styled - never the badge. */
+.appstore {
+  display: inline-block;
+  margin: 26px 0 6px;
+  line-height: 0;                 /* no descender gap under the artwork */
+  border-radius: 10px;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+/* height:auto keeps Apple's exact 119.664:40 proportions - the integer
+   attributes on the img are only there to reserve space and avoid a
+   layout shift while the SVG loads. */
+.appstore img { width: 180px; height: auto; display: block; }
+.appstore:hover { transform: translateY(-1px); opacity: 0.9; }
+.appstore:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }

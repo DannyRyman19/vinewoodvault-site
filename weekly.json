@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "week": "2026-10-01",
+  "startsAt": "2026-10-01T09:00:00Z",
+  "endsAt": "2026-10-08T09:00:00Z",
+  "headline": "GTA Online Event Week: Halloween Event Returns (October 1st-7th)",
+  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-returns-october-1st-7th/",
+  "bonuses": [
+    {
+      "activity": "Halloween Featured Series: Slasher, Ramius - Slasher",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "Halloween Survivals",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "San Andreas Super Sport Series",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "Community Race Series",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "Bail Office Standard and Most Wanted Targets",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "Dispatch Work",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "UFO Business Battles",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "Jack O' Lanterns",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "Ghosts Exposed",
+      "reward": "2X GTA$ on"
+    }
+  ],
+  "discounts": [
+    {
+      "item": "Agency Properties and Upgrades",
+      "amount": "40% off"
+    },
+    {
+      "item": "Albany Brigham, Albany Fränken Stange, Albany Lurcher, Declasse Tornado Rat Rod, LCC Sanctus",
+      "amount": "40% off"
+    },
+    {
+      "item": "Benefactor Schlagen GT, Declasse Vigero ZX, Grotti Brioso 300 and more",
+      "amount": "30% off"
+    },
+    {
+      "item": "Helicopters and Aircraft",
+      "amount": "30% off"
+    }
+  ],
+  "vehicles": [
+    {
+      "kind": "podium",
+      "name": "Lampadati Cinquemila",
+      "detail": "Lucky Wheel spin"
+    },
+    {
+      "kind": "prizeRide",
+      "name": "Vapid Dominator GTT",
+      "detail": "Top 5 in LS Car Meet Race for 3 days"
+    },
+    {
+      "kind": "testRide",
+      "name": "Maibatsu MonstroCiti",
+      "detail": "Hao Premium Test Ride"
+    },
+    {
+      "kind": "testRide",
+      "name": "Ocelot Locust, Dewbauchee Seven-70, Declasse Vamos",
+      "detail": "Test Track Vehicles"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "Cheerleader Massacre 3 T-Shirt",
+      "how": "Claim from clothing stores"
+    },
+    {
+      "item": "GTA$500,000",
+      "how": "Complete 5 Security Contracts"
+    },
+    {
+      "item": "GTA$2,000,000",
+      "how": "Complete all Weekly Challenges"
+    },
+    {
+      "item": "GTA$1,000,000 and Green Vintage Skull Mask",
+      "how": "Secure 2 Bail Office Bounties"
+    }
+  ],
+  "notes": [
+    "Halloween event with returning modes: Slashers, Phantom Car, Peyote Plants and more",
+    "Kortz Center Heist has new Primary Targets with bonus GTA$400,000 for no-death completion",
+    "FIB Priority File pays double this week"
+  ]
+}

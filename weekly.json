@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "week": "2026-10-01",
   "startsAt": "2026-10-01T09:00:00Z",
   "endsAt": "2026-10-08T09:00:00Z",
@@ -7,7 +7,7 @@
   "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-returns-october-1st-7th/",
   "bonuses": [
     {
-      "activity": "Halloween Featured Series: Slasher, Ramius - Slasher",
+      "activity": "Slasher, Ramius – Slasher",
       "reward": "3X GTA$ and RP"
     },
     {
@@ -23,7 +23,7 @@
       "reward": "3X GTA$ and RP"
     },
     {
-      "activity": "Bail Office Standard and Most Wanted Targets",
+      "activity": "Bail Office Bounties",
       "reward": "2X GTA$ and RP"
     },
     {
@@ -40,24 +40,69 @@
     },
     {
       "activity": "Ghosts Exposed",
-      "reward": "2X GTA$ on"
+      "reward": "2X GTA$"
     }
   ],
+  "sourceName": "RockstarINTEL",
   "discounts": [
     {
-      "item": "Agency Properties and Upgrades",
+      "item": "Agency Properties including Upgrades and Modifications",
       "amount": "40% off"
     },
     {
-      "item": "Albany Brigham, Albany Fränken Stange, Albany Lurcher, Declasse Tornado Rat Rod, LCC Sanctus",
+      "item": "Albany Brigham",
       "amount": "40% off"
     },
     {
-      "item": "Benefactor Schlagen GT, Declasse Vigero ZX, Grotti Brioso 300 and more",
+      "item": "Albany Fränken Stange",
+      "amount": "40% off"
+    },
+    {
+      "item": "Albany Lurcher",
+      "amount": "40% off"
+    },
+    {
+      "item": "Declasse Tornado Rat Rod",
+      "amount": "40% off"
+    },
+    {
+      "item": "LCC Sanctus",
+      "amount": "40% off"
+    },
+    {
+      "item": "Benefactor Schlagen GT",
       "amount": "30% off"
     },
     {
-      "item": "Helicopters and Aircraft",
+      "item": "Declasse Vigero ZX",
+      "amount": "30% off"
+    },
+    {
+      "item": "Grotti Brioso 300",
+      "amount": "30% off"
+    },
+    {
+      "item": "Lampadati Komoda",
+      "amount": "30% off"
+    },
+    {
+      "item": "Nagasaki Buzzard Attack Chopper",
+      "amount": "30% off"
+    },
+    {
+      "item": "Nagasaki Ultralight",
+      "amount": "30% off"
+    },
+    {
+      "item": "Ocelot Ardent",
+      "amount": "30% off"
+    },
+    {
+      "item": "Sea Sparrow",
+      "amount": "30% off"
+    },
+    {
+      "item": "Western Powersurge",
       "amount": "30% off"
     }
   ],
@@ -70,40 +115,133 @@
     {
       "kind": "prizeRide",
       "name": "Vapid Dominator GTT",
-      "detail": "Top 5 in LS Car Meet Race for 3 days"
+      "detail": "Place top 5 in LS Car Meet Race 3 days in a row"
     },
     {
       "kind": "testRide",
       "name": "Maibatsu MonstroCiti",
-      "detail": "Hao Premium Test Ride"
+      "detail": "Premium Test Ride (PS5, Xbox Series X/S, PC)"
     },
     {
       "kind": "testRide",
-      "name": "Ocelot Locust, Dewbauchee Seven-70, Declasse Vamos",
-      "detail": "Test Track Vehicles"
+      "name": "Ocelot Locust",
+      "detail": "Test Track"
+    },
+    {
+      "kind": "testRide",
+      "name": "Dewbauchee Seven-70",
+      "detail": "Test Track"
+    },
+    {
+      "kind": "testRide",
+      "name": "Declasse Vamos",
+      "detail": "Test Track"
     }
   ],
   "rewards": [
     {
       "item": "Cheerleader Massacre 3 T-Shirt",
-      "how": "Claim from clothing stores"
+      "how": "Claim from clothing stores through October 7"
     },
     {
       "item": "GTA$500,000",
-      "how": "Complete 5 Security Contracts"
+      "how": "Complete five Security Contracts"
     },
     {
       "item": "GTA$2,000,000",
-      "how": "Complete all Weekly Challenges"
+      "how": "Complete all Weekly Challenges through November 4"
     },
     {
-      "item": "GTA$1,000,000 and Green Vintage Skull Mask",
-      "how": "Secure 2 Bail Office Bounties"
+      "item": "Green Vintage Skull Mask",
+      "how": "Secure two Bail Office Bounties"
     }
   ],
+  "gunVan": [
+    {
+      "item": "Knife",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "El Strickler",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Combat Shotgun",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Precision Rifle",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Up-n-Atomizer",
+      "deal": "10% off",
+      "plusDeal": "50% off"
+    },
+    {
+      "item": "Unholy Hellbringer",
+      "deal": "10% off",
+      "plusDeal": "50% off"
+    },
+    {
+      "item": "Widowmaker",
+      "deal": "10% off",
+      "plusDeal": "50% off"
+    },
+    {
+      "item": "Service Carbine",
+      "deal": "30% off",
+      "plusDeal": "30% off"
+    },
+    {
+      "item": "Baseball Bat",
+      "deal": "Free"
+    },
+    {
+      "item": "The Shocker",
+      "deal": "Free"
+    },
+    {
+      "item": "Pipe Bombs",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Super Light Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Light Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Standard Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Heavy Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Super Heavy Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    }
+  ],
+  "gtaPlus": [
+    "2 Lucky Wheel spins per 24 hours"
+  ],
   "notes": [
-    "Halloween event with returning modes: Slashers, Phantom Car, Peyote Plants and more",
-    "Kortz Center Heist has new Primary Targets with bonus GTA$400,000 for no-death completion",
-    "FIB Priority File pays double this week"
+    "Halloween event returns with Slashers, Phantom Car, Peyote Plants and more",
+    "Kortz Center Heist receives new Primary Targets",
+    "Premium Race: Arms Race, HSW Time Trial: Ron Alternates"
   ]
 }

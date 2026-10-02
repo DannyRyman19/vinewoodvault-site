@@ -1,5 +1,5 @@
 {
-  "version": 102,
+  "version": 103,
   "categories": [
     {
       "id": "missions",
@@ -7224,8 +7224,8 @@
         "Run over the actor during your escape in the JB 700"
       ],
       "iconURL": "https://vinewoodvault.djr.li/images/checklist-icons/mission-043-deep-inside.jpg",
-      "nx": 0.3626,
-      "ny": 0.7134
+      "nx": 0.3639,
+      "ny": 0.7131
     },
     {
       "id": "mission-044-minor-turbulence",

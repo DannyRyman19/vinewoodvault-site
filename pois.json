@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 106,
   "categories": [
     {
       "id": "missions",
@@ -226,6 +226,19 @@
       "intro": "GTA Online: 25 snowmen to smash, available only during the festive season (roughly mid-December to early January) and back every year. Not required for anything - purely seasonal."
     },
     {
+      "id": "ghosts-exposed",
+      "label": "Ghosts Exposed",
+      "symbol": "camera.fill",
+      "colorHex": "B39DDB",
+      "verb": "photographed",
+      "intro": "GTA Online Halloween event: 10 ghosts to photograph with your phone camera, one per in-game hour between 8pm and 6am, each there for about 2 real minutes. GTA$20,000 and 500 RP each, plus GTA$50,000 and the Ghosts Exposed Jacket for all 10. The 10th, Devin Weston, only appears once you've photographed the other nine. Seasonal, back each October.",
+      "section": "online",
+      "milestone": {
+        "text": "Photograph all 10 Ghosts",
+        "group": "Collectibles"
+      }
+    },
+    {
       "id": "store-robberies",
       "label": "Store Robberies",
       "symbol": "bag.fill",
@@ -338,7 +351,8 @@
       "tallyTarget": 8,
       "linkedCategories": [
         "stranger-missions"
-      ]
+      ],
+      "missable": true
     },
     {
       "id": "achievement-welcome-to-los-santos",
@@ -458,7 +472,8 @@
       "subgroup": "Single Player - Bronze",
       "linkedMissions": [
         "property-mckenzie-field-hangar"
-      ]
+      ],
+      "missable": true
     },
     {
       "id": "achievement-multi-disciplined",
@@ -521,7 +536,8 @@
       "tallyTarget": 5,
       "linkedCategories": [
         "stranger-missions"
-      ]
+      ],
+      "missable": true
     },
     {
       "id": "achievement-show-off",
@@ -539,7 +555,8 @@
       "title": "Three Man Army",
       "category": "achievements",
       "note": "Needs all three protagonists alive and switchable, so it is off the table after [Something Sensible](poi:mission-069-something-sensible) or [The Time's Come](poi:mission-069b-the-times-come). Keep everyone with [The Third Way](poi:mission-069c-the-third-way) and you can do it any time after the story. Gather Michael, Franklin, and Trevor together off-mission and hold a 3-star wanted level for 3 minutes.",
-      "subgroup": "Single Player - Bronze"
+      "subgroup": "Single Player - Bronze",
+      "missable": true
     },
     {
       "id": "achievement-out-of-your-depth",
@@ -553,7 +570,8 @@
       "title": "Altruist Acolyte",
       "category": "achievements",
       "note": "Trevor only, so ending the story with [Something Sensible](poi:mission-069-something-sensible) closes it off; either other ending keeps him. Playing as Trevor, pick up a hitchhiker from a random encounter and drop them at the Altruist Cult instead of their real destination.",
-      "subgroup": "Single Player - Bronze"
+      "subgroup": "Single Player - Bronze",
+      "missable": true
     },
     {
       "id": "achievement-a-lot-of-cheddar",
@@ -629,7 +647,8 @@
       "title": "Wanted: Alive or Alive",
       "category": "achievements",
       "note": "Trevor only, so [Something Sensible](poi:mission-069-something-sensible) rules it out. Maude also hands out only a limited run of bail-bond targets, so don't leave every one until last. Playing as Trevor, bring a target in alive and hand them to Maude.",
-      "subgroup": "Single Player - Bronze"
+      "subgroup": "Single Player - Bronze",
+      "missable": true
     },
     {
       "id": "achievement-los-santos-customs",
@@ -2522,6 +2541,106 @@
       "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-10.jpg",
       "nx": 0.3125,
       "ny": 0.6919
+    },
+    {
+      "id": "ghosts-exposed-001",
+      "title": "Ghost 1",
+      "category": "ghosts-exposed",
+      "note": "8pm to 9pm in-game. In the window or on the broken roof of a run-down house in Paleto Bay.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=111s",
+      "region": "Paleto Bay",
+      "nx": 0.457,
+      "ny": 0.1353
+    },
+    {
+      "id": "ghosts-exposed-002",
+      "title": "Ghost 2",
+      "category": "ghosts-exposed",
+      "note": "9pm to 10pm. At the homeless encampment in the freeway underpass in Strawberry.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=154s",
+      "region": "Strawberry",
+      "nx": 0.4651,
+      "ny": 0.7736
+    },
+    {
+      "id": "ghosts-exposed-003",
+      "title": "Ghost 3",
+      "category": "ghosts-exposed",
+      "note": "10pm to 11pm. At the damaged barn in Grapeseed, on either side of the platform.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=185s",
+      "region": "Grapeseed",
+      "nx": 0.6076,
+      "ny": 0.2759
+    },
+    {
+      "id": "ghosts-exposed-004",
+      "title": "Ghost 4",
+      "category": "ghosts-exposed",
+      "note": "11pm to midnight. On top of the Miriam Turner Overpass near the airport.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=220s",
+      "region": "Los Santos International Airport",
+      "nx": 0.4076,
+      "ny": 0.8595
+    },
+    {
+      "id": "ghosts-exposed-005",
+      "title": "Ghost 5",
+      "category": "ghosts-exposed",
+      "note": "1am to 2am. At El Gordo Lighthouse, either at the top or by the barrier.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=258s",
+      "region": "El Gordo Lighthouse",
+      "nx": 0.7323,
+      "ny": 0.2554
+    },
+    {
+      "id": "ghosts-exposed-006",
+      "title": "Ghost 6",
+      "category": "ghosts-exposed",
+      "note": "2am to 3am. In the doorway under the Raven sign, or above the train tracks in front of the traffic lights.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=293s",
+      "region": "Cypress Flats",
+      "nx": 0.5347,
+      "ny": 0.853
+    },
+    {
+      "id": "ghosts-exposed-007",
+      "title": "Ghost 7",
+      "category": "ghosts-exposed",
+      "note": "3am to 4am. On the porch or at the back door of the abandoned house.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=326s",
+      "region": "Grand Senora Desert",
+      "nx": 0.4654,
+      "ny": 0.4224
+    },
+    {
+      "id": "ghosts-exposed-008",
+      "title": "Ghost 8",
+      "category": "ghosts-exposed",
+      "note": "4am to 5am. Inside the Little Seoul tower, at the very top.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=359s",
+      "region": "Little Seoul",
+      "nx": 0.3891,
+      "ny": 0.7336
+    },
+    {
+      "id": "ghosts-exposed-009",
+      "title": "Ghost 9",
+      "category": "ghosts-exposed",
+      "note": "5am to 6am. At the top or the bottom of the waterfall.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=392s",
+      "region": "Tongva Hills",
+      "nx": 0.3188,
+      "ny": 0.5073
+    },
+    {
+      "id": "ghosts-exposed-010",
+      "title": "Ghost 10: Devin Weston",
+      "category": "ghosts-exposed",
+      "note": "Midnight to 1am, and only once you've photographed the other nine. The ghost of Devin Weston, on top of the Sonar Collections Dock.",
+      "videoURL": "https://www.youtube.com/watch?v=1AVO9VCQzVU&t=427s",
+      "region": "Paleto Cove",
+      "nx": 0.3212,
+      "ny": 0.256
     },
     {
       "id": "hidden-package-01",
@@ -14707,7 +14826,8 @@
       "note": "Lenny Avery's 'For Sale' sign on Playa Vista, Del Perro - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3084,
       "ny": 0.713,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-01.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-01.png",
+      "missable": true
     },
     {
       "id": "realty-sign-02",
@@ -14718,7 +14838,8 @@
       "note": "Lenny Avery's 'For Sale' sign on Cougar Avenue, Del Perro - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3194,
       "ny": 0.711,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-02.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-02.png",
+      "missable": true
     },
     {
       "id": "realty-sign-03",
@@ -14729,7 +14850,8 @@
       "note": "Lenny Avery's 'For Sale' sign on Sam Austin Drive, Richman - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3327,
       "ny": 0.6779,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-03.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-03.png",
+      "missable": true
     },
     {
       "id": "realty-sign-04",
@@ -14740,7 +14862,8 @@
       "note": "Lenny Avery's 'For Sale' sign on Portola Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3858,
       "ny": 0.6799,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-04.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-04.png",
+      "missable": true
     },
     {
       "id": "realty-sign-05",
@@ -14751,7 +14874,8 @@
       "note": "Lenny Avery's 'For Sale' sign on Greenwich Place, GWC and Golfing Society - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.358,
       "ny": 0.6517,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-05.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-05.png",
+      "missable": true
     },
     {
       "id": "realty-sign-06",
@@ -14762,7 +14886,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 2835 Picture Perfect Drive, Rockford Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3861,
       "ny": 0.6417,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-06.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-06.png",
+      "missable": true
     },
     {
       "id": "realty-sign-07",
@@ -14773,7 +14898,8 @@
       "note": "Lenny Avery's 'For Sale' sign on Milton Road, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.4125,
       "ny": 0.6298,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-07.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-07.png",
+      "missable": true
     },
     {
       "id": "realty-sign-08",
@@ -14784,7 +14910,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 3569 Cox Way, West Vinewood - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.4208,
       "ny": 0.6424,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-08.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-08.png",
+      "missable": true
     },
     {
       "id": "realty-sign-09",
@@ -14795,7 +14922,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 3667 Wild Oats Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.4638,
       "ny": 0.6376,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-09.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-09.png",
+      "missable": true
     },
     {
       "id": "realty-sign-10",
@@ -14806,7 +14934,8 @@
       "note": "Lenny Avery's 'For Sale' sign on Marlowe Drive at Lake Vinewood Estates, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.439,
       "ny": 0.5963,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-10.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-10.png",
+      "missable": true
     },
     {
       "id": "realty-sign-11",
@@ -14817,7 +14946,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 1119 Hillcrest Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3779,
       "ny": 0.6132,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-11.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-11.png",
+      "missable": true
     },
     {
       "id": "realty-sign-12",
@@ -14828,7 +14958,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 2106 Hangman Avenue, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3427,
       "ny": 0.6274,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-12.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-12.png",
+      "missable": true
     },
     {
       "id": "realty-sign-13",
@@ -14839,7 +14970,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 2103 Ace Jones Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3245,
       "ny": 0.6409,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-13.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-13.png",
+      "missable": true
     },
     {
       "id": "realty-sign-14",
@@ -14850,7 +14982,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 2114 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.3502,
       "ny": 0.637,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-14.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-14.png",
+      "missable": true
     },
     {
       "id": "realty-sign-15",
@@ -14861,7 +14994,8 @@
       "note": "Lenny Avery's 'For Sale' sign at 2134 South Mo Milton Drive, Vinewood Hills - destroy it for Josh Bernstein's Extra Commission.",
       "nx": 0.362,
       "ny": 0.6297,
-      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-15.png"
+      "imageURL": "https://vinewoodvault.djr.li/images/realty-signs/realty-sign-15.png",
+      "missable": true
     },
     {
       "id": "signal-jammer-01",

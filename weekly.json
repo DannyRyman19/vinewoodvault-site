@@ -1,46 +1,46 @@
 {
-  "version": 2,
-  "week": "2026-10-01",
-  "startsAt": "2026-10-01T09:00:00Z",
-  "endsAt": "2026-10-08T09:00:00Z",
-  "headline": "GTA Online Event Week: Halloween Event Returns (October 1st-7th)",
-  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-returns-october-1st-7th/",
+  "version": 3,
+  "week": "2026-10-08",
+  "startsAt": "2026-10-08T09:00:00Z",
+  "endsAt": "2026-10-15T09:00:00Z",
+  "headline": "GTA Online Event Week: Halloween Event Continues (October 8th-14th)",
+  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-continues-october-8th-14th/",
   "bonuses": [
     {
-      "activity": "Slasher, Ramius – Slasher",
-      "reward": "3X GTA$ and RP"
+      "activity": "Slasher, Ramius: Slasher",
+      "reward": "3x GTA$ and RP"
     },
     {
       "activity": "Halloween Survivals",
-      "reward": "3X GTA$ and RP"
+      "reward": "3x GTA$ and RP"
     },
     {
       "activity": "San Andreas Super Sport Series",
-      "reward": "3X GTA$ and RP"
+      "reward": "3x GTA$ and RP"
     },
     {
       "activity": "Community Race Series",
-      "reward": "3X GTA$ and RP"
+      "reward": "3x GTA$ and RP"
     },
     {
-      "activity": "Bail Office Bounties",
-      "reward": "2X GTA$ and RP"
+      "activity": "Bail Office and Most Wanted Targets",
+      "reward": "2x GTA$ and RP"
     },
     {
       "activity": "Dispatch Work",
-      "reward": "2X GTA$ and RP"
+      "reward": "2x GTA$ and RP"
     },
     {
       "activity": "UFO Business Battles",
-      "reward": "2X GTA$ and RP"
+      "reward": "2x GTA$ and RP"
     },
     {
       "activity": "Jack O' Lanterns",
-      "reward": "2X GTA$ and RP"
+      "reward": "2x GTA$ and RP"
     },
     {
       "activity": "Ghosts Exposed",
-      "reward": "2X GTA$"
+      "reward": "2x GTA$ and RP"
     }
   ],
   "sourceName": "RockstarINTEL",
@@ -70,61 +70,65 @@
       "amount": "40% off"
     },
     {
-      "item": "Benefactor Schlagen GT",
+      "item": "Annis Remus",
       "amount": "30% off"
     },
     {
-      "item": "Declasse Vigero ZX",
+      "item": "Benefactor Terrorbyte",
       "amount": "30% off"
     },
     {
-      "item": "Grotti Brioso 300",
+      "item": "BF Club",
       "amount": "30% off"
     },
     {
-      "item": "Lampadati Komoda",
+      "item": "Bravado Greenwood",
       "amount": "30% off"
     },
     {
-      "item": "Nagasaki Buzzard Attack Chopper",
+      "item": "Dinka Jester RR",
       "amount": "30% off"
     },
     {
-      "item": "Nagasaki Ultralight",
+      "item": "Emperor ETR1",
       "amount": "30% off"
     },
     {
-      "item": "Ocelot Ardent",
+      "item": "Grotti Itali GTO",
       "amount": "30% off"
     },
     {
-      "item": "Sea Sparrow",
+      "item": "Karin Hotring Everon",
       "amount": "30% off"
     },
     {
-      "item": "Western Powersurge",
+      "item": "Pegassi Tempesta",
+      "amount": "30% off"
+    },
+    {
+      "item": "Übermacht SC1",
       "amount": "30% off"
     }
   ],
   "vehicles": [
     {
       "kind": "podium",
-      "name": "Lampadati Cinquemila",
+      "name": "Annis Savestra",
       "detail": "Lucky Wheel spin"
     },
     {
       "kind": "prizeRide",
-      "name": "Vapid Dominator GTT",
-      "detail": "Place top 5 in LS Car Meet Race 3 days in a row"
+      "name": "Declasse Walton L35",
+      "detail": "Top 4 in LS Car Meet Race for 2 days"
     },
     {
       "kind": "testRide",
       "name": "Maibatsu MonstroCiti",
-      "detail": "Premium Test Ride (PS5, Xbox Series X/S, PC)"
+      "detail": "Premium Test Ride"
     },
     {
       "kind": "testRide",
-      "name": "Ocelot Locust",
+      "name": "Declasse Vamos",
       "detail": "Test Track"
     },
     {
@@ -134,26 +138,30 @@
     },
     {
       "kind": "testRide",
-      "name": "Declasse Vamos",
+      "name": "Ocelot Locust",
       "detail": "Test Track"
     }
   ],
   "rewards": [
     {
-      "item": "Cheerleader Massacre 3 T-Shirt",
+      "item": "Twilight Knife T-Shirt",
       "how": "Claim from clothing stores through October 7"
     },
     {
       "item": "GTA$500,000",
-      "how": "Complete five Security Contracts"
+      "how": "Complete five Payphone Hits by October 14"
     },
     {
       "item": "GTA$2,000,000",
-      "how": "Complete all Weekly Challenges through November 4"
+      "how": "Complete all Weekly Challenges by November 4"
     },
     {
-      "item": "Green Vintage Skull Mask",
-      "how": "Secure two Bail Office Bounties"
+      "item": "Pink Skull Emissive Mask",
+      "how": "Win in two Adversary modes"
+    },
+    {
+      "item": "Pegassi Oppressor motorcycle with Skulls livery",
+      "how": "GTA+ member claim"
     }
   ],
   "gunVan": [
@@ -237,11 +245,15 @@
     }
   ],
   "gtaPlus": [
-    "2 Lucky Wheel spins per 24 hours"
+    "2 Lucky Wheel spins every 24 hours",
+    "6x GTA$ and RP on Halloween Survivals",
+    "4x GTA$ and RP on Jack O' Lanterns",
+    "4x GTA$ on Ghosts Exposed",
+    "Free Pegassi Oppressor motorcycle with Skulls livery"
   ],
   "notes": [
-    "Halloween event returns with Slashers, Phantom Car, Peyote Plants and more",
-    "Kortz Center Heist receives new Primary Targets",
-    "Premium Race: Arms Race, HSW Time Trial: Ron Alternates"
+    "Halloween event continues with Slashers, Clone Slasher, Phantom Car and more",
+    "Kortz Center Heist receives new Primary Targets and GTA$400,000 bonus for no-death completion",
+    "FIB Priority File: The Black Box File pays double this week"
   ]
 }

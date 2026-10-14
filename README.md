@@ -15,6 +15,24 @@ Pages also serves without the `.html` extension, so:
 
 The app links to `/privacy` and `/terms` from the paywall.
 
+## GTA 5 guide pages (SEO)
+
+`gta-5/` holds one page per category (every item with its note, photo, video
+link and a numbered pin map) plus a hub at `/gta-5/`. They are generated from
+`pois.json`, never edited by hand:
+
+```
+uv run --with pillow python tools/build_guides.py --tiles ../VinewoodVault/Resources/DevTiles
+```
+
+`--tiles` redraws `images/maps/*.jpg` from the app's tile pyramid; leave it off
+to rebuild only the HTML. The script also writes `sitemap.xml` and
+`robots.txt`. `Tools/publish_content.py` in the app repo runs it on every
+content publish, so the pages track the app's data.
+
+After the first deploy, add the site to Google Search Console and submit
+`https://vinewoodvault.djr.li/sitemap.xml`.
+
 ## DNS
 
 `CNAME` in this repo sets the custom domain. Add a DNS record on the `djr.li`

@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "week": "2026-10-15",
+  "startsAt": "2026-10-15T09:00:00Z",
+  "endsAt": "2026-10-22T09:00:00Z",
+  "headline": "GTA Online Event Week: Halloween Event Continues (October 15th-21st)",
+  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-continues-october-15th-21st/",
+  "bonuses": [
+    {
+      "activity": "Slasher, Ramius: Slasher",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "Halloween Survivals",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "San Andreas Super Sport Series",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "Community Race Series",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "Bail Office Targets",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "Dispatch Work",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "UFO Business Battles",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "Jack O' Lanterns",
+      "reward": "2X GTA$ and RP"
+    },
+    {
+      "activity": "Ghosts Exposed",
+      "reward": "2X GTA$ and RP"
+    }
+  ],
+  "sourceName": "RockstarINTEL",
+  "discounts": [
+    {
+      "item": "Agency Properties including Upgrades and Modifications",
+      "amount": "40% off"
+    },
+    {
+      "item": "Albany Brigham",
+      "amount": "40% off"
+    },
+    {
+      "item": "Albany Fränken Stange",
+      "amount": "40% off"
+    },
+    {
+      "item": "Albany Lurcher",
+      "amount": "40% off"
+    },
+    {
+      "item": "Declasse Tornado Rat Rod",
+      "amount": "40% off"
+    },
+    {
+      "item": "LCC Sanctus",
+      "amount": "40% off"
+    },
+    {
+      "item": "Annis Hardy",
+      "amount": "30% off"
+    },
+    {
+      "item": "BF Raptor",
+      "amount": "30% off"
+    },
+    {
+      "item": "Buckingham Miljet",
+      "amount": "30% off"
+    },
+    {
+      "item": "Buckingham Tug",
+      "amount": "30% off"
+    },
+    {
+      "item": "Dinka Sugoi",
+      "amount": "30% off"
+    },
+    {
+      "item": "Karin Calico GTF",
+      "amount": "30% off"
+    },
+    {
+      "item": "Nagasaki Weaponized Dinghy",
+      "amount": "30% off"
+    },
+    {
+      "item": "Vapid Winky",
+      "amount": "30% off"
+    },
+    {
+      "item": "Western Company Annihilator",
+      "amount": "30% off"
+    }
+  ],
+  "vehicles": [
+    {
+      "kind": "podium",
+      "name": "Grotti LSCM Cheetah Classic",
+      "detail": "Lucky Wheel spin"
+    },
+    {
+      "kind": "prizeRide",
+      "name": "Dinka Kanjo SJ",
+      "detail": "Place top 5 in LS Car Meet Race"
+    },
+    {
+      "kind": "testRide",
+      "name": "Maibatsu MonstroCiti",
+      "detail": "Premium Test Ride"
+    },
+    {
+      "kind": "testRide",
+      "name": "Declasse Vamos",
+      "detail": "Test Track Vehicle"
+    },
+    {
+      "kind": "testRide",
+      "name": "Dewbauchee Seven-70",
+      "detail": "Test Track Vehicle"
+    },
+    {
+      "kind": "testRide",
+      "name": "Ocelot Locust",
+      "detail": "Test Track Vehicle"
+    }
+  ],
+  "rewards": [
+    {
+      "item": "Butchery and Other Hobbies T-Shirt",
+      "how": "Play GTA Online through October 21"
+    },
+    {
+      "item": "GTA$500,000",
+      "how": "Complete Don't Fuck With Dre before October 21"
+    },
+    {
+      "item": "GTA$2,000,000",
+      "how": "Complete all Weekly Challenges through November 4"
+    },
+    {
+      "item": "Pink Skull Emissive Mask",
+      "how": "Win in two Adversary modes"
+    }
+  ],
+  "gunVan": [
+    {
+      "item": "Knife",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "El Strickler",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Combat Shotgun",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Precision Rifle",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Up-n-Atomizer",
+      "deal": "10% off",
+      "plusDeal": "50% off"
+    },
+    {
+      "item": "Unholy Hellbringer",
+      "deal": "10% off",
+      "plusDeal": "50% off"
+    },
+    {
+      "item": "Widowmaker",
+      "deal": "10% off",
+      "plusDeal": "50% off"
+    },
+    {
+      "item": "Service Carbine",
+      "deal": "30% off",
+      "plusDeal": "30% off"
+    },
+    {
+      "item": "Baseball Bat",
+      "deal": "Free"
+    },
+    {
+      "item": "The Shocker",
+      "deal": "Free"
+    },
+    {
+      "item": "Pipe Bombs",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Super Light Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Light Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Standard Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Heavy Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Super Heavy Armor",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    }
+  ],
+  "gtaPlus": [
+    "2 Lucky Wheel spins per 24 hours",
+    "6X GTA$ and RP on Halloween Survivals",
+    "4X GTA$ and RP on Jack O' Lanterns",
+    "4X GTA$ on Ghosts Exposed"
+  ],
+  "notes": [
+    "Kortz Center Heist has new Primary Targets and reset bonuses",
+    "Halloween returning events with classic game modes",
+    "FIB Priority File: The Brute Force File pays double"
+  ]
+}

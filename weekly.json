@@ -1,46 +1,46 @@
 {
-  "version": 3,
-  "week": "2026-10-08",
-  "startsAt": "2026-10-08T09:00:00Z",
-  "endsAt": "2026-10-15T09:00:00Z",
-  "headline": "GTA Online Event Week: Halloween Event Continues (October 8th-14th)",
-  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-continues-october-8th-14th/",
+  "version": 4,
+  "week": "2026-10-15",
+  "startsAt": "2026-10-15T09:00:00Z",
+  "endsAt": "2026-10-22T09:00:00Z",
+  "headline": "GTA Online Event Week: Halloween Event Continues (October 15th-21st)",
+  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-continues-october-15th-21st/",
   "bonuses": [
     {
-      "activity": "Slasher, Ramius: Slasher",
-      "reward": "3x GTA$ and RP"
+      "activity": "Halloween Featured Series: Slasher, Ramius: Slasher",
+      "reward": "3X GTA$ and RP"
     },
     {
       "activity": "Halloween Survivals",
-      "reward": "3x GTA$ and RP"
+      "reward": "3X GTA$ and RP (6X for GTA+)"
     },
     {
-      "activity": "San Andreas Super Sport Series",
-      "reward": "3x GTA$ and RP"
+      "activity": "San Andreas Super Sport Series: Hotring Races, Random Transform Races",
+      "reward": "3X GTA$ and RP"
     },
     {
       "activity": "Community Race Series",
-      "reward": "3x GTA$ and RP"
+      "reward": "3X GTA$ and RP"
     },
     {
-      "activity": "Bail Office and Most Wanted Targets",
-      "reward": "2x GTA$ and RP"
+      "activity": "Bail Office Standard and Most Wanted Targets",
+      "reward": "2X GTA$ and RP"
     },
     {
       "activity": "Dispatch Work",
-      "reward": "2x GTA$ and RP"
+      "reward": "2X GTA$ and RP"
     },
     {
       "activity": "UFO Business Battles",
-      "reward": "2x GTA$ and RP"
+      "reward": "2X GTA$ and RP"
     },
     {
       "activity": "Jack O' Lanterns",
-      "reward": "2x GTA$ and RP"
+      "reward": "2X GTA$ on GTA$ (4X for GTA+)"
     },
     {
       "activity": "Ghosts Exposed",
-      "reward": "2x GTA$ and RP"
+      "reward": "2X GTA$ (4X for GTA+)"
     }
   ],
   "sourceName": "RockstarINTEL",
@@ -70,56 +70,52 @@
       "amount": "40% off"
     },
     {
-      "item": "Annis Remus",
+      "item": "Annis Hardy",
       "amount": "30% off"
     },
     {
-      "item": "Benefactor Terrorbyte",
+      "item": "BF Raptor",
       "amount": "30% off"
     },
     {
-      "item": "BF Club",
+      "item": "Buckingham Miljet",
       "amount": "30% off"
     },
     {
-      "item": "Bravado Greenwood",
+      "item": "Buckingham Tug",
       "amount": "30% off"
     },
     {
-      "item": "Dinka Jester RR",
+      "item": "Dinka Sugoi",
       "amount": "30% off"
     },
     {
-      "item": "Emperor ETR1",
+      "item": "Karin Calico GTF",
       "amount": "30% off"
     },
     {
-      "item": "Grotti Itali GTO",
+      "item": "Nagasaki Weaponized Dinghy",
       "amount": "30% off"
     },
     {
-      "item": "Karin Hotring Everon",
+      "item": "Vapid Winky",
       "amount": "30% off"
     },
     {
-      "item": "Pegassi Tempesta",
-      "amount": "30% off"
-    },
-    {
-      "item": "Übermacht SC1",
+      "item": "Western Company Annihilator",
       "amount": "30% off"
     }
   ],
   "vehicles": [
     {
       "kind": "podium",
-      "name": "Annis Savestra",
+      "name": "Grotti LSCM Cheetah Classic",
       "detail": "Lucky Wheel spin"
     },
     {
       "kind": "prizeRide",
-      "name": "Declasse Walton L35",
-      "detail": "Top 4 in LS Car Meet Race for 2 days"
+      "name": "Dinka Kanjo SJ",
+      "detail": "Top 5 in LS Car Meet Race"
     },
     {
       "kind": "testRide",
@@ -127,41 +123,37 @@
       "detail": "Premium Test Ride"
     },
     {
-      "kind": "testRide",
+      "kind": "other",
       "name": "Declasse Vamos",
       "detail": "Test Track"
     },
     {
-      "kind": "testRide",
+      "kind": "other",
       "name": "Dewbauchee Seven-70",
       "detail": "Test Track"
     },
     {
-      "kind": "testRide",
+      "kind": "other",
       "name": "Ocelot Locust",
       "detail": "Test Track"
     }
   ],
   "rewards": [
     {
-      "item": "Twilight Knife T-Shirt",
-      "how": "Claim from clothing stores through October 7"
+      "item": "Butchery and Other Hobbies T-Shirt",
+      "how": "Log in through October 21"
     },
     {
       "item": "GTA$500,000",
-      "how": "Complete five Payphone Hits by October 14"
+      "how": "Complete Don't Fuck With Dre by October 21"
     },
     {
       "item": "GTA$2,000,000",
       "how": "Complete all Weekly Challenges by November 4"
     },
     {
-      "item": "Pink Skull Emissive Mask",
+      "item": "GTA$1,000,000 and Pink Skull Emissive Mask",
       "how": "Win in two Adversary modes"
-    },
-    {
-      "item": "Pegassi Oppressor motorcycle with Skulls livery",
-      "how": "GTA+ member claim"
     }
   ],
   "gunVan": [
@@ -246,14 +238,13 @@
   ],
   "gtaPlus": [
     "2 Lucky Wheel spins every 24 hours",
-    "6x GTA$ and RP on Halloween Survivals",
-    "4x GTA$ and RP on Jack O' Lanterns",
-    "4x GTA$ on Ghosts Exposed",
-    "Free Pegassi Oppressor motorcycle with Skulls livery"
+    "6X GTA$ and RP on Halloween Survivals",
+    "4X GTA$ and RP on Jack O' Lanterns",
+    "4X GTA$ on Ghosts Exposed"
   ],
   "notes": [
-    "Halloween event continues with Slashers, Clone Slasher, Phantom Car and more",
-    "Kortz Center Heist receives new Primary Targets and GTA$400,000 bonus for no-death completion",
-    "FIB Priority File: The Black Box File pays double this week"
+    "Halloween event continues with returning modes and new activities",
+    "Kortz Center Heist features new Primary Targets with reset bonuses",
+    "FIB Priority File: The Brute Force File pays double"
   ]
 }

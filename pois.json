@@ -1,5 +1,5 @@
 {
-  "version": 106,
+  "version": 107,
   "categories": [
     {
       "id": "missions",
@@ -290,6 +290,163 @@
       "name": "Mount Chiliad",
       "nx": 0.5051,
       "ny": 0.2196
+    }
+  ],
+  "districtLabels": [
+    {
+      "name": "Mount Gordo",
+      "nx": 0.6825,
+      "ny": 0.1891
+    },
+    {
+      "name": "Braddock Pass",
+      "nx": 0.6373,
+      "ny": 0.1948
+    },
+    {
+      "name": "Chiliad Mountain State Wilderness",
+      "nx": 0.37,
+      "ny": 0.2718
+    },
+    {
+      "name": "Raton Canyon",
+      "nx": 0.3697,
+      "ny": 0.3314
+    },
+    {
+      "name": "North Chumash",
+      "nx": 0.2622,
+      "ny": 0.3326
+    },
+    {
+      "name": "Alamo Sea",
+      "nx": 0.5199,
+      "ny": 0.3576
+    },
+    {
+      "name": "San Chianski Mountain Range",
+      "nx": 0.7147,
+      "ny": 0.4203
+    },
+    {
+      "name": "Lago Zancudo",
+      "nx": 0.267,
+      "ny": 0.4375
+    },
+    {
+      "name": "Grand Senora Desert",
+      "nx": 0.5775,
+      "ny": 0.4385
+    },
+    {
+      "name": "Harmony",
+      "nx": 0.4836,
+      "ny": 0.4464
+    },
+    {
+      "name": "Tongva Hills",
+      "nx": 0.2602,
+      "ny": 0.5148
+    },
+    {
+      "name": "Great Chaparral",
+      "nx": 0.4671,
+      "ny": 0.5225
+    },
+    {
+      "name": "Tongva Valley",
+      "nx": 0.3355,
+      "ny": 0.5532
+    },
+    {
+      "name": "Chumash",
+      "nx": 0.1863,
+      "ny": 0.5994
+    },
+    {
+      "name": "Tataviam Mountains",
+      "nx": 0.6199,
+      "ny": 0.6492
+    },
+    {
+      "name": "Richman",
+      "nx": 0.3378,
+      "ny": 0.6692
+    },
+    {
+      "name": "Pacific Bluffs",
+      "nx": 0.2646,
+      "ny": 0.6736
+    },
+    {
+      "name": "Vinewood",
+      "nx": 0.4774,
+      "ny": 0.6831
+    },
+    {
+      "name": "Rockford Hills",
+      "nx": 0.39,
+      "ny": 0.7001
+    },
+    {
+      "name": "Morningwood",
+      "nx": 0.3396,
+      "ny": 0.6997
+    },
+    {
+      "name": "Backlot City",
+      "nx": 0.361,
+      "ny": 0.718
+    },
+    {
+      "name": "Del Perro",
+      "nx": 0.3204,
+      "ny": 0.7404
+    },
+    {
+      "name": "Downtown",
+      "nx": 0.4598,
+      "ny": 0.7456
+    },
+    {
+      "name": "Little Seoul",
+      "nx": 0.4016,
+      "ny": 0.7529
+    },
+    {
+      "name": "Vespucci",
+      "nx": 0.363,
+      "ny": 0.7851
+    },
+    {
+      "name": "Palomino Highlands",
+      "nx": 0.6427,
+      "ny": 0.7876
+    },
+    {
+      "name": "South Los Santos",
+      "nx": 0.465,
+      "ny": 0.809
+    },
+    {
+      "name": "East Los Santos",
+      "nx": 0.5534,
+      "ny": 0.8128
+    },
+    {
+      "name": "La Puerta",
+      "nx": 0.4097,
+      "ny": 0.8334
+    },
+    {
+      "name": "Port of South Los Santos",
+      "nx": 0.4591,
+      "ny": 0.8836
+    },
+    {
+      "name": "LS International Airport",
+      "nx": 0.3507,
+      "ny": 0.8876
     }
   ],
   "pois": [
@@ -15919,8 +16076,8 @@
       "region": "El Burro Heights",
       "note": "Inside the green container at the Murrieta Oil Field, northern El Burro Heights.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-07.png",
-      "nx": 0.5943,
-      "ny": 0.8101
+      "nx": 0.5942,
+      "ny": 0.8092
     },
     {
       "id": "spaceship-part-08",
@@ -16348,8 +16505,8 @@
       "region": "Grand Senora Desert",
       "note": "Southwest of Sandy Shores Airfield, by a static Marquis boat.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-46.png",
-      "nx": 0.5251,
-      "ny": 0.4441
+      "nx": 0.5248,
+      "ny": 0.4431
     },
     {
       "id": "spaceship-part-47",

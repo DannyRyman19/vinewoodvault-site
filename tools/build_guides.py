@@ -111,7 +111,7 @@ def clip(text, n):
 # ---------------------------------------------------------------- map
 
 WORLD = 11.0  # MapConfig.worldSpan, degrees, centred on 0,0
-WATER = (21, 65, 111)
+WATER = (13, 43, 79)  # the satellite tiles' open ocean (gtadb), which the app skips writing
 Z = 9
 
 
@@ -228,7 +228,9 @@ FOOT = """
 <footer>
   Unofficial and not affiliated with Rockstar Games or Take-Two Interactive.
   Grand Theft Auto and GTA are trademarks of Take-Two Interactive Software.
-  Game screenshots and map art belong to their respective owners.<br>
+  Game screenshots and map art belong to their respective owners.
+  Map imagery from <a href="https://map.gtadb.org">gtadb.org and contributors</a>
+  (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>), re-tiled.<br>
   &copy; {year} Vinewood Vault &middot;
   <a href="/privacy">Privacy</a> &middot; <a href="/terms">Terms</a> &middot;
   <a href="mailto:support@vinewoodvault.djr.li">support@vinewoodvault.djr.li</a>

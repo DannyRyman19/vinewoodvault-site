@@ -1,5 +1,5 @@
 {
-  "version": 107,
+  "version": 110,
   "categories": [
     {
       "id": "missions",
@@ -2608,6 +2608,7 @@
       "region": "Palomino Highlands",
       "note": "On the ocean floor in the bay off the east coast, in front of an old sunken paddle steamer.",
       "imageURL": "https://vinewoodvault.djr.li/images/epsilon-tracts/epsilon-tract-02.jpg",
+      "underwater": true,
       "nx": 0.6694,
       "ny": 0.7881
     },
@@ -2805,7 +2806,8 @@
       "category": "hidden-packages",
       "region": "Paleto Cove",
       "note": "Underwater near the tail section of a wrecked FlyUS airplane.",
-      "reward": "$12,000"
+      "reward": "$12,000",
+      "underwater": true
     },
     {
       "id": "hidden-package-02",
@@ -2813,7 +2815,8 @@
       "category": "hidden-packages",
       "region": "North Chumash",
       "note": "Underwater, inside a detached aircraft cabin.",
-      "reward": "$12,500"
+      "reward": "$12,500",
+      "underwater": true
     },
     {
       "id": "hidden-package-03",
@@ -2821,7 +2824,8 @@
       "category": "hidden-packages",
       "region": "Los Santos Docks",
       "note": "Underwater by a tanker ship wreckage.",
-      "reward": "$11,000"
+      "reward": "$11,000",
+      "underwater": true
     },
     {
       "id": "hidden-package-04",
@@ -2837,7 +2841,8 @@
       "category": "hidden-packages",
       "region": "Pacific Bluffs",
       "note": "Atop a sunken submarine in deep water.",
-      "reward": "$25,000"
+      "reward": "$25,000",
+      "underwater": true
     },
     {
       "id": "hidden-package-06",
@@ -2845,7 +2850,8 @@
       "category": "hidden-packages",
       "region": "Banning",
       "note": "Sitting on a shipping container in shallow water - no scuba gear needed.",
-      "reward": "$7,500"
+      "reward": "$7,500",
+      "underwater": true
     },
     {
       "id": "hidden-package-07",
@@ -2853,7 +2859,8 @@
       "category": "hidden-packages",
       "region": "Murrieta Heights",
       "note": "Underwater, tucked beneath the right tail wing of a crashed plane.",
-      "reward": "$16,500"
+      "reward": "$16,500",
+      "underwater": true
     },
     {
       "id": "hidden-package-08",
@@ -2861,7 +2868,8 @@
       "category": "hidden-packages",
       "region": "Palomino Highlands",
       "note": "Underwater in a steamer ship wreck near El Burro Heights.",
-      "reward": "$7,000"
+      "reward": "$7,000",
+      "underwater": true
     },
     {
       "id": "hidden-package-09",
@@ -2885,7 +2893,8 @@
       "category": "hidden-packages",
       "region": "Paleto Bay",
       "note": "Underwater near a rusted crop duster, in shark-infested waters.",
-      "reward": "$8,000"
+      "reward": "$8,000",
+      "underwater": true
     },
     {
       "id": "hidden-package-12",
@@ -8252,8 +8261,8 @@
       "region": "Banning",
       "note": "Under the crane by the Amigas fuel tankers, beneath the Miriam Turner Overpass south of Maze Bank Arena.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-03.png",
-      "nx": 0.4234,
-      "ny": 0.8629
+      "nx": 0.4241,
+      "ny": 0.8631
     },
     {
       "id": "monkey-mosaic-04",
@@ -8307,8 +8316,8 @@
       "region": "Murrieta Heights",
       "note": "Behind the East Electrical warehouse, Murrieta Heights.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-08.png",
-      "nx": 0.5461,
-      "ny": 0.7811
+      "nx": 0.5440,
+      "ny": 0.7813
     },
     {
       "id": "monkey-mosaic-09",
@@ -8384,8 +8393,8 @@
       "region": "Vespucci Beach",
       "note": "At the Vespucci Beach Recreation Center.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-15.png",
-      "nx": 0.3493,
-      "ny": 0.8103
+      "nx": 0.3479,
+      "ny": 0.8091
     },
     {
       "id": "monkey-mosaic-16",
@@ -8395,8 +8404,8 @@
       "region": "Del Perro Pier",
       "note": "On a bench at the end of Del Perro Pier, by Pleasure Pier.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-16.png",
-      "nx": 0.3034,
-      "ny": 0.7806
+      "nx": 0.3031,
+      "ny": 0.7809
     },
     {
       "id": "monkey-mosaic-17",
@@ -8417,8 +8426,8 @@
       "region": "Little Seoul",
       "note": "On the skate ramp at Decker Park, behind the Celltowa building, Little Seoul.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-18.png",
-      "nx": 0.3748,
-      "ny": 0.7417
+      "nx": 0.3744,
+      "ny": 0.7408
     },
     {
       "id": "monkey-mosaic-19",
@@ -8439,8 +8448,8 @@
       "region": "Morningwood",
       "note": "At Woody's Autos, Morningwood.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-20.png",
-      "nx": 0.3401,
-      "ny": 0.7067
+      "nx": 0.3400,
+      "ny": 0.7071
     },
     {
       "id": "monkey-mosaic-21",
@@ -8461,8 +8470,8 @@
       "region": "Pacific Bluffs",
       "note": "Behind a bush by Hill Valley Church in the Pacific Bluffs cemetery.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-22.png",
-      "nx": 0.3142,
-      "ny": 0.7002
+      "nx": 0.3134,
+      "ny": 0.6988
     },
     {
       "id": "monkey-mosaic-23",
@@ -8472,8 +8481,8 @@
       "region": "Richman",
       "note": "On the west side of the University of San Andreas library, Richman.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-23.png",
-      "nx": 0.3158,
-      "ny": 0.6641
+      "nx": 0.3155,
+      "ny": 0.6634
     },
     {
       "id": "monkey-mosaic-24",
@@ -8560,8 +8569,8 @@
       "region": "Mirror Park",
       "note": "In a bathroom stall by the Mirror Park lake.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-31.png",
-      "nx": 0.545,
-      "ny": 0.7315
+      "nx": 0.5456,
+      "ny": 0.7320
     },
     {
       "id": "monkey-mosaic-32",
@@ -8571,8 +8580,8 @@
       "region": "Downtown Vinewood",
       "note": "On the rear of the Vinewood Plaza Hotel, Downtown Vinewood, west of the Vinewood substation.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-32.png",
-      "nx": 0.5011,
-      "ny": 0.6666
+      "nx": 0.5006,
+      "ny": 0.6659
     },
     {
       "id": "monkey-mosaic-33",
@@ -8582,8 +8591,8 @@
       "region": "Downtown Vinewood",
       "note": "At the Mano a Mano store, Downtown Vinewood, west of the 24/7.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-33.png",
-      "nx": 0.4804,
-      "ny": 0.65
+      "nx": 0.4801,
+      "ny": 0.6492
     },
     {
       "id": "monkey-mosaic-34",
@@ -8593,8 +8602,8 @@
       "region": "West Vinewood",
       "note": "At the northwest corner of Bishop's WTF?! museum, between Downtown and West Vinewood.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-34.png",
-      "nx": 0.4594,
-      "ny": 0.6607
+      "nx": 0.4592,
+      "ny": 0.6601
     },
     {
       "id": "monkey-mosaic-35",
@@ -8615,8 +8624,8 @@
       "region": "Vinewood Hills",
       "note": "By the western planetarium dome at the Galileo Observatory.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-36.png",
-      "nx": 0.4188,
-      "ny": 0.5889
+      "nx": 0.4181,
+      "ny": 0.5887
     },
     {
       "id": "monkey-mosaic-37",
@@ -8637,8 +8646,8 @@
       "region": "Grand Senora Desert",
       "note": "Behind the northwest building of the Thomson Scrapyard, east Grand Senora Desert.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-38.png",
-      "nx": 0.6505,
-      "ny": 0.4204
+      "nx": 0.6478,
+      "ny": 0.4213
     },
     {
       "id": "monkey-mosaic-39",
@@ -8714,8 +8723,8 @@
       "region": "Zancudo River",
       "note": "Behind the Zancudo River discount store on Route 68.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-45.png",
-      "nx": 0.362,
-      "ny": 0.4561
+      "nx": 0.3623,
+      "ny": 0.4554
     },
     {
       "id": "monkey-mosaic-46",
@@ -8758,8 +8767,8 @@
       "region": "Grapeseed",
       "note": "At a wooden building opposite the LTD Gasoline, northwest Grapeseed.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-49.png",
-      "nx": 0.5885,
-      "ny": 0.2726
+      "nx": 0.5883,
+      "ny": 0.2717
     },
     {
       "id": "monkey-mosaic-50",
@@ -12576,6 +12585,7 @@
       "note": "In the deepest water between Banning and Elysian Island.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=167s",
       "region": "Elysian Island",
+      "underwater": true,
       "nx": 0.4388,
       "ny": 0.8651
     },
@@ -12586,6 +12596,7 @@
       "note": "Underwater off Elysian Island, by a tanker wreck.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=247s",
       "region": "Elysian Island",
+      "underwater": true,
       "nx": 0.4411,
       "ny": 0.9144
     },
@@ -12596,6 +12607,7 @@
       "note": "Underwater between the Los Santos Naval Port and Terminal, among debris.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=335s",
       "region": "Terminal",
+      "underwater": true,
       "nx": 0.5057,
       "ny": 0.9404
     },
@@ -12605,6 +12617,7 @@
       "category": "online-peyote-plants",
       "note": "Underwater by two large poles and other debris.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=386s",
+      "underwater": true,
       "nx": 0.5183,
       "ny": 0.9046
     },
@@ -12625,6 +12638,7 @@
       "note": "Underwater off Palomino Highlands, between two rock formations.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=493s",
       "region": "Palomino Highlands",
+      "underwater": true,
       "nx": 0.6287,
       "ny": 0.9005
     },
@@ -12655,6 +12669,7 @@
       "note": "Underwater near the end of the Los Santos River.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=631s",
       "region": "Cypress Flats",
+      "underwater": true,
       "nx": 0.5026,
       "ny": 0.8571
     },
@@ -12695,6 +12710,7 @@
       "note": "Underwater at the entrance to the Puerto Del Sol marina.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=832s",
       "region": "Puerto Del Sol",
+      "underwater": true,
       "nx": 0.3684,
       "ny": 0.8179
     },
@@ -12715,6 +12731,7 @@
       "note": "Underwater by a large rock southeast of Del Perro Pier.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=925s",
       "region": "Del Perro Pier",
+      "underwater": true,
       "nx": 0.3097,
       "ny": 0.7845
     },
@@ -12725,6 +12742,7 @@
       "note": "On a broad sandy seabed off Pacific Bluffs.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=977s",
       "region": "Pacific Bluffs",
+      "underwater": true,
       "nx": 0.2687,
       "ny": 0.7313
     },
@@ -12854,6 +12872,7 @@
       "category": "online-peyote-plants",
       "note": "By the bulkheads of a sunken container ship.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=1665s",
+      "underwater": true,
       "nx": 0.7129,
       "ny": 0.7095
     },
@@ -12864,6 +12883,7 @@
       "note": "Underwater in the sea cave.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=1722s",
       "region": "Tataviam Mountains",
+      "underwater": true,
       "nx": 0.6919,
       "ny": 0.6119
     },
@@ -12934,6 +12954,7 @@
       "note": "Off Pacific Bluffs, in the deepest part of the underwater area (the small dark circle on the map).",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=2096s",
       "region": "Pacific Bluffs",
+      "underwater": true,
       "nx": 0.2039,
       "ny": 0.6886
     },
@@ -13013,6 +13034,7 @@
       "category": "online-peyote-plants",
       "note": "Underwater near Coveted Cove, ringed by large rocks.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=2593s",
+      "underwater": true,
       "nx": 0.7329,
       "ny": 0.4943
     },
@@ -13033,6 +13055,7 @@
       "note": "Deep underwater off the San Chianski Mountain Range.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=2688s",
       "region": "San Chianski Mountain Range",
+      "underwater": true,
       "nx": 0.7974,
       "ny": 0.3415
     },
@@ -13043,6 +13066,7 @@
       "note": "Underwater on a rock in the small cove by the El Gordo Lighthouse.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=2791s",
       "region": "El Gordo Lighthouse",
+      "underwater": true,
       "nx": 0.7305,
       "ny": 0.248
     },
@@ -13063,6 +13087,7 @@
       "note": "Underwater in the Alamo Sea, by some smaller rocks.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=2890s",
       "region": "Alamo Sea",
+      "underwater": true,
       "nx": 0.5513,
       "ny": 0.3417
     },
@@ -13123,6 +13148,7 @@
       "note": "Underwater east of Calafia Road, by large concrete rubble.",
       "region": "Alamo Sea",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=3206s",
+      "underwater": true,
       "nx": 0.442,
       "ny": 0.3454
     },
@@ -13163,6 +13189,7 @@
       "note": "Underwater west of the Zancudo bridge, by a sunken wooden boat.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=3420s",
       "region": "Zancudo",
+      "underwater": true,
       "nx": 0.217,
       "ny": 0.4656
     },
@@ -13183,6 +13210,7 @@
       "note": "On a sandy patch of seabed off North Chumash.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=3543s",
       "region": "Chumash",
+      "underwater": true,
       "nx": 0.2146,
       "ny": 0.3545
     },
@@ -13203,6 +13231,7 @@
       "note": "Underwater in Paleto Cove by coral, near the Sonar Collections Dock.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=3717s",
       "region": "Paleto Cove",
+      "underwater": true,
       "nx": 0.3226,
       "ny": 0.2436
     },
@@ -13243,6 +13272,7 @@
       "note": "Underwater by coral at the small archipelago off North Point.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=3929s",
       "region": "Paleto Bay",
+      "underwater": true,
       "nx": 0.4567,
       "ny": 0.0769
     },
@@ -13253,6 +13283,7 @@
       "note": "On a sandy seabed off Paleto Bay.",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=4005s",
       "region": "Paleto Bay",
+      "underwater": true,
       "nx": 0.497,
       "ny": 0.1079
     },
@@ -13273,6 +13304,7 @@
       "note": "Under a small underwater overhang off Heart Attacks Beach.",
       "region": "Chumash",
       "videoURL": "https://www.youtube.com/watch?v=0AxFPGS3j1w&t=4113s",
+      "underwater": true,
       "nx": 0.6575,
       "ny": 0.1305
     },
@@ -13335,6 +13367,7 @@
       "region": "Sea",
       "note": "Underwater east of LSIA, between the airport warehouses and the Port of Los Santos. Home in on the plant's audio cue.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-20.jpg",
+      "underwater": true,
       "nx": 0.4072,
       "ny": 0.8867
     },
@@ -13357,6 +13390,7 @@
       "region": "Land",
       "note": "In the water off the edge of the pier. Hard to see down there, so home in on the plant's audio cue.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-04.jpg",
+      "underwater": true,
       "nx": 0.3001,
       "ny": 0.7801
     },
@@ -13467,6 +13501,7 @@
       "region": "Sea",
       "note": "Underwater in the Pacific west of the Lago Zancudo river mouth, by a sunken rowboat. Follow the plant's audio cue to pin it down.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-14.jpg",
+      "underwater": true,
       "nx": 0.2186,
       "ny": 0.4652
     },
@@ -13511,6 +13546,7 @@
       "region": "Sea",
       "note": "Underwater in the northwest corner of the Alamo Sea. Visibility is poor, so home in on the plant's audio cue.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-18.jpg",
+      "underwater": true,
       "nx": 0.4589,
       "ny": 0.326
     },
@@ -13533,6 +13569,7 @@
       "region": "Sea",
       "note": "Offshore off Paleto Bay, northeast of the sunken FlyUS wreck by a rock archway. Scuba gear helps; follow the plant's audio cue in through the murk.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-02.jpg",
+      "underwater": true,
       "nx": 0.3889,
       "ny": 0.1352
     },
@@ -13577,6 +13614,7 @@
       "region": "Sea",
       "note": "Deep underwater in the Pacific east of Humane Labs, among sunken military wreckage. Bring scuba gear and follow the plant's audio cue in.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-24.jpg",
+      "underwater": true,
       "nx": 0.7948,
       "ny": 0.381
     },
@@ -16032,6 +16070,7 @@
       "region": "Elysian Island",
       "note": "Underwater in the southeast corner of the Los Santos Naval Port.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-03.png",
+      "underwater": true,
       "nx": 0.48,
       "ny": 0.9026
     },
@@ -16208,6 +16247,7 @@
       "region": "Land Act Dam",
       "note": "Underwater below the jetty at Land Act Dam, Tataviam Mountains.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-19.png",
+      "underwater": true,
       "nx": 0.5897,
       "ny": 0.6744
     },
@@ -16241,6 +16281,7 @@
       "region": "Vinewood Hills",
       "note": "Underwater at the edge of the Lake Vinewood dam.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-22.png",
+      "underwater": true,
       "nx": 0.4545,
       "ny": 0.6252
     },
@@ -16318,6 +16359,7 @@
       "note": "Underwater under the waterfall, Tongva Hills.",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1458s",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-29.png",
+      "underwater": true,
       "nx": 0.3357,
       "ny": 0.5042
     },
@@ -16362,6 +16404,7 @@
       "region": "RON Alternates Wind Farm",
       "note": "Underwater inside Coveted Cove, east of the RON Alternates Wind Farm.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-33.png",
+      "underwater": true,
       "nx": 0.7067,
       "ny": 0.4998
     },
@@ -16527,6 +16570,7 @@
       "region": "Sandy Shores",
       "note": "Underwater north of the Boat House, northwest Sandy Shores.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-48.png",
+      "underwater": true,
       "nx": 0.5744,
       "ny": 0.3636
     },
@@ -17808,6 +17852,21 @@
       "note": "Same airport side, heading southwest against traffic: the ramp at the road's end by the tarmac entrance. Bike for the dodging.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=11s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-01.png",
+      "jump": {
+        "runUp": [
+          0.37578,
+          0.89996,
+          12.7
+        ],
+        "ramp": [
+          0.37361,
+          0.90376
+        ],
+        "landing": [
+          0.37004,
+          0.91071
+        ]
+      },
       "nx": 0.3742,
       "ny": 0.9028
     },
@@ -17819,6 +17878,21 @@
       "note": "Southeast side of the airport: northeast up the ring road, veer left at the hedge gap onto the 'Prepare for Take-Off' ramp, into the lot behind. Bike recommended.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=57s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-02.png",
+      "jump": {
+        "runUp": [
+          0.38159,
+          0.89182,
+          19.1
+        ],
+        "ramp": [
+          0.38274,
+          0.88544
+        ],
+        "landing": [
+          0.38362,
+          0.87922
+        ]
+      },
       "nx": 0.3827,
       "ny": 0.8863
     },
@@ -17830,6 +17904,21 @@
       "note": "From the airport freeway off-ramp: southwest to the second 'Prepare for Take-Off' ramp with enough speed to land on the parking-structure roof. Bike.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=114s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-03.png",
+      "jump": {
+        "runUp": [
+          0.37363,
+          0.87555,
+          12.8
+        ],
+        "ramp": [
+          0.37166,
+          0.88162
+        ],
+        "landing": [
+          0.37064,
+          0.88744
+        ]
+      },
       "nx": 0.3718,
       "ny": 0.8815
     },
@@ -17841,6 +17930,21 @@
       "note": "Industrial area on Banning, just north of Elysian Island: west along the access road and across the river.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=169s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-04.png",
+      "jump": {
+        "runUp": [
+          0.46605,
+          0.85581,
+          5.1
+        ],
+        "ramp": [
+          0.4595,
+          0.85599
+        ],
+        "landing": [
+          0.45471,
+          0.85609
+        ]
+      },
       "nx": 0.4598,
       "ny": 0.856
     },
@@ -17852,6 +17956,21 @@
       "note": "Parking lot beside the highway, north of jump 12: east off a gravel pile, landing on the freeway behind it.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=210s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-05.png",
+      "jump": {
+        "runUp": [
+          0.4769,
+          0.88534,
+          8.6
+        ],
+        "ramp": [
+          0.48214,
+          0.88308
+        ],
+        "landing": [
+          0.48623,
+          0.8813
+        ]
+      },
       "nx": 0.4823,
       "ny": 0.8834
     },
@@ -17863,6 +17982,21 @@
       "note": "North of the jump 15 ramp, facing south: south down the east side of the warehouses to the ramp at the end of the first one, landing on the second warehouse roof.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=246s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-06.png",
+      "jump": {
+        "runUp": [
+          0.4614,
+          0.91164,
+          5.0
+        ],
+        "ramp": [
+          0.46222,
+          0.91818
+        ],
+        "landing": [
+          0.46292,
+          0.92492
+        ]
+      },
       "nx": 0.4623,
       "ny": 0.9178
     },
@@ -17874,6 +18008,21 @@
       "note": "Same setup as jump 17, but a ramp halfway along the second warehouse that puts you on its roof.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=283s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-07.png",
+      "jump": {
+        "runUp": [
+          0.46129,
+          0.93506,
+          5.0
+        ],
+        "ramp": [
+          0.46115,
+          0.93888
+        ],
+        "landing": [
+          0.46261,
+          0.94501
+        ]
+      },
       "nx": 0.4612,
       "ny": 0.9391
     },
@@ -17885,6 +18034,21 @@
       "note": "East edge of the pier heading north, past the Port of Los Santos building: the ramp by the smaller buildings. Leave it angled slightly right to land short of the tanks.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=324s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-08.png",
+      "jump": {
+        "runUp": [
+          0.47628,
+          0.92964,
+          4.8
+        ],
+        "ramp": [
+          0.47556,
+          0.92297
+        ],
+        "landing": [
+          0.47447,
+          0.91574
+        ]
+      },
       "nx": 0.4759,
       "ny": 0.9238
     },
@@ -17896,6 +18060,21 @@
       "note": "South end of the pier, east side of the warehouses: north to the ramp by the northern building, swerving left at the coned truck, up onto the roof.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=366s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-09.png",
+      "jump": {
+        "runUp": [
+          0.46833,
+          0.92496,
+          4.8
+        ],
+        "ramp": [
+          0.4656,
+          0.91869
+        ],
+        "landing": [
+          0.46377,
+          0.91146
+        ]
+      },
       "nx": 0.4658,
       "ny": 0.9189
     },
@@ -17907,6 +18086,21 @@
       "note": "West side of the docks, south of the Bristol Coke Storage entrance: north past the warehouses, bear northeast, and take the ramp at the very end onto the highway. Ignore the gravel piles; a bike fits the narrow entry.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=406s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-10.png",
+      "jump": {
+        "runUp": [
+          0.46273,
+          0.90785,
+          10.4
+        ],
+        "ramp": [
+          0.46676,
+          0.90382
+        ],
+        "landing": [
+          0.47223,
+          0.89836
+        ]
+      },
       "nx": 0.4668,
       "ny": 0.9043
     },
@@ -17918,6 +18112,21 @@
       "note": "Same start as jump 15, but straight north to the ramp directly ahead. Hit it dead on with plenty of speed for the water gap.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=448s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-11.png",
+      "jump": {
+        "runUp": [
+          0.46139,
+          0.91281,
+          5.0
+        ],
+        "ramp": [
+          0.46108,
+          0.90678
+        ],
+        "landing": [
+          0.45937,
+          0.89929
+        ]
+      },
       "nx": 0.4612,
       "ny": 0.9072
     },
@@ -17929,6 +18138,21 @@
       "note": "East of the Bristol Coke Storage entrance: east across the lot to the ramp leaning on a tanker rail car. Narrow entry (a bike is easier) and a wide water gap, so brake hard on landing.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=493s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-12.png",
+      "jump": {
+        "runUp": [
+          0.47677,
+          0.89266,
+          11.9
+        ],
+        "ramp": [
+          0.48246,
+          0.89223
+        ],
+        "landing": [
+          0.49083,
+          0.8916
+        ]
+      },
       "nx": 0.4824,
       "ny": 0.8921
     },
@@ -17940,6 +18164,21 @@
       "note": "South side of the Elysian Island shipping terminal, west of jump 11: build speed to clear two highway lanes, then off the gravel pile. On a bike, aim right of the tallest peak.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=535s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-13.png",
+      "jump": {
+        "runUp": [
+          0.50128,
+          0.92301,
+          5.0
+        ],
+        "ramp": [
+          0.50694,
+          0.92228
+        ],
+        "landing": [
+          0.51387,
+          0.92188
+        ]
+      },
       "nx": 0.5066,
       "ny": 0.9231
     },
@@ -17951,6 +18190,21 @@
       "note": "West along the north edge of Jetsam Terminal: the ramp at the end clears a strip of water, so carry speed.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=577s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-14.png",
+      "jump": {
+        "runUp": [
+          0.52207,
+          0.91469,
+          8.1
+        ],
+        "ramp": [
+          0.51637,
+          0.91462
+        ],
+        "landing": [
+          0.50943,
+          0.91455
+        ]
+      },
       "nx": 0.5167,
       "ny": 0.9155
     },
@@ -17962,6 +18216,21 @@
       "note": "Covington Engineering complex, El Burro Heights: off the corrugated-metal roofing ramp. The landing slopes uphill, so keep the nose up.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=623s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-15.png",
+      "jump": {
+        "runUp": [
+          0.57744,
+          0.85502,
+          76.3
+        ],
+        "ramp": [
+          0.5727,
+          0.85808
+        ],
+        "landing": [
+          0.56585,
+          0.86263
+        ]
+      },
       "nx": 0.5732,
       "ny": 0.8581
     },
@@ -17973,6 +18242,21 @@
       "note": "Top floor of the parking structure by the City of Davis Courts Building, Rancho: northeast along the deck and off the end ramp.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=663s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-16.png",
+      "jump": {
+        "runUp": [
+          0.48132,
+          0.81516,
+          42.0
+        ],
+        "ramp": [
+          0.48465,
+          0.81255
+        ],
+        "landing": [
+          0.48774,
+          0.80873
+        ]
+      },
       "nx": 0.4849,
       "ny": 0.8129
     },
@@ -17984,6 +18268,21 @@
       "note": "Top floor of the parking structure southeast of Bert's Tool Supply Co.: southwest along the deck and off the ramp at the end.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=733s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-17.png",
+      "jump": {
+        "runUp": [
+          0.48399,
+          0.78577,
+          41.9
+        ],
+        "ramp": [
+          0.48897,
+          0.78968
+        ],
+        "landing": [
+          0.49495,
+          0.79458
+        ]
+      },
       "nx": 0.4887,
       "ny": 0.7901
     },
@@ -17995,6 +18294,21 @@
       "note": "The big Sprunk Xtreme ramp in the Get Aweigh boat dealership parking lot.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=812s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-18.png",
+      "jump": {
+        "runUp": [
+          0.48866,
+          0.7697,
+          28.4
+        ],
+        "ramp": [
+          0.48234,
+          0.77185
+        ],
+        "landing": [
+          0.47805,
+          0.7738
+        ]
+      },
       "nx": 0.4827,
       "ny": 0.7719
     },
@@ -18006,6 +18320,21 @@
       "note": "Parking lot east of the Pillbox Hill Ammu-Nation: west into the attached parking structure, up to level two and off the side ramp.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=850s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-19.png",
+      "jump": {
+        "runUp": [
+          0.45825,
+          0.76351,
+          28.4
+        ],
+        "ramp": [
+          0.45164,
+          0.76185
+        ],
+        "landing": [
+          0.44681,
+          0.76071
+        ]
+      },
       "nx": 0.4521,
       "ny": 0.7623
     },
@@ -18017,6 +18346,21 @@
       "note": "Top floor of The Bean Machine parking structure: east off the fallen billboard, landing between the palm rows in the plaza below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=887s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-20.png",
+      "jump": {
+        "runUp": [
+          0.42424,
+          0.73771,
+          47.4
+        ],
+        "ramp": [
+          0.43028,
+          0.74047
+        ],
+        "landing": [
+          0.43632,
+          0.74316
+        ]
+      },
       "nx": 0.4296,
       "ny": 0.74
     },
@@ -18028,6 +18372,21 @@
       "note": "Overpass north of the Maze Bank tower: east across the intersection, through the coned-off broken barricade.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=968s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-21.png",
+      "jump": {
+        "runUp": [
+          0.44997,
+          0.73905,
+          43.2
+        ],
+        "ramp": [
+          0.45641,
+          0.74121
+        ],
+        "landing": [
+          0.46013,
+          0.74269
+        ]
+      },
       "nx": 0.4561,
       "ny": 0.7413
     },
@@ -18039,6 +18398,21 @@
       "note": "By the Pillbox Hill Medical Center's ER entrance: through the broken railing on the walkway just to the south. Easier on a motorcycle, the landing is tight.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1002s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-22.png",
+      "jump": {
+        "runUp": [
+          0.4736,
+          0.72664,
+          41.8
+        ],
+        "ramp": [
+          0.47736,
+          0.72801
+        ],
+        "landing": [
+          0.48175,
+          0.72949
+        ]
+      },
       "nx": 0.4777,
       "ny": 0.7286
     },
@@ -18050,6 +18424,21 @@
       "note": "Northeast corner of the Arcadius Business Center: west across the intersection and through the broken barricade under the green light.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1034s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-23.png",
+      "jump": {
+        "runUp": [
+          0.45198,
+          0.7221,
+          37.2
+        ],
+        "ramp": [
+          0.4454,
+          0.72126
+        ],
+        "landing": [
+          0.44084,
+          0.72043
+        ]
+      },
       "nx": 0.4457,
       "ny": 0.7216
     },
@@ -18061,6 +18450,21 @@
       "note": "On the Betsy O'Neill Playhouse lower-parkade entrance ramp: north to the coned ramp at the bottom.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1067s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-24.png",
+      "jump": {
+        "runUp": [
+          0.41595,
+          0.72817,
+          29.1
+        ],
+        "ramp": [
+          0.41606,
+          0.72166
+        ],
+        "landing": [
+          0.41594,
+          0.71588
+        ]
+      },
       "nx": 0.4156,
       "ny": 0.7222
     },
@@ -18072,6 +18476,21 @@
       "note": "Southbound La Puerta Freeway, exit 3A to Olympic Freeway east: past the signs and sawhorses, off the gravel pile with the board, onto the exit road below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1102s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-25.png",
+      "jump": {
+        "runUp": [
+          0.41688,
+          0.76842,
+          44.3
+        ],
+        "ramp": [
+          0.41636,
+          0.77471
+        ],
+        "landing": [
+          0.4162,
+          0.78278
+        ]
+      },
       "nx": 0.4165,
       "ny": 0.7746
     },
@@ -18083,6 +18502,21 @@
       "note": "Olympic Freeway west to exit 1B, then exit 1A for Downtown/Little Seoul: at the bottom, the jump on the left clears the cross street onto the opposite on-ramp.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1143s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-26.png",
+      "jump": {
+        "runUp": [
+          0.41538,
+          0.78595,
+          35.3
+        ],
+        "ramp": [
+          0.41542,
+          0.79132
+        ],
+        "landing": [
+          0.41512,
+          0.79656
+        ]
+      },
       "nx": 0.4155,
       "ny": 0.7915
     },
@@ -18094,6 +18528,21 @@
       "note": "Northbound La Puerta Freeway, Exit 2A: the construction ramp on the left at the bottom, across to the southbound lane. Not too much speed or you clip the ceiling.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1180s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-27.png",
+      "jump": {
+        "runUp": [
+          0.41717,
+          0.80882,
+          27.4
+        ],
+        "ramp": [
+          0.4178,
+          0.80429
+        ],
+        "landing": [
+          0.41734,
+          0.79884
+        ]
+      },
       "nx": 0.4173,
       "ny": 0.8048
     },
@@ -18105,6 +18554,21 @@
       "note": "From the jump 26 heliport, southeast across the freeway onto the grass: the concrete pad above the floodway inlet straight ahead.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1220s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-28.png",
+      "jump": {
+        "runUp": [
+          0.40425,
+          0.79637,
+          14.8
+        ],
+        "ramp": [
+          0.40959,
+          0.79837
+        ],
+        "landing": [
+          0.41379,
+          0.79995
+        ]
+      },
       "nx": 0.4103,
       "ny": 0.7986
     },
@@ -18116,6 +18580,21 @@
       "note": "Down the northwest bank of the floodway: maximum speed into the end ramp to clear the whole freeway and land on the heliport. A fast bike is ideal.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1253s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-29.png",
+      "jump": {
+        "runUp": [
+          0.41055,
+          0.80524,
+          1.9
+        ],
+        "ramp": [
+          0.40427,
+          0.80206
+        ],
+        "landing": [
+          0.39239,
+          0.79774
+        ]
+      },
       "nx": 0.4048,
       "ny": 0.8024
     },
@@ -18127,6 +18606,21 @@
       "note": "West end of Adam's Apple Boulevard, past the sawhorses: west across the grass and off the ledge at the construction area.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1310s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-30.png",
+      "jump": {
+        "runUp": [
+          0.40936,
+          0.76508,
+          21.5
+        ],
+        "ramp": [
+          0.40123,
+          0.76491
+        ],
+        "landing": [
+          0.39629,
+          0.76415
+        ]
+      },
       "nx": 0.4016,
       "ny": 0.7655
     },
@@ -18138,6 +18632,21 @@
       "note": "West along Vespucci Boulevard to the pagoda at the end: off its stairs.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1343s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-31.png",
+      "jump": {
+        "runUp": [
+          0.38706,
+          0.74562,
+          19.7
+        ],
+        "ramp": [
+          0.38025,
+          0.74689
+        ],
+        "landing": [
+          0.37621,
+          0.74744
+        ]
+      },
       "nx": 0.3798,
       "ny": 0.7471
     },
@@ -18149,6 +18658,21 @@
       "note": "Freeway on-ramp off Equality Boulevard: northwest, through the poles at the road edge and straight off the cliff.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1375s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-32.png",
+      "jump": {
+        "runUp": [
+          0.32803,
+          0.74065,
+          17.8
+        ],
+        "ramp": [
+          0.32195,
+          0.73817
+        ],
+        "landing": [
+          0.31565,
+          0.7351
+        ]
+      },
       "nx": 0.3224,
       "ny": 0.7388
     },
@@ -18160,6 +18684,21 @@
       "note": "By the Von Crastenburg building: northwest up the ramp into The Jetty, through the sawhorses and between the glass frontages.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1414s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-33.png",
+      "jump": {
+        "runUp": [
+          0.29306,
+          0.7053,
+          45.0
+        ],
+        "ramp": [
+          0.28887,
+          0.703
+        ],
+        "landing": [
+          0.2835,
+          0.69885
+        ]
+      },
       "nx": 0.2891,
       "ny": 0.7032
     },
@@ -18171,6 +18710,21 @@
       "note": "The Los Santos Golf Club jump: enough speed to clear it but not so much that you hit the archway. A golf cart can make it.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1457s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-34.png",
+      "jump": {
+        "runUp": [
+          0.35938,
+          0.67573,
+          52.9
+        ],
+        "ramp": [
+          0.36499,
+          0.67674
+        ],
+        "landing": [
+          0.36659,
+          0.67703
+        ]
+      },
       "nx": 0.3651,
       "ny": 0.6768
     },
@@ -18182,6 +18736,21 @@
       "note": "West end of Hangman Avenue where it bends south: straight south through the sawhorses and off the ledge.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1493s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-35.png",
+      "jump": {
+        "runUp": [
+          0.33522,
+          0.64017,
+          110.4
+        ],
+        "ramp": [
+          0.33449,
+          0.6447
+        ],
+        "landing": [
+          0.33516,
+          0.65406
+        ]
+      },
       "nx": 0.3342,
       "ny": 0.6443
     },
@@ -18193,6 +18762,21 @@
       "note": "East side of the Rockford Plaza parking structure: up the entrance ramp, then straight off the side through the sawhorses at the top.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1536s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-36.png",
+      "jump": {
+        "runUp": [
+          0.44249,
+          0.69559,
+          43.8
+        ],
+        "ramp": [
+          0.43256,
+          0.69469
+        ],
+        "landing": [
+          0.42628,
+          0.69346
+        ]
+      },
       "nx": 0.432,
       "ny": 0.695
     },
@@ -18204,6 +18788,21 @@
       "note": "South into the plaza behind Police Department Headquarters: through the first courtyard and off the small back ramp, over the railing.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1571s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-37.png",
+      "jump": {
+        "runUp": [
+          0.40645,
+          0.68038,
+          42.0
+        ],
+        "ramp": [
+          0.40353,
+          0.68635
+        ],
+        "landing": [
+          0.4022,
+          0.6892
+        ]
+      },
       "nx": 0.4034,
       "ny": 0.6866
     },
@@ -18215,6 +18814,21 @@
       "note": "West on Boulevard Del Perro: swerve left onto the parking-structure ramp opposite the church. Easy on the throttle, and mind the signs and the station entrance on landing.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1605s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-38.png",
+      "jump": {
+        "runUp": [
+          0.39862,
+          0.67849,
+          38.5
+        ],
+        "ramp": [
+          0.39296,
+          0.68213
+        ],
+        "landing": [
+          0.38598,
+          0.68541
+        ]
+      },
       "nx": 0.3939,
       "ny": 0.682
     },
@@ -18226,6 +18840,21 @@
       "note": "On the side of the Del Perro Freeway on-ramp. Hit it straight and land flat, it is a long drop.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1644s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-39.png",
+      "jump": {
+        "runUp": [
+          0.49599,
+          0.72137,
+          44.4
+        ],
+        "ramp": [
+          0.49828,
+          0.72592
+        ],
+        "landing": [
+          0.50077,
+          0.73459
+        ]
+      },
       "nx": 0.4974,
       "ny": 0.7247
     },
@@ -18237,6 +18866,21 @@
       "note": "High in the Vinewood Hills: follow the flat stretch down to the gravel berm on the shoulder, which ramps you over the road below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1693s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-40.png",
+      "jump": {
+        "runUp": [
+          0.44961,
+          0.54235,
+          227.4
+        ],
+        "ramp": [
+          0.45294,
+          0.53772
+        ],
+        "landing": [
+          0.45797,
+          0.53073
+        ]
+      },
       "nx": 0.4524,
       "ny": 0.5377
     },
@@ -18248,6 +18892,21 @@
       "note": "Senora Freeway southbound onto the Los Santos Freeway: where it curves south, through the gap in the left barrier and off the cliff to the hill below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1750s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-41.png",
+      "jump": {
+        "runUp": [
+          0.59597,
+          0.50472,
+          63.6
+        ],
+        "ramp": [
+          0.59779,
+          0.51078
+        ],
+        "landing": [
+          0.60077,
+          0.51841
+        ]
+      },
       "nx": 0.5985,
       "ny": 0.5036
     },
@@ -18259,6 +18918,21 @@
       "note": "In the Ron Alternates Wind Farm: off the dirt mound at the marker, onto the freeway below.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1794s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-42.png",
+      "jump": {
+        "runUp": [
+          0.6173,
+          0.52249,
+          91.1
+        ],
+        "ramp": [
+          0.61355,
+          0.51997
+        ],
+        "landing": [
+          0.60781,
+          0.51787
+        ]
+      },
       "nx": 0.6142,
       "ny": 0.5197
     },
@@ -18270,6 +18944,21 @@
       "note": "The hills straight above Bolingbroke Penitentiary: down the slope and land inside the outer walls. An off-road truck handles the rough ground best.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1840s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-43.png",
+      "jump": {
+        "runUp": [
+          0.58891,
+          0.49258,
+          75.8
+        ],
+        "ramp": [
+          0.58919,
+          0.48689
+        ],
+        "landing": [
+          0.58952,
+          0.48017
+        ]
+      },
       "nx": 0.589,
       "ny": 0.4869
     },
@@ -18281,6 +18970,21 @@
       "note": "The 'Private Road No Access' house south of the Grand Senora airstrip: north off the dirt mound, over the hill and onto the airstrip.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1882s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-44.png",
+      "jump": {
+        "runUp": [
+          0.59079,
+          0.42638,
+          50.9
+        ],
+        "ramp": [
+          0.58885,
+          0.42072
+        ],
+        "landing": [
+          0.5877,
+          0.41471
+        ]
+      },
       "nx": 0.589,
       "ny": 0.4205
     },
@@ -18292,6 +18996,21 @@
       "note": "Behind Sandy's Gas Station: west to the ramp by the ruined motel, clearing the building into the lot beyond.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1925s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-45.png",
+      "jump": {
+        "runUp": [
+          0.59161,
+          0.3808,
+          34.0
+        ],
+        "ramp": [
+          0.58539,
+          0.38382
+        ],
+        "landing": [
+          0.57798,
+          0.38768
+        ]
+      },
       "nx": 0.5855,
       "ny": 0.3843
     },
@@ -18303,6 +19022,21 @@
       "note": "Cassidy Trail on the north side of the Alamo Sea: off the rock ledge, across the canyon to the far trail.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=1973s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-46.png",
+      "jump": {
+        "runUp": [
+          0.49547,
+          0.33029,
+          52.2
+        ],
+        "ramp": [
+          0.49063,
+          0.32536
+        ],
+        "landing": [
+          0.48701,
+          0.32173
+        ]
+      },
       "nx": 0.491,
       "ny": 0.3254
     },
@@ -18314,6 +19048,21 @@
       "note": "Partway through Raton Canyon: off the large cliff on the curve.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2010s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-47.png",
+      "jump": {
+        "runUp": [
+          0.37543,
+          0.33943,
+          139.1
+        ],
+        "ramp": [
+          0.37302,
+          0.3367
+        ],
+        "landing": [
+          0.3677,
+          0.33189
+        ]
+      },
       "nx": 0.3734,
       "ny": 0.3373
     },
@@ -18325,6 +19074,21 @@
       "note": "Northeast along Procopio Promenade: the broken bridge at the road's end ramps you across the gorge to the trail opposite.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2047s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-48.png",
+      "jump": {
+        "runUp": [
+          0.43451,
+          0.14652,
+          10.1
+        ],
+        "ramp": [
+          0.43896,
+          0.14184
+        ],
+        "landing": [
+          0.4439,
+          0.13679
+        ]
+      },
       "nx": 0.4387,
       "ny": 0.1412
     },
@@ -18336,6 +19100,21 @@
       "note": "From the Fast Serve Gasoline on Great Ocean Highway: west into the construction site opposite and off the big dirt hill in the middle.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2079s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-49.png",
+      "jump": {
+        "runUp": [
+          0.45965,
+          0.14289,
+          30.5
+        ],
+        "ramp": [
+          0.45549,
+          0.14652
+        ],
+        "landing": [
+          0.45261,
+          0.14959
+        ]
+      },
       "nx": 0.4557,
       "ny": 0.1455
     },
@@ -18347,6 +19126,21 @@
       "note": "Down the lighthouse road: off the end jump onto the lighthouse rock itself, a narrow target. A car holds speed better than a bike through the sawhorses.",
       "videoURL": "https://www.youtube.com/watch?v=EA6C9z_wMVE&t=2120s",
       "imageURL": "https://vinewoodvault.djr.li/images/stunt-jumps/stunt-jump-50.png",
+      "jump": {
+        "runUp": [
+          0.71871,
+          0.25818,
+          18.5
+        ],
+        "ramp": [
+          0.72542,
+          0.25786
+        ],
+        "landing": [
+          0.7319,
+          0.25665
+        ]
+      },
       "nx": 0.7247,
       "ny": 0.2573
     },

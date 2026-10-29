@@ -1,46 +1,46 @@
 {
-  "version": 5,
-  "week": "2026-10-22",
-  "startsAt": "2026-10-22T09:00:00Z",
-  "endsAt": "2026-10-29T10:00:00Z",
-  "headline": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
-  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-october-22nd-28th/",
+  "version": 6,
+  "week": "2026-10-29",
+  "startsAt": "2026-10-29T10:00:00Z",
+  "endsAt": "2026-11-05T10:00:00Z",
+  "headline": "GTA Online Event Week: Halloween Event Ends (October 29th-November 4th)",
+  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-ends-october-29th-november-4th/",
   "bonuses": [
     {
       "activity": "Halloween Featured Series: Slasher, Ramius: Slasher",
-      "reward": "3X GTA$ and RP"
+      "reward": "3x GTA$ and RP"
     },
     {
       "activity": "Halloween Survivals",
-      "reward": "3X GTA$ and RP"
+      "reward": "3x GTA$ and RP (6x for GTA+ Members)"
     },
     {
       "activity": "San Andreas Super Sport Series",
-      "reward": "3X GTA$ and RP"
+      "reward": "3x GTA$ and RP"
     },
     {
       "activity": "Community Mission Series",
-      "reward": "3X GTA$ and RP"
+      "reward": "3x GTA$ and RP"
     },
     {
-      "activity": "Bail Office Standard and Most Wanted Targets",
-      "reward": "2X GTA$ and RP"
+      "activity": "Bail Office Targets",
+      "reward": "2x GTA$ and RP"
     },
     {
       "activity": "Dispatch Work",
-      "reward": "2X GTA$ and RP"
+      "reward": "2x GTA$ and RP"
     },
     {
       "activity": "UFO Business Battles",
-      "reward": "2X GTA$ and RP"
+      "reward": "2x GTA$ and RP"
     },
     {
       "activity": "Jack O' Lanterns",
-      "reward": "2X GTA$ and RP"
+      "reward": "2x GTA$ (4x for GTA+ Members)"
     },
     {
       "activity": "Ghosts Exposed",
-      "reward": "2X GTA$ and RP"
+      "reward": "2x GTA$ (4x for GTA+ Members)"
     }
   ],
   "sourceName": "RockstarINTEL",
@@ -70,56 +70,52 @@
       "amount": "40% off"
     },
     {
-      "item": "Annis Euros X32",
+      "item": "Bravado Gauntlet Classic",
       "amount": "30% off"
     },
     {
-      "item": "Bravado Dorado",
+      "item": "Invetero Coquette D10",
       "amount": "30% off"
     },
     {
-      "item": "Canis Freecrawler",
+      "item": "Karin Futo GTX",
       "amount": "30% off"
     },
     {
-      "item": "Dinka Veto Classic",
+      "item": "MTL Dune",
       "amount": "30% off"
     },
     {
-      "item": "HVY Dump",
+      "item": "Pegassi Infernus Classic",
       "amount": "30% off"
     },
     {
-      "item": "Karin Boor",
+      "item": "Shitzu Keitora",
       "amount": "30% off"
     },
     {
-      "item": "Ocelot Swinger",
+      "item": "Übermacht Zion Classic",
       "amount": "30% off"
     },
     {
-      "item": "Pfister Astron",
+      "item": "Vapid Firebolt ASP",
       "amount": "30% off"
     },
     {
-      "item": "Vapid Desert Raid",
-      "amount": "30% off"
-    },
-    {
-      "item": "Vulcar Nebula Turbo",
+      "item": "Vapid FMJ",
       "amount": "30% off"
     }
   ],
   "vehicles": [
     {
       "kind": "podium",
-      "name": "Pfister Comet S2",
-      "detail": "Lucky Wheel spin"
+      "name": "Progen GP1",
+      "detail": "Daily spin at Casino"
     },
     {
       "kind": "prizeRide",
-      "name": "Grotti Itali Classic",
-      "detail": "Top 2 in LS Car Meet Race 2 days"
+      "name": "Karin Previon",
+      "detail": "Top 5 in LS Car Meet Race 2 days in a row"
     },
     {
       "kind": "testRide",
@@ -144,20 +140,32 @@
   ],
   "rewards": [
     {
-      "item": "White & Red Tech Demon Mask",
-      "how": "Play GTA Online through October 28"
+      "item": "Brown Vintage Skull Mask",
+      "how": "Play through November 4"
     },
     {
-      "item": "GTA$500,000",
-      "how": "Complete all three Short Trips by October 28"
+      "item": "Halloween Chute Bag",
+      "how": "Play through November 4"
     },
     {
       "item": "GTA$2,000,000",
       "how": "Complete all Weekly Challenges by November 4"
     },
     {
-      "item": "Gray Interloper Outfit",
-      "how": "Complete all waves of a Survival"
+      "item": "Día de Muertos Tee",
+      "how": "Log in"
+    },
+    {
+      "item": "Maritime Calaca Mask",
+      "how": "Log in"
+    },
+    {
+      "item": "Royal Calaca Mask",
+      "how": "Log in"
+    },
+    {
+      "item": "Slasher Clown Outfit",
+      "how": "Complete 10 waves in Survival without dying"
     }
   ],
   "gunVan": [
@@ -242,14 +250,14 @@
     }
   ],
   "gtaPlus": [
-    "2 Lucky Wheel spins per 24 hours",
-    "6X GTA$ and RP on Halloween Survivals",
-    "4X GTA$ and RP on Jack O' Lanterns",
-    "4X GTA$ on Ghosts Exposed"
+    "2 Lucky Wheel spins every 24 hours",
+    "6x GTA$ and RP on Halloween Survivals",
+    "4x GTA$ and RP on Jack O' Lanterns",
+    "4x GTA$ and RP on Ghosts Exposed"
   ],
   "notes": [
-    "Returning Halloween events including Slashers, Phantom Car, Peyote Plants and more",
-    "Kortz Center Heist new Primary Targets with GTA$400,000 bonus for no-death runs",
-    "FIB Priority File doubles payouts"
+    "Halloween event concludes November 4",
+    "Kortz Center Heist has new Primary Targets and reset bonus",
+    "Returning Halloween modes: Slashers, Clone Slasher, Phantom Car, Cerberus Surprise, Possessed Animals"
   ]
 }

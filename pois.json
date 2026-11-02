@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "categories": [
     {
       "id": "missions",
@@ -8316,7 +8316,7 @@
       "region": "Murrieta Heights",
       "note": "Behind the East Electrical warehouse, Murrieta Heights.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-08.png",
-      "nx": 0.5440,
+      "nx": 0.544,
       "ny": 0.7813
     },
     {
@@ -8448,7 +8448,7 @@
       "region": "Morningwood",
       "note": "At Woody's Autos, Morningwood.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-20.png",
-      "nx": 0.3400,
+      "nx": 0.34,
       "ny": 0.7071
     },
     {
@@ -8570,7 +8570,7 @@
       "note": "In a bathroom stall by the Mirror Park lake.",
       "imageURL": "https://vinewoodvault.djr.li/images/monkey-mosaics/monkey-mosaic-31.png",
       "nx": 0.5456,
-      "ny": 0.7320
+      "ny": 0.732
     },
     {
       "id": "monkey-mosaic-32",
@@ -19995,5 +19995,13 @@
       "nx": 0.2012,
       "ny": 0.615
     }
-  ]
+  ],
+  "promo": {
+    "id": "leonida-log-1-1",
+    "appStoreID": "6795327732",
+    "title": "Leonida Log",
+    "body": "From the maker of Vinewood Vault: the GTA 6 map and countdown, with a 100% tracker ready for launch day.",
+    "icon": "PromoLeonidaLog",
+    "iconURL": "https://vinewoodvault.djr.li/images/promo/leonida-log-icon.png"
+  }
 }

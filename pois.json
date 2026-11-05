@@ -1,5 +1,5 @@
 {
-  "version": 111,
+  "version": 112,
   "categories": [
     {
       "id": "missions",
@@ -20002,6 +20002,8 @@
     "title": "Leonida Log",
     "body": "From the maker of Vinewood Vault: the GTA 6 map and countdown, with a 100% tracker ready for launch day.",
     "icon": "PromoLeonidaLog",
-    "iconURL": "https://vinewoodvault.djr.li/images/promo/leonida-log-icon.png"
+    "iconURL": "https://vinewoodvault.djr.li/images/promo/leonida-log-icon.png",
+    "campaignToken": "vv-promo",
+    "providerToken": "121683099"
   }
 }

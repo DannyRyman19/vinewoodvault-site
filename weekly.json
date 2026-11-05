@@ -1,263 +1,85 @@
 {
-  "version": 6,
-  "week": "2026-10-29",
-  "startsAt": "2026-10-29T10:00:00Z",
-  "endsAt": "2026-11-05T10:00:00Z",
-  "headline": "GTA Online Event Week: Halloween Event Ends (October 29th-November 4th)",
-  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-ends-october-29th-november-4th/",
+  "version": 7,
+  "week": "2026-11-05",
+  "startsAt": "2026-11-05T10:00:00Z",
+  "endsAt": "2026-11-12T10:00:00Z",
+  "headline": "Take Down the Kortz Center and More High-Value Targets in This Week's Heist Event",
+  "sourceURL": "https://www.rockstargames.com/newswire/article/4k17a844oakk5o/take-down-the-kortz-center-and-more-high-value-targets-in-this-week-s",
   "bonuses": [
     {
-      "activity": "Halloween Featured Series: Slasher, Ramius: Slasher",
-      "reward": "3x GTA$ and RP"
+      "activity": "Original Heists, Doomsday Heist, Diamond Casino Heist",
+      "reward": "2X GTA$ first-time completion"
     },
     {
-      "activity": "Halloween Survivals",
-      "reward": "3x GTA$ and RP (6x for GTA+ Members)"
+      "activity": "KnoWay Out",
+      "reward": "2X GTA$"
     },
     {
-      "activity": "San Andreas Super Sport Series",
-      "reward": "3x GTA$ and RP"
+      "activity": "Contact Missions",
+      "reward": "2X GTA$ and RP"
     },
     {
-      "activity": "Community Mission Series",
-      "reward": "3x GTA$ and RP"
+      "activity": "Freemode Challenges",
+      "reward": "4X GTA$ and RP"
     },
     {
-      "activity": "Bail Office Targets",
-      "reward": "2x GTA$ and RP"
+      "activity": "Stunt Race Series",
+      "reward": "3X GTA$ and RP"
     },
     {
-      "activity": "Dispatch Work",
-      "reward": "2x GTA$ and RP"
+      "activity": "Sumo (Remix)",
+      "reward": "2X GTA$ and RP"
     },
     {
-      "activity": "UFO Business Battles",
-      "reward": "2x GTA$ and RP"
-    },
-    {
-      "activity": "Jack O' Lanterns",
-      "reward": "2x GTA$ (4x for GTA+ Members)"
-    },
-    {
-      "activity": "Ghosts Exposed",
-      "reward": "2x GTA$ (4x for GTA+ Members)"
+      "activity": "Community Series",
+      "reward": "3X GTA$ and RP"
     }
   ],
-  "sourceName": "RockstarINTEL",
+  "sourceName": "Rockstar Newswire",
   "discounts": [
     {
-      "item": "Agency Properties including Upgrades and Modifications",
+      "item": "High-End Apartment, Casino Penthouse, Facility",
       "amount": "40% off"
     },
     {
-      "item": "Albany Brigham",
+      "item": "Casino Penthouse and Facility Upgrades and Modifications",
       "amount": "40% off"
     },
     {
-      "item": "Albany Fränken Stange",
-      "amount": "40% off"
-    },
-    {
-      "item": "Albany Lurcher",
-      "amount": "40% off"
-    },
-    {
-      "item": "Declasse Tornado Rat Rod",
-      "amount": "40% off"
-    },
-    {
-      "item": "LCC Sanctus",
-      "amount": "40% off"
-    },
-    {
-      "item": "Bravado Gauntlet Classic",
-      "amount": "30% off"
-    },
-    {
-      "item": "Invetero Coquette D10",
-      "amount": "30% off"
-    },
-    {
-      "item": "Karin Futo GTX",
-      "amount": "30% off"
-    },
-    {
-      "item": "MTL Dune",
-      "amount": "30% off"
-    },
-    {
-      "item": "Pegassi Infernus Classic",
-      "amount": "30% off"
-    },
-    {
-      "item": "Shitzu Keitora",
-      "amount": "30% off"
-    },
-    {
-      "item": "Übermacht Zion Classic",
-      "amount": "30% off"
-    },
-    {
-      "item": "Vapid Firebolt ASP",
-      "amount": "30% off"
-    },
-    {
-      "item": "Vapid FMJ",
-      "amount": "30% off"
+      "item": "Grotti Veleno GT",
+      "amount": "25% off"
     }
   ],
   "vehicles": [
     {
-      "kind": "podium",
-      "name": "Progen GP1",
-      "detail": "Daily spin at Casino"
-    },
-    {
-      "kind": "prizeRide",
-      "name": "Karin Previon",
-      "detail": "Top 5 in LS Car Meet Race 2 days in a row"
-    },
-    {
-      "kind": "testRide",
-      "name": "Maibatsu MonstroCiti",
-      "detail": "Premium Test Ride"
+      "kind": "free",
+      "name": "Grotti Itali RSX",
+      "detail": "Claim for GTA+ Members through December 9"
     },
     {
       "kind": "other",
-      "name": "Declasse Vamos",
-      "detail": "Test Track"
-    },
-    {
-      "kind": "other",
-      "name": "Dewbauchee Seven-70",
-      "detail": "Test Track"
-    },
-    {
-      "kind": "other",
-      "name": "Ocelot Locust",
-      "detail": "Test Track"
+      "name": "Panther Statue",
+      "detail": "Guaranteed in Cayo Perico Heist first approach"
     }
   ],
   "rewards": [
     {
-      "item": "Brown Vintage Skull Mask",
-      "how": "Play through November 4"
+      "item": "The Outcome of Endeavour",
+      "how": "Complete Kortz Center Heist"
     },
     {
-      "item": "Halloween Chute Bag",
-      "how": "Play through November 4"
-    },
-    {
-      "item": "GTA$2,000,000",
-      "how": "Complete all Weekly Challenges by November 4"
-    },
-    {
-      "item": "Día de Muertos Tee",
-      "how": "Log in"
-    },
-    {
-      "item": "Maritime Calaca Mask",
-      "how": "Log in"
-    },
-    {
-      "item": "Royal Calaca Mask",
-      "how": "Log in"
-    },
-    {
-      "item": "Slasher Clown Outfit",
-      "how": "Complete 10 waves in Survival without dying"
+      "item": "The Great Circle Back artwork",
+      "how": "Play anytime through November 11"
     }
   ],
-  "gunVan": [
-    {
-      "item": "Knife",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "El Strickler",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Combat Shotgun",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Precision Rifle",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Up-n-Atomizer",
-      "deal": "10% off",
-      "plusDeal": "50% off"
-    },
-    {
-      "item": "Unholy Hellbringer",
-      "deal": "10% off",
-      "plusDeal": "50% off"
-    },
-    {
-      "item": "Widowmaker",
-      "deal": "10% off",
-      "plusDeal": "50% off"
-    },
-    {
-      "item": "Service Carbine",
-      "deal": "30% off",
-      "plusDeal": "30% off"
-    },
-    {
-      "item": "Baseball Bat",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "The Shocker",
-      "deal": "Free"
-    },
-    {
-      "item": "Pipe Bombs",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Super Light Armor",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Light Armor",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Standard Armor",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Heavy Armor",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Super Heavy Armor",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    }
-  ],
+  "gunVan": [],
   "gtaPlus": [
-    "2 Lucky Wheel spins every 24 hours",
-    "6x GTA$ and RP on Halloween Survivals",
-    "4x GTA$ and RP on Jack O' Lanterns",
-    "4x GTA$ and RP on Ghosts Exposed"
+    "Contact Missions pay 4X GTA$ and RP",
+    "Grotti Itali RSX free through December 9"
   ],
   "notes": [
-    "Halloween event concludes November 4",
-    "Kortz Center Heist has new Primary Targets and reset bonus",
-    "Returning Halloween modes: Slashers, Clone Slasher, Phantom Car, Cerberus Surprise, Possessed Animals"
+    "Kortz Center Heist inaugural event this week",
+    "KnoWay Out pays 2X GTA$ November 5-11",
+    "Panther Statue guaranteed in Cayo Perico Heist"
   ]
 }

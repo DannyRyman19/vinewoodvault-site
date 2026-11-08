@@ -1,5 +1,5 @@
 {
-  "version": 113,
+  "version": 114,
   "categories": [
     {
       "id": "missions",
@@ -1970,7 +1970,7 @@
       "category": "action-figures",
       "imageURL": "https://vinewoodvault.djr.li/images/action-figures/action-figure-072.jpg",
       "note": "Behind the Liquor Ace store.",
-      "region": "Little Seoul",
+      "region": "Sandy Shores",
       "videoURL": "https://www.youtube.com/watch?v=K19ap2onKa8&t=2259s",
       "nx": 0.5667,
       "ny": 0.3836
@@ -6109,6 +6109,7 @@
       "region": "RON Alternates Wind Farm",
       "note": "Inside Coveted Cove, east of the RON Alternates Wind Farm.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-24.png",
+      "underwater": true,
       "nx": 0.7018,
       "ny": 0.4967
     },
@@ -6360,7 +6361,7 @@
       "category": "letter-scraps",
       "videoURL": "https://www.youtube.com/watch?v=Dh7UtspzP70&t=1622s",
       "region": "Tongva Valley",
-      "note": "Fruit stall near the With a Paddle white water activity center in Richman Glen.",
+      "note": "By the notice board near the With a Paddle white water activity center in Richman Glen.",
       "imageURL": "https://vinewoodvault.djr.li/images/letter-scraps/letter-scrap-47.png",
       "nx": 0.3329,
       "ny": 0.5529
@@ -8879,7 +8880,7 @@
       "note": "Underwater cave in Paleto Cove, north of the tree that sits north of Sonar Collections Dock.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=109s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-01.png",
-      "region": "Los Santos",
+      "region": "Paleto Cove",
       "nx": 0.3531,
       "ny": 0.2078
     },
@@ -8890,7 +8891,7 @@
       "note": "West of Paleto Forest beach.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=148s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-02.png",
-      "region": "Elysian Island",
+      "region": "Paleto Forest",
       "nx": 0.3369,
       "ny": 0.164
     },
@@ -8901,7 +8902,7 @@
       "note": "West of the wooden jetty in Paleto Bay.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=187s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-03.png",
-      "region": "Pacific Bluffs",
+      "region": "Paleto Bay",
       "nx": 0.3876,
       "ny": 0.1421
     },
@@ -8912,7 +8913,7 @@
       "note": "North of Procopio Beach. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=229s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-04.png",
-      "region": "Alamo Sea",
+      "region": "Procopio Beach",
       "nx": 0.5533,
       "ny": 0.1147
     },
@@ -8923,7 +8924,7 @@
       "note": "North of Procopio Beach. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=322s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-05.png",
-      "region": "Chumash",
+      "region": "Procopio Beach",
       "nx": 0.5687,
       "ny": 0.1166
     },
@@ -8934,7 +8935,7 @@
       "note": "North of Procopio Beach. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=380s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-06.png",
-      "region": "Vespucci Beach",
+      "region": "Procopio Beach",
       "nx": 0.5912,
       "ny": 0.1133
     },
@@ -8945,7 +8946,7 @@
       "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=470s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-07.png",
-      "region": "Del Perro",
+      "region": "Mount Gordo",
       "nx": 0.6559,
       "ny": 0.1098
     },
@@ -8956,7 +8957,7 @@
       "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=553s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-08.png",
-      "region": "Paleto Bay",
+      "region": "Mount Gordo",
       "nx": 0.6832,
       "ny": 0.1151
     },
@@ -8967,7 +8968,7 @@
       "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=654s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-09.png",
-      "region": "Cape Catfish",
+      "region": "Mount Gordo",
       "nx": 0.6936,
       "ny": 0.1414
     },
@@ -8978,7 +8979,7 @@
       "note": "North of Mount Gordo. One of four barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=699s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-10.png",
-      "region": "Los Santos",
+      "region": "Mount Gordo",
       "nx": 0.6942,
       "ny": 0.1488
     },
@@ -8987,7 +8988,7 @@
       "title": "Nuclear Waste 11",
       "category": "nuclear-waste",
       "note": "East of Humane Labs and Research. One of three barrels grouped here.",
-      "region": "Chumash",
+      "region": "Humane Labs and Research",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=753s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-11.png",
       "nx": 0.7803,
@@ -9000,7 +9001,7 @@
       "note": "East of Humane Labs and Research. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=792s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-12.png",
-      "region": "Puerto Del Sol",
+      "region": "Humane Labs and Research",
       "nx": 0.7704,
       "ny": 0.3652
     },
@@ -9011,7 +9012,7 @@
       "note": "East of Humane Labs and Research. One of three barrels grouped here.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=792s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-13.png",
-      "region": "Alamo Sea",
+      "region": "Humane Labs and Research",
       "nx": 0.7645,
       "ny": 0.3712
     },
@@ -9022,7 +9023,7 @@
       "note": "Northwest of the large island east of Palomino Highlands.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=848s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-14.png",
-      "region": "Elysian Island",
+      "region": "Palomino Highlands",
       "nx": 0.6754,
       "ny": 0.7781
     },
@@ -9033,7 +9034,7 @@
       "note": "Southeast of the large island east of Palomino Highlands.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=877s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-15.png",
-      "region": "Pacific Bluffs",
+      "region": "Palomino Highlands",
       "nx": 0.7022,
       "ny": 0.8134
     },
@@ -9044,7 +9045,7 @@
       "note": "South of Palomino Highlands.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=977s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-16.png",
-      "region": "Chumash",
+      "region": "Palomino Highlands",
       "nx": 0.6542,
       "ny": 0.8701
     },
@@ -9053,7 +9054,7 @@
       "title": "Nuclear Waste 17",
       "category": "nuclear-waste",
       "note": "Southwest of Palomino Highlands.",
-      "region": "Vespucci Beach",
+      "region": "Palomino Highlands",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1056s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-17.png",
       "nx": 0.6267,
@@ -9066,7 +9067,7 @@
       "note": "At the plane crash site south of Palomino Highlands and east of Terminal.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1097s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-18.png",
-      "region": "Del Perro",
+      "region": "Palomino Highlands",
       "nx": 0.6032,
       "ny": 0.9213
     },
@@ -9077,7 +9078,7 @@
       "note": "Under the Pleasure Pier at the end of Del Perro Pier.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1137s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-19.png",
-      "region": "Paleto Bay",
+      "region": "Del Perro Pier",
       "nx": 0.3016,
       "ny": 0.7817
     },
@@ -9088,7 +9089,7 @@
       "note": "Northwest of Del Perro Pier. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1177s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-20.png",
-      "region": "Cape Catfish",
+      "region": "Del Perro Pier",
       "nx": 0.2947,
       "ny": 0.7682
     },
@@ -9099,7 +9100,7 @@
       "note": "Northwest of Del Perro Pier. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1216s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-21.png",
-      "region": "Los Santos",
+      "region": "Del Perro Pier",
       "nx": 0.2678,
       "ny": 0.7602
     },
@@ -9108,7 +9109,7 @@
       "title": "Nuclear Waste 22",
       "category": "nuclear-waste",
       "note": "West of the Pipeline Inn in Pacific Bluffs.",
-      "region": "Chumash",
+      "region": "Pacific Bluffs",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1271s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-22.png",
       "nx": 0.2368,
@@ -9121,7 +9122,7 @@
       "note": "South of Pacific Bluffs Country Club.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1311s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-23.png",
-      "region": "Puerto Del Sol",
+      "region": "Pacific Bluffs",
       "nx": 0.2052,
       "ny": 0.6885
     },
@@ -9132,7 +9133,7 @@
       "note": "South of Chumash Historic Family Pier.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1352s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-24.png",
-      "region": "Alamo Sea",
+      "region": "Chumash",
       "nx": 0.1737,
       "ny": 0.6082
     },
@@ -9143,7 +9144,7 @@
       "note": "Southwest of the RON gas station in Lago Zancudo.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1381s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-25.png",
-      "region": "Elysian Island",
+      "region": "Lago Zancudo",
       "nx": 0.1919,
       "ny": 0.4989
     },
@@ -9154,7 +9155,7 @@
       "note": "South of the Fort Zancudo runway end.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1426s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-26.png",
-      "region": "Pacific Bluffs",
+      "region": "Fort Zancudo",
       "nx": 0.2093,
       "ny": 0.4476
     },
@@ -9165,7 +9166,7 @@
       "note": "Southwest of the Fort Zancudo runway end.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1458s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-27.png",
-      "region": "Chumash",
+      "region": "Fort Zancudo",
       "nx": 0.177,
       "ny": 0.423
     },
@@ -9174,7 +9175,7 @@
       "title": "Nuclear Waste 28",
       "category": "nuclear-waste",
       "note": "West of the Fort Zancudo runway end.",
-      "region": "Vespucci Beach",
+      "region": "Fort Zancudo",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1503s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-28.png",
       "nx": 0.1895,
@@ -9187,7 +9188,7 @@
       "note": "West of North Chumash. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1552s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-29.png",
-      "region": "Del Perro",
+      "region": "North Chumash",
       "nx": 0.2197,
       "ny": 0.3408
     },
@@ -9198,7 +9199,7 @@
       "note": "West of North Chumash. One of two barrels close together.",
       "videoURL": "https://www.youtube.com/watch?v=Bv6t-6PzD5g&t=1552s",
       "imageURL": "https://vinewoodvault.djr.li/images/nuclear-waste/nuclear-waste-30.png",
-      "region": "Paleto Bay",
+      "region": "North Chumash",
       "nx": 0.2207,
       "ny": 0.3065
     },
@@ -13387,7 +13388,7 @@
       "title": "Peyote Plant 4",
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=346s",
-      "region": "Land",
+      "region": "Sea",
       "note": "In the water off the edge of the pier. Hard to see down there, so home in on the plant's audio cue.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-04.jpg",
       "underwater": true,
@@ -13432,7 +13433,7 @@
       "title": "Peyote Plant 8",
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=835s",
-      "region": "Air",
+      "region": "Sea",
       "note": "On the small island east of the NOOSE headquarters. Take a boat; there are sharks in the water.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-08.jpg",
       "nx": 0.7243,
@@ -16491,7 +16492,7 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=1956s",
       "region": "Raton Canyon",
-      "note": "Under the Raton Canyon bridge, near the waterfall.",
+      "note": "On top of the arch under the Raton Canyon bridge. Land a helicopter on the arch to reach it.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-41.png",
       "nx": 0.2895,
       "ny": 0.3085
@@ -19149,7 +19150,7 @@
       "title": "Submarine Piece 1",
       "category": "submarine-pieces",
       "videoURL": "https://www.youtube.com/watch?v=5QczQZo8ZQU&t=290s",
-      "region": "Grand Senora Desert coast",
+      "region": "Paleto Bay",
       "note": "At the FlyUS plane crash site in the ocean west of Paleto Bay.",
       "imageURL": "https://vinewoodvault.djr.li/images/submarine-pieces/submarine-piece-01.png",
       "nx": 0.3855,
@@ -19160,7 +19161,7 @@
       "title": "Submarine Piece 2",
       "category": "submarine-pieces",
       "videoURL": "https://www.youtube.com/watch?v=5QczQZo8ZQU&t=290s",
-      "region": "Grand Senora Desert coast",
+      "region": "Paleto Bay",
       "note": "At the FlyUS plane crash site in the ocean west of Paleto Bay.",
       "imageURL": "https://vinewoodvault.djr.li/images/submarine-pieces/submarine-piece-02.png",
       "nx": 0.3855,
@@ -19171,7 +19172,7 @@
       "title": "Submarine Piece 3",
       "category": "submarine-pieces",
       "videoURL": "https://www.youtube.com/watch?v=5QczQZo8ZQU&t=290s",
-      "region": "Grand Senora Desert coast",
+      "region": "Paleto Bay",
       "note": "At the FlyUS plane crash site in the ocean west of Paleto Bay.",
       "imageURL": "https://vinewoodvault.djr.li/images/submarine-pieces/submarine-piece-03.png",
       "nx": 0.3849,
@@ -19457,7 +19458,7 @@
       "title": "Submarine Piece 29",
       "category": "submarine-pieces",
       "videoURL": "https://www.youtube.com/watch?v=5QczQZo8ZQU&t=1481s",
-      "region": "North Chumash",
+      "region": "Mount Gordo",
       "note": "At the cropduster wreck north of Mount Gordo.",
       "imageURL": "https://vinewoodvault.djr.li/images/submarine-pieces/submarine-piece-29.png",
       "nx": 0.7174,
@@ -19468,7 +19469,7 @@
       "title": "Submarine Piece 30",
       "category": "submarine-pieces",
       "videoURL": "https://www.youtube.com/watch?v=5QczQZo8ZQU&t=1481s",
-      "region": "North Chumash",
+      "region": "Mount Gordo",
       "note": "At the cropduster wreck north of Mount Gordo.",
       "imageURL": "https://vinewoodvault.djr.li/images/submarine-pieces/submarine-piece-30.png",
       "nx": 0.7162,

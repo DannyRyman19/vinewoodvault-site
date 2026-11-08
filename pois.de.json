@@ -3749,9 +3749,9 @@
   "poi.spaceship-part-01.title": "Raumschiffteil 1",
   "poi.spaceship-part-01.note": "Hinter dem südlichsten Hangar am Los Santos International Airport.",
   "poi.spaceship-part-02.title": "Raumschiffteil 2",
-  "poi.spaceship-part-02.note": "Auf dem Rohr, das die beiden kuppelförmigen Gastanks der Los Santos State Gas Company auf Elysian Island verbindet.",
+  "poi.spaceship-part-02.note": "Unter Wasser in der Südostecke des Los Santos Naval Port.",
   "poi.spaceship-part-03.title": "Raumschiffteil 3",
-  "poi.spaceship-part-03.note": "Unter Wasser in der Südostecke des Los Santos Naval Port.",
+  "poi.spaceship-part-03.note": "Auf dem Rohr, das die beiden kuppelförmigen Gastanks der Los Santos State Gas Company auf Elysian Island verbindet.",
   "poi.spaceship-part-04.title": "Raumschiffteil 4",
   "poi.spaceship-part-04.note": "Bei den Rancho Towers an der Dutch London Street, Süd-Rancho.",
   "poi.spaceship-part-05.title": "Raumschiffteil 5",
@@ -4372,5 +4372,7 @@
   "poi.under-bridge-49.title": "Unter der Brücke 49",
   "poi.under-bridge-49.note": "Viadukt des Ocean Highway über einen Küstenfluss, North Chumash. Hubschrauber.",
   "poi.under-bridge-50.title": "Unter der Brücke 50",
-  "poi.under-bridge-50.note": "Fußgängerbrücke über die Küstenstraße, Pacific Bluffs. Flugzeug oder Hubschrauber."
+  "poi.under-bridge-50.note": "Fußgängerbrücke über die Küstenstraße, Pacific Bluffs. Flugzeug oder Hubschrauber.",
+  "promo.title": "Leonida Log",
+  "promo.body": "Vom Macher von Vinewood Vault: die GTA-6-Karte und der Countdown, mit einem 100-%-Tracker, bereit für den Release."
 }

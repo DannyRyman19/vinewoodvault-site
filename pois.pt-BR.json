@@ -2774,9 +2774,9 @@
   "poi.spaceship-part-01.title": "Peça da Nave Espacial 1",
   "poi.spaceship-part-01.note": "Atrás do hangar mais ao sul do Los Santos International Airport.",
   "poi.spaceship-part-02.title": "Peça da Nave Espacial 2",
-  "poi.spaceship-part-02.note": "Em cima do cano que liga os dois tanques de gás em forma de cúpula da Los Santos State Gas Company, em Elysian Island.",
+  "poi.spaceship-part-02.note": "Debaixo d'água no canto sudeste do Los Santos Naval Port.",
   "poi.spaceship-part-03.title": "Peça da Nave Espacial 3",
-  "poi.spaceship-part-03.note": "Debaixo d'água no canto sudeste do Los Santos Naval Port.",
+  "poi.spaceship-part-03.note": "Em cima do cano que liga os dois tanques de gás em forma de cúpula da Los Santos State Gas Company, em Elysian Island.",
   "poi.spaceship-part-04.title": "Peça da Nave Espacial 4",
   "poi.spaceship-part-04.note": "Nas Rancho Towers na Dutch London Street, no sul de Rancho.",
   "poi.spaceship-part-05.title": "Peça da Nave Espacial 5",
@@ -3336,5 +3336,7 @@
   "poi.under-bridge-49.title": "Sob a Ponte 49",
   "poi.under-bridge-49.note": "Viaduto da Ocean Highway sobre um rio costeiro, em North Chumash. Helicóptero.",
   "poi.under-bridge-50.title": "Sob a Ponte 50",
-  "poi.under-bridge-50.note": "Passarela de pedestres sobre a rodovia costeira, em Pacific Bluffs. Avião ou helicóptero."
+  "poi.under-bridge-50.note": "Passarela de pedestres sobre a rodovia costeira, em Pacific Bluffs. Avião ou helicóptero.",
+  "promo.title": "Leonida Log",
+  "promo.body": "Do criador do Vinewood Vault: o mapa e a contagem regressiva de GTA 6, com um rastreador de 100% pronto para o lançamento."
 }

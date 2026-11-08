@@ -3749,9 +3749,9 @@
   "poi.spaceship-part-01.title": "Pièce de vaisseau spatial 1",
   "poi.spaceship-part-01.note": "Derrière le hangar le plus au sud de l'aéroport international de Los Santos.",
   "poi.spaceship-part-02.title": "Pièce de vaisseau spatial 2",
-  "poi.spaceship-part-02.note": "Sur le tuyau qui relie les deux réservoirs de gaz en forme de dôme de la Los Santos State Gas Company, sur Elysian Island.",
+  "poi.spaceship-part-02.note": "Sous l'eau, à l'angle sud-est du Los Santos Naval Port.",
   "poi.spaceship-part-03.title": "Pièce de vaisseau spatial 3",
-  "poi.spaceship-part-03.note": "Sous l'eau, à l'angle sud-est du Los Santos Naval Port.",
+  "poi.spaceship-part-03.note": "Sur le tuyau qui relie les deux réservoirs de gaz en forme de dôme de la Los Santos State Gas Company, sur Elysian Island.",
   "poi.spaceship-part-04.title": "Pièce de vaisseau spatial 4",
   "poi.spaceship-part-04.note": "Aux Rancho Towers sur Dutch London Street, au sud de Rancho.",
   "poi.spaceship-part-05.title": "Pièce de vaisseau spatial 5",
@@ -4372,5 +4372,7 @@
   "poi.under-bridge-49.title": "Sous le pont 49",
   "poi.under-bridge-49.note": "Viaduc de l'Ocean Highway au-dessus d'une rivière côtière, à North Chumash. Hélicoptère.",
   "poi.under-bridge-50.title": "Sous le pont 50",
-  "poi.under-bridge-50.note": "Passerelle piétonne au-dessus de la route côtière, à Pacific Bluffs. Avion ou hélicoptère."
+  "poi.under-bridge-50.note": "Passerelle piétonne au-dessus de la route côtière, à Pacific Bluffs. Avion ou hélicoptère.",
+  "promo.title": "Leonida Log",
+  "promo.body": "Par le créateur de Vinewood Vault : la carte et le compte à rebours de GTA 6, avec un suivi des 100 % prêt pour la sortie."
 }

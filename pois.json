@@ -1,5 +1,5 @@
 {
-  "version": 112,
+  "version": 113,
   "categories": [
     {
       "id": "missions",
@@ -16057,8 +16057,9 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=224s",
       "region": "Elysian Island",
-      "note": "On top of the pipe connecting the two dome-shaped gas tanks at the Los Santos State Gas Company, Elysian Island.",
+      "note": "Underwater in the southeast corner of the Los Santos Naval Port.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-02.png",
+      "underwater": true,
       "nx": 0.5036,
       "ny": 0.9414
     },
@@ -16068,9 +16069,8 @@
       "category": "spaceship-parts",
       "videoURL": "https://www.youtube.com/watch?v=FcQe3P0L5FE&t=276s",
       "region": "Elysian Island",
-      "note": "Underwater in the southeast corner of the Los Santos Naval Port.",
+      "note": "On top of the pipe connecting the two dome-shaped gas tanks at the Los Santos State Gas Company, Elysian Island.",
       "imageURL": "https://vinewoodvault.djr.li/images/spaceship-parts/spaceship-part-03.png",
-      "underwater": true,
       "nx": 0.48,
       "ny": 0.9026
     },

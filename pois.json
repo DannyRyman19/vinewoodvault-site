@@ -1,5 +1,5 @@
 {
-  "version": 114,
+  "version": 115,
   "categories": [
     {
       "id": "missions",
@@ -676,7 +676,7 @@
       "category": "achievements",
       "note": "Buy the abandoned dock and gather up every barrel of nuclear waste.",
       "subgroup": "Single Player - Bronze",
-      "tallyTarget": 30,
+      "tallyTarget": 31,
       "linkedCategories": [
         "nuclear-waste"
       ],
@@ -1071,9 +1071,9 @@
       "title": "Cryptozoologist",
       "category": "achievements",
       "note": "Unlock every animal actor available for Director Mode.",
-      "guide": "Only the land and air Peyote Plants count - eating one of the 5 underwater ones turns you into a sea creature, and Director Mode has no actor for those, so they don't contribute here.",
+      "guide": "Only the land and air Peyote Plants count - eating one of the 6 underwater ones turns you into a sea creature, and Director Mode has no actor for those, so they don't contribute here.",
       "subgroup": "Single Player - Director Mode DLC - Silver",
-      "tallyTarget": 22,
+      "tallyTarget": 21,
       "linkedCategories": [
         "peyote-plants"
       ]
@@ -13433,7 +13433,7 @@
       "title": "Peyote Plant 8",
       "category": "peyote-plants",
       "videoURL": "https://www.youtube.com/watch?v=JLO06llBFyY&t=835s",
-      "region": "Sea",
+      "region": "Air",
       "note": "On the small island east of the NOOSE headquarters. Take a boat; there are sharks in the water.",
       "imageURL": "https://vinewoodvault.djr.li/images/peyote-plants/peyote-plant-08.jpg",
       "nx": 0.7243,

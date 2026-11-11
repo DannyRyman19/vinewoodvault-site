@@ -1,255 +1,208 @@
 {
-  "version": 2,
-  "week": "2026-10-22",
-  "startsAt": "2026-10-22T09:00:00Z",
-  "endsAt": "2026-10-29T10:00:00Z",
-  "headline": "GTA Online Event Week: Halloween Event (October 22nd-28th)",
-  "sourceURL": "https://rockstarintel.com/gta-online-event-week-halloween-event-october-22nd-28th/",
+  "version": 3,
+  "week": "2026-11-12",
+  "startsAt": "2026-11-12T10:00:00Z",
+  "endsAt": "2026-11-19T10:00:00Z",
+  "headline": "GTA Online Event Week: Last One Before GTA 6 (November 12th-18th)",
+  "sourceURL": "https://rockstarintel.com/gta-online-event-week-the-heist-event-november-12th-18th/",
   "bonuses": [
     {
-      "activity": "Halloween Featured Series: Slasher, Ramius: Slasher",
-      "reward": "3x GTA$ and RP"
+      "activity": "Freemode Challenges",
+      "reward": "4X GTA$ and RP"
     },
     {
-      "activity": "Halloween Survivals: Ludendorff Cemetery, Cayo Perico, Alien Survivals",
-      "reward": "3x GTA$ and RP"
+      "activity": "Stunt Race Series",
+      "reward": "3X GTA$ and RP"
     },
     {
-      "activity": "San Andreas Super Sport Series: Hotring Races, Transform Races",
-      "reward": "3x GTA$ and RP"
+      "activity": "Community Series",
+      "reward": "3X GTA$ and RP"
     },
     {
-      "activity": "Community Mission Series",
-      "reward": "3x GTA$ and RP"
+      "activity": "All Contact Missions",
+      "reward": "2X GTA$ and RP"
     },
     {
-      "activity": "Bail Office Standard and Most Wanted Targets",
-      "reward": "2x GTA$ and RP"
+      "activity": "Sumo (Remix)",
+      "reward": "2X GTA$ and RP"
     },
     {
-      "activity": "Dispatch Work",
-      "reward": "2x GTA$ and RP"
-    },
-    {
-      "activity": "UFO Business Battles",
-      "reward": "2x GTA$ and RP"
-    },
-    {
-      "activity": "Jack O' Lanterns",
-      "reward": "2x GTA$ and RP"
-    },
-    {
-      "activity": "Ghosts Exposed",
-      "reward": "2x GTA$"
+      "activity": "FIB Priority File: The Brute Force File",
+      "reward": "2X GTA$"
     }
   ],
   "sourceName": "RockstarINTEL",
   "discounts": [
     {
-      "item": "Agency Properties including Upgrades and Modifications",
-      "amount": "40% off"
-    },
-    {
-      "item": "Albany Brigham",
-      "amount": "40% off"
-    },
-    {
-      "item": "Albany Fränken Stange",
-      "amount": "40% off"
-    },
-    {
-      "item": "Albany Lurcher",
-      "amount": "40% off"
-    },
-    {
-      "item": "Declasse Tornado Rat Rod",
-      "amount": "40% off"
-    },
-    {
-      "item": "LCC Sanctus",
-      "amount": "40% off"
-    },
-    {
-      "item": "Annis Euros X32",
+      "item": "Canis Castigator",
       "amount": "30% off"
     },
     {
-      "item": "Bravado Dorado",
+      "item": "Declasse Hotring Sabre",
       "amount": "30% off"
     },
     {
-      "item": "Canis Freecrawler",
+      "item": "Declasse Impaler LX",
       "amount": "30% off"
     },
     {
-      "item": "Dinka Veto Classic",
+      "item": "Declasse Tahoma Coupe",
       "amount": "30% off"
     },
     {
-      "item": "HVY Dump",
+      "item": "Dewbauchee Vagner",
       "amount": "30% off"
     },
     {
-      "item": "Karin Boor",
+      "item": "Karin Vivanite",
       "amount": "30% off"
     },
     {
-      "item": "Ocelot Swinger",
+      "item": "MTL Wastelander",
       "amount": "30% off"
     },
     {
-      "item": "Pfister Astron",
+      "item": "Obey I-Wagen",
       "amount": "30% off"
     },
     {
-      "item": "Vapid Desert Raid",
+      "item": "Obey Tailgater S",
       "amount": "30% off"
     },
     {
-      "item": "Vulcar Nebula Turbo",
+      "item": "Übermacht Rebla GTS",
       "amount": "30% off"
     }
   ],
   "vehicles": [
     {
       "kind": "podium",
-      "name": "Pfister Comet S2",
+      "name": "Karin Everon",
       "detail": "Lucky Wheel spin"
     },
     {
       "kind": "prizeRide",
-      "name": "Grotti Itali Classic",
-      "detail": "Top 2 in LS Car Meet Race for 2 days"
+      "name": "Western Powersurge",
+      "detail": "Top 4 in LS Car Meet Race for 2 days in a row"
     },
     {
       "kind": "testRide",
-      "name": "Maibatsu MonstroCiti",
+      "name": "Weeny Issi Rally",
       "detail": "Hao Premium Test Ride"
     },
     {
       "kind": "testRide",
-      "name": "Declasse Vamos",
+      "name": "Übermacht Rebla GTS",
       "detail": "Test Track"
     },
     {
       "kind": "testRide",
-      "name": "Dewbauchee Seven-70",
+      "name": "Declasse Impaler LX",
       "detail": "Test Track"
     },
     {
       "kind": "testRide",
-      "name": "Ocelot Locust",
+      "name": "Obey I-Wagen",
       "detail": "Test Track"
+    },
+    {
+      "kind": "other",
+      "name": "Declasse Tampa GT",
+      "detail": "Luxury Autos showroom"
+    },
+    {
+      "kind": "other",
+      "name": "Pfister Astrale",
+      "detail": "Luxury Autos showroom"
     }
   ],
   "rewards": [
     {
-      "item": "White & Red Tech Demon Mask",
-      "how": "Play through October 28"
+      "item": "GTA$400,000",
+      "how": "Complete the Kortz Center Heist without dying"
     },
     {
-      "item": "GTA$500,000",
-      "how": "Complete all three Short Trips by October 28"
-    },
-    {
-      "item": "GTA$2,000,000",
-      "how": "Complete all Weekly Challenges by November 4"
-    },
-    {
-      "item": "Gray Interloper Outfit",
-      "how": "Complete all waves of a Survival"
+      "item": "GTA$100,000",
+      "how": "Weekly Challenge: win two Stunt Races"
     }
   ],
   "gunVan": [
     {
-      "item": "Knife",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "El Strickler",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Combat Shotgun",
-      "deal": "10% off",
-      "plusDeal": "20% off"
-    },
-    {
-      "item": "Precision Rifle",
+      "item": "Stun Gun",
       "deal": "10% off",
       "plusDeal": "20% off"
     },
     {
       "item": "Up-n-Atomizer",
       "deal": "10% off",
-      "plusDeal": "50% off"
+      "plusDeal": "20% off"
     },
     {
-      "item": "Unholy Hellbringer",
+      "item": "Tactical SMG",
+      "deal": "40% off",
+      "plusDeal": "40% off"
+    },
+    {
+      "item": "Combat Shotgun",
       "deal": "10% off",
-      "plusDeal": "50% off"
+      "plusDeal": "40% off"
     },
     {
-      "item": "Widowmaker",
-      "deal": "10% off",
-      "plusDeal": "50% off"
-    },
-    {
-      "item": "Service Carbine",
-      "deal": "30% off",
-      "plusDeal": "30% off"
+      "item": "Knife",
+      "deal": "Free"
     },
     {
       "item": "Baseball Bat",
+      "deal": "Free"
+    },
+    {
+      "item": "Sticky Bombs",
       "deal": "10% off",
       "plusDeal": "20% off"
     },
     {
-      "item": "The Shocker",
-      "deal": "Free"
+      "item": "Proximity Mines",
+      "deal": "10% off",
+      "plusDeal": "20% off"
     },
     {
-      "item": "Pipe Bombs",
+      "item": "Molotovs",
       "deal": "10% off",
       "plusDeal": "20% off"
     },
     {
       "item": "Super Light Armor",
       "deal": "10% off",
-      "plusDeal": "20% off"
+      "plusDeal": "80% off"
     },
     {
       "item": "Light Armor",
       "deal": "10% off",
-      "plusDeal": "20% off"
+      "plusDeal": "80% off"
     },
     {
       "item": "Standard Armor",
       "deal": "10% off",
-      "plusDeal": "20% off"
+      "plusDeal": "80% off"
     },
     {
       "item": "Heavy Armor",
       "deal": "10% off",
-      "plusDeal": "20% off"
+      "plusDeal": "80% off"
     },
     {
       "item": "Super Heavy Armor",
       "deal": "10% off",
-      "plusDeal": "20% off"
+      "plusDeal": "80% off"
     }
   ],
   "gtaPlus": [
-    "2 Lucky Wheel spins per 24 hours",
-    "6x GTA$ and RP on Halloween Survivals",
-    "4x GTA$ and RP on Jack O' Lanterns",
-    "4x GTA$ on Ghosts Exposed"
+    "2 Lucky Wheel spins every 24 hours",
+    "Contact Missions pay 4X GTA$ and RP through December 2"
   ],
   "notes": [
-    "Halloween events returning including Slashers, Phantom Car, Possessed Animals",
-    "Kortz Center Heist reset with new Primary Targets and GTA$400,000 no-death bonus",
-    "FIB Priority File The Fine Art File pays double"
+    "Kortz Center Heist has new Primary Targets and its first-completion bonus resets",
+    "Salvage Yard Robberies: Canis Seminole Frontier, Karin Hotring Everon, Grotti Stinger TT",
+    "Premium Race: Down the Drain. Time Trials: Sandy Shores (HSW), Calafia Way"
   ]
 }

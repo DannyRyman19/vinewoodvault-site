@@ -1,23 +1,11 @@
 {
-  "version": 7,
-  "week": "2026-11-05",
-  "startsAt": "2026-11-05T10:00:00Z",
-  "endsAt": "2026-11-12T10:00:00Z",
-  "headline": "Take Down the Kortz Center and More High-Value Targets in This Week's Heist Event",
-  "sourceURL": "https://www.rockstargames.com/newswire/article/4k17a844oakk5o/take-down-the-kortz-center-and-more-high-value-targets-in-this-week-s",
+  "version": 8,
+  "week": "2026-11-12",
+  "startsAt": "2026-11-12T10:00:00Z",
+  "endsAt": "2026-11-19T10:00:00Z",
+  "headline": "GTA Online Event Week: Last One Before GTA 6 (November 12th-18th)",
+  "sourceURL": "https://rockstarintel.com/gta-online-event-week-the-heist-event-november-12th-18th/",
   "bonuses": [
-    {
-      "activity": "Original Heists, Doomsday Heist, Diamond Casino Heist",
-      "reward": "2X GTA$ first-time completion"
-    },
-    {
-      "activity": "KnoWay Out",
-      "reward": "2X GTA$"
-    },
-    {
-      "activity": "Contact Missions",
-      "reward": "2X GTA$ and RP"
-    },
     {
       "activity": "Freemode Challenges",
       "reward": "4X GTA$ and RP"
@@ -27,59 +15,194 @@
       "reward": "3X GTA$ and RP"
     },
     {
+      "activity": "Community Series",
+      "reward": "3X GTA$ and RP"
+    },
+    {
+      "activity": "All Contact Missions",
+      "reward": "2X GTA$ and RP"
+    },
+    {
       "activity": "Sumo (Remix)",
       "reward": "2X GTA$ and RP"
     },
     {
-      "activity": "Community Series",
-      "reward": "3X GTA$ and RP"
+      "activity": "FIB Priority File: The Brute Force File",
+      "reward": "2X GTA$"
     }
   ],
-  "sourceName": "Rockstar Newswire",
+  "sourceName": "RockstarINTEL",
   "discounts": [
     {
-      "item": "High-End Apartment, Casino Penthouse, Facility",
-      "amount": "40% off"
+      "item": "Canis Castigator",
+      "amount": "30% off"
     },
     {
-      "item": "Casino Penthouse and Facility Upgrades and Modifications",
-      "amount": "40% off"
+      "item": "Declasse Hotring Sabre",
+      "amount": "30% off"
     },
     {
-      "item": "Grotti Veleno GT",
-      "amount": "25% off"
+      "item": "Declasse Impaler LX",
+      "amount": "30% off"
+    },
+    {
+      "item": "Declasse Tahoma Coupe",
+      "amount": "30% off"
+    },
+    {
+      "item": "Dewbauchee Vagner",
+      "amount": "30% off"
+    },
+    {
+      "item": "Karin Vivanite",
+      "amount": "30% off"
+    },
+    {
+      "item": "MTL Wastelander",
+      "amount": "30% off"
+    },
+    {
+      "item": "Obey I-Wagen",
+      "amount": "30% off"
+    },
+    {
+      "item": "Obey Tailgater S",
+      "amount": "30% off"
+    },
+    {
+      "item": "Übermacht Rebla GTS",
+      "amount": "30% off"
     }
   ],
   "vehicles": [
     {
-      "kind": "free",
-      "name": "Grotti Itali RSX",
-      "detail": "Claim for GTA+ Members through December 9"
+      "kind": "podium",
+      "name": "Karin Everon",
+      "detail": "Lucky Wheel spin"
+    },
+    {
+      "kind": "prizeRide",
+      "name": "Western Powersurge",
+      "detail": "Top 4 in LS Car Meet Race for 2 days in a row"
+    },
+    {
+      "kind": "testRide",
+      "name": "Weeny Issi Rally",
+      "detail": "Hao Premium Test Ride"
+    },
+    {
+      "kind": "testRide",
+      "name": "Übermacht Rebla GTS",
+      "detail": "Test Track"
+    },
+    {
+      "kind": "testRide",
+      "name": "Declasse Impaler LX",
+      "detail": "Test Track"
+    },
+    {
+      "kind": "testRide",
+      "name": "Obey I-Wagen",
+      "detail": "Test Track"
     },
     {
       "kind": "other",
-      "name": "Panther Statue",
-      "detail": "Guaranteed in Cayo Perico Heist first approach"
+      "name": "Declasse Tampa GT",
+      "detail": "Luxury Autos showroom"
+    },
+    {
+      "kind": "other",
+      "name": "Pfister Astrale",
+      "detail": "Luxury Autos showroom"
     }
   ],
   "rewards": [
     {
-      "item": "The Outcome of Endeavour",
-      "how": "Complete Kortz Center Heist"
+      "item": "GTA$400,000",
+      "how": "Complete the Kortz Center Heist without dying"
     },
     {
-      "item": "The Great Circle Back artwork",
-      "how": "Play anytime through November 11"
+      "item": "GTA$100,000",
+      "how": "Weekly Challenge: win two Stunt Races"
     }
   ],
-  "gunVan": [],
+  "gunVan": [
+    {
+      "item": "Stun Gun",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Up-n-Atomizer",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Tactical SMG",
+      "deal": "40% off",
+      "plusDeal": "40% off"
+    },
+    {
+      "item": "Combat Shotgun",
+      "deal": "10% off",
+      "plusDeal": "40% off"
+    },
+    {
+      "item": "Knife",
+      "deal": "Free"
+    },
+    {
+      "item": "Baseball Bat",
+      "deal": "Free"
+    },
+    {
+      "item": "Sticky Bombs",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Proximity Mines",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Molotovs",
+      "deal": "10% off",
+      "plusDeal": "20% off"
+    },
+    {
+      "item": "Super Light Armor",
+      "deal": "10% off",
+      "plusDeal": "80% off"
+    },
+    {
+      "item": "Light Armor",
+      "deal": "10% off",
+      "plusDeal": "80% off"
+    },
+    {
+      "item": "Standard Armor",
+      "deal": "10% off",
+      "plusDeal": "80% off"
+    },
+    {
+      "item": "Heavy Armor",
+      "deal": "10% off",
+      "plusDeal": "80% off"
+    },
+    {
+      "item": "Super Heavy Armor",
+      "deal": "10% off",
+      "plusDeal": "80% off"
+    }
+  ],
   "gtaPlus": [
-    "Contact Missions pay 4X GTA$ and RP",
-    "Grotti Itali RSX free through December 9"
+    "2 Lucky Wheel spins every 24 hours",
+    "Contact Missions pay 4X GTA$ and RP through December 2"
   ],
   "notes": [
-    "Kortz Center Heist inaugural event this week",
-    "KnoWay Out pays 2X GTA$ November 5-11",
-    "Panther Statue guaranteed in Cayo Perico Heist"
+    "Kortz Center Heist has new Primary Targets and its first-completion bonus resets",
+    "Salvage Yard Robberies: Canis Seminole Frontier, Karin Hotring Everon, Grotti Stinger TT",
+    "Premium Race: Down the Drain. Time Trials: Sandy Shores (HSW), Calafia Way"
   ]
 }
